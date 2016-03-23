@@ -1,0 +1,18 @@
+---
+layout:  post
+title:   "2010-04-12 系內練習賽"
+date:    2010-04-12
+tags:    ["contest | 競賽", "SCPC | 南程盃"]
+feature:
+    photo:       false
+    creator:     
+    url:         
+    license:     
+    license_url: 
+---
+
+今天電子跟 KK 準備了一些題目給進階組和大一組，當作南程盃前系內賽的練習賽。上課前先上了最大流的基本演算法 **Ford-Fulkerson**。之後的練習賽裡面有一題 bipartite match 跟一題 max flow，兩題都是 template 照抄就 AC 了...
+
+再來又解了一題 TSP，這題 TSP 很煩，還要先算所有點對的距離，給的是笛卡兒座標，所以就用 BFS 先做一次就好。之後對有解出一題奇怪的解碼題，一直拿到 PE，改 output 改了好久才終於 AC。暫時拿到取得系內練習賽第一，可是好多人沒比，真沒有什麼參考價值:(
+
+
