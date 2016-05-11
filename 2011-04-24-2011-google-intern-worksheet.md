@@ -7,7 +7,7 @@ feature:
     photo:       true
     photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-04-24-2011-google-intern-worksheet.jpg"
     creator:     "Carlos Luna"
-	url:         "https://www.flickr.com/photos/carlosluna/2856173673"
+    url:         "https://www.flickr.com/photos/carlosluna/2856173673"
     license:     "CC 2.0"
     license_url: "https://creativecommons.org/licenses/by/2.0/"
 ---

@@ -7,7 +7,7 @@ feature:
     photo:       true
     photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-07-22-use-prolog-to-solve-sudoku.jpg"
     creator:     "Jason Cartwright"
-	url:         "https://www.flickr.com/photos/jasoncartwright/130182586"
+    url:         "https://www.flickr.com/photos/jasoncartwright/130182586"
     license:     "CC 2.0"
     license_url: "https://creativecommons.org/licenses/by/2.0/"
 ---
