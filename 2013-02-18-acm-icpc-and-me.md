@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "ACM-ICPC 與我的邂逅"
-date:    2013-02-18
-tags:    ["ACM-ICPC"]
+layout: post
+title:  "ACM-ICPC 與我的邂逅"
+date:   2013-02-18
+tags:   ["ACM-ICPC"]
 feature:
-    photo:       true
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: true
 ---
 
 轉眼間，已經參加了三屆的 ACM-ICPC。雖然每次都去被電爆，但來到這種大場合，心中總會湧起一股莫名的澎湃，總會想要變強。可惜這次還是比很爛，比去年更爛了哈哈。ACM-ICPC 這比賽就這幾年的經驗下來，其實想取得好成績的秘訣只有一個－**練習題目**。持續的練習，實力絕對會持續的進步，但速度不快；但不持續的練習，實力絕對會持續的退步，且速度非常快。不過，練習的題目質量一定要夠高！

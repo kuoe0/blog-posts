@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[POJ] 3767 - I Wanna Go Home"
-date:    2011-11-23
-tags:    ["POJ", "shortest path | 最短路徑", "graph theory | 圖論"]
+layout: post
+title:  "[POJ] 3767 - I Wanna Go Home"
+date:   2011-11-23
+tags:   ["POJ", "shortest path | 最短路徑", "graph theory | 圖論"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 題目網址：[3767 - I Wanna Go Home](http://poj.org/problem?id=3767)

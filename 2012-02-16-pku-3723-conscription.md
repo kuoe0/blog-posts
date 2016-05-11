@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[POJ] 3723 - Conscription"
-date:    2012-02-16
-tags:	   ["POJ", "MST | 最小生成樹", "graph theory | 圖論"]
+layout: post
+title:  "[POJ] 3723 - Conscription"
+date:   2012-02-16
+tags:   ["POJ", "MST | 最小生成樹", "graph theory | 圖論"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 題目網址：[3723 - Conscription](http://poj.org/problem?id=3723)
@@ -47,6 +43,5 @@ Windy 要建立一支軍隊，他選了 **N** 個女孩與 **M** 個男孩。每
 ### Source Code
 
 <script src="https://gist.github.com/KuoE0/1843223.js"></script>
-
 
 Source code on [gist](https://gist.github.com/KuoE0/1843223).

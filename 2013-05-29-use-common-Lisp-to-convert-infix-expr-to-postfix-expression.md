@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "使用 Common Lisp 實現中序運算式轉後序運算式"
-date:    2013-05-29
-tags:    ["Common Lisp", "postfix expression | 後序運算式"]
+layout: post
+title:  "使用 Common Lisp 實現中序運算式轉後序運算式"
+date:   2013-05-29
+tags:   ["Common Lisp", "postfix expression | 後序運算式"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 這學期擔任程式語言課程助教，該課程會額外介紹三個語言分別是 Lisp、Prolog 與 Python。對於只學過 C/C++/Java 的大二學生來說，這幾種語言的思考邏輯應該比較特別，尤其是 Lisp 的 functional programming 與 Prolog 的 programming in logical。

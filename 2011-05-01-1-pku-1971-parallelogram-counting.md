@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[POJ] 1971 - Parallelogram Counting"
-date:    2011-05-01
-tags:    ["POJ", "sort | 排序", "computational geometry | 計算幾何"]
+layout: post
+title:  "[POJ] 1971 - Parallelogram Counting"
+date:   2011-05-01
+tags:   ["POJ", "sort | 排序", "computational geometry | 計算幾何"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 題目網址：[1971 - Parallelogram Counting](http://poj.org/problem?id=1971)

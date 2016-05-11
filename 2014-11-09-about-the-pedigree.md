@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "所謂的「血統」"
-date:    2014-11-09
-tags:    ["interview | 面試"]
+layout: post
+title:  "所謂的「血統」"
+date:   2014-11-09
+tags:   ["interview | 面試"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-11-09-about-the-pedigree.jpg"
     creator:     "Dan Century"
     url:         "https://www.flickr.com/photos/dancentury/5197555782"
     license:     "CC 2.0"
@@ -30,4 +31,3 @@ photo credit: <a href="https://www.flickr.com/photos/venkatarameshkommoju/842107
 所以，血統問題不過只是面試官一開始對你的不屑。只要能夠展現出自身的專業能力，獲得面試官的正眼對待，血統就再也不是問題了。
 
 可能說的偏激了點，不過我想現實就是這樣了。想要生存下，唯有根深蒂固的專業知識，才能贏得面試官贏得心服口服。本來條件差的人，就是要有更突出地表現才能被注意到。
-

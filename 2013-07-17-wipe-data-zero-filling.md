@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "徹底清除磁碟資料（填零）"
-date:    2013-07-17
-tags:    ["Unix", "disk | 磁碟", "security | 安全性"]
+layout: post
+title:  "徹底清除磁碟資料（填零）"
+date:   2013-07-17
+tags:   ["Unix", "disk | 磁碟", "security | 安全性"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-07-17-wipe-data-zero-filling.jpg"
     creator:     "The Preiser Project"
     url:         "https://www.flickr.com/photos/thepreiserproject/12118842256"
     license:     "CC 2.0"

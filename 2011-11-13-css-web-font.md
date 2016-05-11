@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "[CSS] 網頁字體"
-date:    2011-11-13
-tags:    ["CSS", "font | 字體", "web dev | 網頁開發"]
+layout: post
+title:  "[CSS] 網頁字體"
+date:   2011-11-13
+tags:   ["CSS", "font | 字體", "web dev | 網頁開發"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-11-13-css-web-font.jpg"
     creator:     "Jeremy Keith"
     url:         "https://www.flickr.com/photos/adactio/5817835395"
     license:     "CC 2.0"
@@ -14,7 +15,6 @@ feature:
 ## 一般字體
 
 CSS 中 `font-family` 用來指定網頁上所要呈現的字體，但若此裝置並無安裝該字體時，則會使用瀏覽器預設之字體。我們可以在 `font-family` 中定義多套字體（以逗號分隔），瀏覽器會依照開發者所排的順序來搜尋此裝置中是否有該字體。
-
 
 ## 通用字集 (generic-family)
 

@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "在 CLI 下進行網頁截圖"
-date:    2013-08-14
-tags:    ["screenshot | 截圖", "CLI | 命令列介面", "OS X", "Linux"]
+layout: post
+title:  "在 CLI 下進行網頁截圖"
+date:   2013-08-14
+tags:   ["screenshot | 截圖", "CLI | 命令列介面", "OS X", "Linux"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 這學期接了一個跟眼動儀相關的工作，使用的軟體為一開源軟體 - [ITU Gaze Tracker](http://www.gazegroup.org/downloads/23-gazetracker)。其功能相當陽春，僅能追蹤眼球並回傳資料，另外比較酷的是可以啓動眼球滑鼠的功能。但國科會計劃怎麼可能這樣就夠用了，少說也要做個實驗。而這部分就跟市面上那幾家眼動儀差的可多了，市面上的軟體都有完善的實驗流程功能，所以我只能自己寫實驗的應用的。再者，因為當初說是要做網頁上的眼動測驗，我就決定直接用 php 來寫實驗應用了！

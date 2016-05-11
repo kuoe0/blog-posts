@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "位元運算 - 集合操作"
-date:    2012-01-28
-tags:    ["bitwise operation | 位元運算", "C/C++"]
+layout: post
+title:  "位元運算 - 集合操作"
+date:   2012-01-28
+tags:   ["bitwise operation | 位元運算", "C/C++"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 集合的狀態非常單純，非無即有，非有即無。因此就像位元的 0 與 1 一樣，僅有兩種狀態。不僅僅是集合，只要狀態僅有兩種時，皆可考慮使用位元來做資料結構。以位元來做資料結構，不僅狀態可以很明確的以 0 與 1 表示外，在操作時也可提昇程式的效率。
@@ -64,7 +60,6 @@ or
 ```c++
 ~((~S) | (1 << i)
 ```
-
 
 如同將第 i 個位元設定為位元 0 一般，因此採用之前的文章中將指定位元設定為位元 0 的方法即可。
 

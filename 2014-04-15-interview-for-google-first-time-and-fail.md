@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "第一次面試 Google 就不上手"
-date:    2014-04-15
-tags:    ["Google", "algorithm | 演算法"]
+layout: post
+title:  "第一次面試 Google 就不上手"
+date:   2014-04-15
+tags:   ["Google", "algorithm | 演算法"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-04-15-interview-for-google-first-time-and-fail.jpg"
     creator:     "Marcin Wichary"
     url:         "https://www.flickr.com/photos/mwichary/3374813066"
     license:     "CC 2.0"
@@ -69,7 +70,6 @@ Google 一開始會先請 HR 打電話來確認一下意願，也會詢問一些
 15. 回到第 3 步
 
 程式碼如下：
-
 
 ```c++
 str = "1,2,3,#,#,7,#,#,#";

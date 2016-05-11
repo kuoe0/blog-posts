@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "Prolog 入門"
-date:    2013-06-19
-tags:    ["Prolog"]
+layout: post
+title:  "Prolog 入門"
+date:   2013-06-19
+tags:   ["Prolog"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 本文同步刊載於[程式人雜誌 2013 年 8 月](http://programmermagazine.github.io/201308/htm/article3.html)。
@@ -366,7 +362,6 @@ X = 蔣孝武.
 [trace]  ?-
 ```
 
-
 ### occurs check
 
 在 unification 中有個 issue 是 occur check，直接看個例子：
@@ -419,4 +414,3 @@ quicksort([X|Xs]) ---
     [2,9,18,18,25,33,66,77]
 
 其中 `-s` 是指將接下來的檔案以 script 的方式執行，而 `-q` 則是叫 SWI Prolog 安靜一點，不要輸出一些有的沒有。
-

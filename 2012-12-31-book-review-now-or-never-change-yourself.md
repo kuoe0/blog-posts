@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "[閱讀雜記] 有些事現在不做，一輩子都不會做了－改變自我的勇氣"
-date:    2012-12-31
-tags:    ["book review | 閱讀雜記", "life | 人生", "courage | 勇氣"]
+layout: post
+title:  "[閱讀雜記] 有些事現在不做，一輩子都不會做了－改變自我的勇氣"
+date:   2012-12-31
+tags:   ["book review | 閱讀雜記", "life | 人生", "courage | 勇氣"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-12-31-book-review-now-or-never-change-yourself.jpg"
     creator:     "wolfgangfoto"
     url:         "https://www.flickr.com/photos/wolfgangfoto/4753863515"
     license:     "CC-BY-ND 2.0"
@@ -54,4 +55,3 @@ feature:
 - 有些事現在不做，一輩子都不會做了 IV：要工作，也要生活（台灣暫無翻譯）
 
 雖然對於這本書有點失望，但我想是我當初期望太高，下次我不會再抱太高的期望了！
-

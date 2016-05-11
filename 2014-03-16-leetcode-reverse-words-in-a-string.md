@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[LeetCode] Reverse Words in a String"
-date:    2014-03-16
-tags:    ["string | 字串", "problem solution | 題解"]
+layout: post
+title:  "[LeetCode] Reverse Words in a String"
+date:   2014-03-16
+tags:   ["string | 字串", "problem solution | 題解"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 題目連結：[http://oj.leetcode.com/problems/reverse-words-in-a-string/](http://oj.leetcode.com/problems/reverse-words-in-a-string/)

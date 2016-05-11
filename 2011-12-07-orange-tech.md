@@ -1,11 +1,12 @@
 ---
-layout:  post
-title:   "橘色科技"
-date:    2011-12-07
-tags:    ["orange tech | 橘色科技", "green tech | 綠色科技"]
+layout: post
+title:  "橘色科技"
+date:   2011-12-07
+tags:   ["orange tech | 橘色科技", "green tech | 綠色科技"]
 feature:
     photo:       true
-    creator:     "Sherrie Thai" 
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-12-07-orange-tech.jpg"
+    creator:     "Sherrie Thai"
     url:         "https://www.flickr.com/photos/shaireproductions/3045847217"
     license:     "CC 2.0"
     license_url: "https://creativecommons.org/licenses/by/2.0/"
@@ -28,7 +29,6 @@ feature:
 -------
 
 近幾年來，綠色科技非常盛行，強調的是要保護環境並減少人類活動對環境的傷害。使得近來再生能源、減碳產品等產業非常熱門。我們都知道科技始終來自於人性，或許現今科技常常強調「人性化」，但他們幫助的往往是操作體驗、減少傷害或是促進健康的部分。而王教授所提出的「橘色科技」強調的不僅僅是健康的部份，其中更重要的是心靈上的滿足。更白話的來說，就是「**幸福**」。
-
 
 另外，王教授提到了 CO<sub>2</sub> 是綠色科技的關鍵元素，因此他也為橘色科技提出了其重要元素 H<sub>2</sub>O。
 
@@ -58,7 +58,4 @@ feature:
 
 以往我們常常注重 [GDP](http://zh.wikipedia.org/wiki/%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC)，但近幾年來各國也開始重視到 [GNH](http://zh.wikipedia.org/zh-tw/%E5%9B%BD%E6%B0%91%E5%B9%B8%E7%A6%8F%E6%80%BB%E5%80%BC) （國家幸福指數）。GDP 僅重視國家經濟與人民所得，但其僅能夠表現出該國家的經濟狀況。而 GNH 的量測更加全面性，不僅僅將經濟作為指標之一，其更加重視精神生活。看到許多國家該使進行 GNH 的量測，可以發現越來越多人也開始重視精神上的滿足，而非以往的物質生活。因此我認為「**橘色科技**」在未來是個值得推動的領域，也期許其帶給人類更舒適滿足的生活。
 
-
 最後，王教授在結論時也提到「**雙色科技**」，指的就是「綠色科技」與「橘色科技」。並稱道該雙色科技分別注重的就是「**環保**」與「**心保**」，這兩項科技在未來都是值得繼續推動的領域。不僅僅為地球盡心，也為人類社會盡力，營造更美好的未來。
-
-

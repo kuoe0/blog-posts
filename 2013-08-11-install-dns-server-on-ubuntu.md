@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "在 Ubuntu 上安裝 DNS server"
-date:    2013-08-11
-tags:	   ["Ubuntu", "Linux", "DNS", "network management | 網路管理"]
+layout: post
+title:  "在 Ubuntu 上安裝 DNS server"
+date:   2013-08-11
+tags:   ["Ubuntu", "Linux", "DNS", "network management | 網路管理"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 目前自認實驗室網管，想幫實驗室假設 DNS server，這樣才不用增加個 subdomain 就要去麻煩網路助教！為了避免他覺得我太煩，我還是自己架比較實在，其實也是自己想要多些網路管理的經驗就是…。這邊我採用最常見的 BIND 這套 DNS server，BIND 全名為 Berkeley Internet Name Daemon，目前版本為 9.8.1。
@@ -116,7 +112,6 @@ $TTL    604800
                 86400           ; Retry
                 2419200         ; Expire
                 86400 )         ; Minimum
-
 
 @       IN NS   5566.csie.ncku.edu.tw.
 
@@ -355,7 +350,6 @@ Address: 140.116.5.6
 
 > Everything is fine.
 
-
 ## 參考資料
 
 - [DNS Server on Debian 6](http://note.drx.tw/2008/08/serverdns-server-static-adsl.html)
@@ -370,4 +364,3 @@ Address: 140.116.5.6
 
 - 2013/08/25: 加入 SOA 格式，與更正 SOA 中的 primary DNS 位址。
 - 2013/08/25: 加入解決 recursive query warning 的方法。
-

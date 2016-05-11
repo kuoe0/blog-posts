@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "[Sort] 淺談 bubble sort"
-date:    2013-02-28
-tags:    ["ACM-ICPC", "sort | 排序", "algorithm | 演算法"]
+layout: post
+title:  "[Sort] 淺談 bubble sort"
+date:   2013-02-28
+tags:   ["ACM-ICPC", "sort | 排序", "algorithm | 演算法"]
 feature:
-    photo:       false
+    photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-02-28-sort-about-bubble-sort.jpg"
     creator:     "Keith Williamson"
     url:         "https://www.flickr.com/photos/elwillo/5172528284"
     license:     "CC 2.0"
@@ -42,7 +43,6 @@ Bubble sort 在最差的情況下會需要執行 n<sup>2</sup> 次的交換操�
 既然數列是亂序的，那麼表示 bubble sort 其實是有可能在 n - 1 次之前就完成了排序！此時只要利用一個 flag 去記錄當前的迭代是否有執行交換操作，若沒有交換操作被執行，也表示該數列已排序完成，此時中止演算法將可以省去許多無謂的運算！
 
 不過要在迭代 n - 1 次前就提前結束演算法的條件也是要在數列大部份是有序的，當然這機率其實也不高，所以這樣的改進其實不大。而在實際上的程式中，我發現效能反而變差，可能因為不僅沒有在 n - 1 次的迭代前完成排序，反而增加操作 flag 的時間。但也有可能，是我的程式碼寫太爛了！
-
 
 ## pseudo code
 
@@ -101,7 +101,6 @@ Source code on [gist](https://gist.github.com/KuoE0/5051092?file=bubbleSort-flag
 以上測試資料皆為 100 組，單位為秒 (second)。
 
 在這邊可以發現使用了 flag 進行檢查不僅沒有提升效率，反而還輕微的降低了效率！可見在亂序數列情況下，要出現大部份有序的數列的機率不高，也因此要在 n - 1 次的迭代前結束演算法的可能性也不高！也因此使得 flag 的操作些微的拖累了效能！
-
 
 以下的投影片中有 bubble sort 的執行過程，有興趣可以前往參考！
 

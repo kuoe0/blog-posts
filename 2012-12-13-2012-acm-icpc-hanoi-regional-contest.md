@@ -1,14 +1,11 @@
 ---
-layout:  post
-title:   "2012 ACM-ICPC Hanoi Site"
-date:    2012-12-13
-tags:    ["ACM-ICPC", "contest | 競賽"]
+layout: post
+title:  "2012 ACM-ICPC Hanoi Site"
+date:   2012-12-13
+tags:   ["ACM-ICPC", "contest | 競賽"]
 feature:
-    photo:       true
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo:     true
+    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-12-13-2012-acm-icpc-hanoi-regional-contest.jpg"
 ---
 
 因 NCPC 的名次得到系內排名第一，才有此榮幸代表成大到河內參賽。不過表現不佳，雖然題目偏難，但還是犯下不少致命的錯誤。挑題不佳、誤判題意、忘了學過的資料結構、考慮太少測資情況，樣樣致命啊！另外也因為太過強調在學習演算法，導致想法也被演算法給牽制，變得喜歡將以學過的演算法套入。看計分版的實際名次，我們已經排到了 5x，與在台灣的名次相差極大，可見我們的實力比我們想像中的還差。

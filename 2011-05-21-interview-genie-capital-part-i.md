@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "Interview – 精靈數位科技 (Genie Capital) – Part I"
-date:    2011-05-21
-tags:    ["interview | 面試", "Genie Capital | 精靈數位科技", "intern | 實習"]
+layout: post
+title:  "Interview – 精靈數位科技 (Genie Capital) – Part I"
+date:   2011-05-21
+tags:   ["interview | 面試", "Genie Capital | 精靈數位科技", "intern | 實習"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 最近申請了很多 intern，昨天 (5/20) 是申請的其中一間「[精靈數位科技](http://geniecapital.com/)」的面試日。精靈是一間很新的公司，創立於去年五月左右。會知道這間公司有在招收 intern 是電子哥告訴我的，好像說他們有寄信到系上在由系辦轉寄的樣子，但是是寄給研究生  ，大學部嘞…。
@@ -40,4 +36,3 @@ feature:
 然後開始亂晃，晃啊晃的晃到漢堡王，就買了個漢堡吃了。結果買完漢堡迷路了，完全忘記我怎麼走過來的，所以只好問路人北車在哪。就沿著路人指的路線回去北車，路上經過一間很大的遠傳，就進去玩了幾款最近出的 Android 平板，之後又看到燦坤，再進去玩了一下 macbook。然後發現快七點半了，只好快步走往北車，再慌慌張張的拿出車票進月台。接著就一路回到台南了，但這次沒有正妹叫醒我了。
 
 回到台南九點十八，再騎著機車回宿舍就要十點了，再整理個行李準備搭十一點左右的火車回高雄，就這樣結束了一天的旅程。
-

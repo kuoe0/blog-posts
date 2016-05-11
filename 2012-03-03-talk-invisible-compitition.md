@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "通識講座 - 看不見的競爭 - Robert Wang"
-date:    2012-03-03
-tags:    ["talk | 演講", "startup | 創業", "brand | 品牌", "marketing | 行銷"]
+layout: post
+title:  "通識講座 - 看不見的競爭 - Robert Wang"
+date:   2012-03-03
+tags:   ["talk | 演講", "startup | 創業", "brand | 品牌", "marketing | 行銷"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-03-03-talk-invisible-compitition.jpg"
     creator:     "Bruno Nascimento"
     url:         "https://www.flickr.com/photos/endorphiins/5533579469"
     license:     "CC-BY-SA 2.0"
@@ -30,4 +31,3 @@ feature:
 這 7.5 個小時的講座，最令我印象深刻的一句話大概就是「**Learn to serve**」。學習是為了幫助他人，想了想自己，真的都是為了讓自己更厲害而學，但在有一定基礎後，我也漸漸的想把自己的所學給教出去。於是，我選擇擔任這學期的程式設計助教。而前陣子在精靈實習後，與他們的願景和夢想工作了兩個月，自己也希望可以做些什麼，帶給這世界改變。講到這，又想到去年底 Jserv 的講座，他說每個人都在改變世界，只是我們不知道而已。
 
 第一次聽講座跟講者有這麼多的互動，每到休息時間，我都會跑去王老師旁邊向他請教問題，或是聽別人的問題及王老師的答案。一直在他旁邊問問題，也因此拿到他的名片 >///<。他說他不太給學生名片的，看來是我問題太多了XD。
-

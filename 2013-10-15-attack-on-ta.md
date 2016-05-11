@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "進擊的助教"
-date:    2013-10-15
-tags:    ["TA | 助教", "life | 生活"]
+layout: post
+title:  "進擊的助教"
+date:   2013-10-15
+tags:   ["TA | 助教", "life | 生活"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 在一場學長的演講中，聽到了以下這麼一段話（大略的意思，並非原文呈現）：
@@ -144,4 +140,3 @@ Prolog 是個邏輯推論語言，我想藉由 Prolog 強大的邏輯推論能�
 > by Steve Jobs
 
 或許這門課看似無用，學了 Lisp 學了 Prolog 甚至是學了 Python，好像對自己根本沒什麼用處（我想 Python 不會）。但是，那可能只是近期的，未來趨勢是什麼沒有人知道，未來的際遇是什麼沒有人知道。近幾年 functional programming 又活絡了起來，會不會哪一天反而 functional language 成了主流語言也說不定，此時會寫 Lisp 反而成為一大優勢。又或許不是 functional programming 沒有熱門，反倒是 logical programming 熱門起來，那麼會寫 Prolog 就成了優勢也說不定。我個人都抱持著多學多看的態度在學習，因為多學一種，你就比別人多一個機會！共勉之。
-

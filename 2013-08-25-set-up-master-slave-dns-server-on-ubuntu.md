@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "在 Ubuntu 上架設主從式 DNS server"
-date:    2013-08-25
-tags:	   ["Ubuntu", "Linux", "DNS", "network management | 網路管理"]
+layout: post
+title:  "在 Ubuntu 上架設主從式 DNS server"
+date:   2013-08-25
+tags:   ["Ubuntu", "Linux", "DNS", "network management | 網路管理"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 繼上次架設了實驗室的 DNS server 後 ([連結](http://blog.kuoe0.tw/posts/2013/08/11/install-dns-server-on-ubuntu
@@ -27,7 +23,6 @@ feature:
 - slave DNS IP address: 140.116.22.66
 
 對於 slave 的 **/etc/bind/named.conf.option** 檔案設定，只需要設定的跟 master 的 **/etc/bind/named.conf.option** 一樣就好了！唯一需要修改的只有兩邊的 **/etc/bind/named.conf.local** 檔案。
-
 
 ## [Master] `/etc/bind/named.conf.local`
 
@@ -76,7 +71,6 @@ waiting for pid 24891 to die
  * Starting domain name service... bind9  [ OK ]
 ```
 
-
 完成後可以檢查一下 slave 的 syslog 看看有沒有錯誤發生：
 
 ```
@@ -110,7 +104,6 @@ Aug 24 02:07:17 SlaveDNS named[18779]: zone 5566.csie.ncku.edu.tw/IN: sending no
 ```
 
 將你要放置的檔案的資料夾加入，並在後面加上 rw 給予讀寫權限即可解決 `permission denied` 的問題！
-
 
 **參考資料：**
 

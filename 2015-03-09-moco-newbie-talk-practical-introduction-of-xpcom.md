@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "謀智菜逼八談 XPCOM 實務入門"
-date:    2015-03-09
-tags:    ["Mozilla", "Firefox", "XPCOM"]
+layout: post
+title:  "謀智菜逼八談 XPCOM 實務入門"
+date:   2015-03-09
+tags:   ["Mozilla", "Firefox", "XPCOM"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 本文同步刊載於[謀智台客](http://tech.mozilla.com.tw/posts/6010/%E8%AC%80%E6%99%BA%E8%8F%9C%E9%80%BC%E5%85%AB%E8%AB%87-xpcom-%E5%AF%A6%E5%8B%99%E5%85%A5%E9%96%80)。
@@ -340,7 +336,6 @@ main()
 	return -1;
   }
 
-
   rv = sample->WriteValue("Initial print:");
   if (NS_FAILED(rv)) {
 	printf("Error code: 0x%X\n", rv);
@@ -401,4 +396,3 @@ nsCOMPtr<nsISample2> sample = do_CreateInstance("@mozilla.org/sample2;1", &rv);
 **其他錯誤碼**
 
 如出現其他錯誤碼，可以參考 MDN 上的 [Error codes returned by Mozilla APIs](https://developer.mozilla.org/en-US/docs/Mozilla/Errors)，來查找錯誤的發生原因。
-

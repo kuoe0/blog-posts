@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "Your freedom and privacy - Dr. Richard Stallman"
-date:    2014-05-19
-tags:    ["free software | 自由軟體", "GNU", "Linux", "Richard Stallman"]
+layout: post
+title:  "Your freedom and privacy - Dr. Richard Stallman"
+date:   2014-05-19
+tags:   ["free software | 自由軟體", "GNU", "Linux", "Richard Stallman"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-05-19-your-freedom-and-privacy-dr-richard-stallman.jpg"
     creator:     "Wikipedia"
     url:         "https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%96%AF%E6%89%98%E6%9B%BC?oldformat=true#/media/File:GNU_and_Stallman_2012.JPG"
     license:     "CC-BY-SA 3.0"
@@ -164,4 +165,3 @@ Linus Torvalds 並不主張自由軟體的精神，其主張開放原始碼的�
 在演講結束後是簽書時間，只要購買 Richard Stallman 的書籍來贊助 GNU 就可以獲得本人的親筆簽名！想說這可能是我這輩子唯一可以見到他的一次，所以立馬衝到提款機領錢買書簽名！簽完書其實一直想找他合照一下，但是手中只有一隻 Android 手機，剛剛聽他一直說 Android 是惡意軟體讓我很不敢拿手機去問她能不能合照。索性去問了一下工作人員能不能用他們的相機幫我們拍，雖然我覺得 Canon 的相機系統應該也不是自由軟體啦ＸＤＤ。
 
 這場演講下來，其實最讓我感到深刻的體會是 Richard Stallman 對追求自由的精神。雖然我覺得他如此偏激的態度，其實或多或少也限制了他人的自由就是。但若是沒有存在一些激進份子，我想社會最終還是會被極權所統治。畢竟大部分人民其實不知道自己所享有的自由，這時就需要有些激進份子來喚醒人們的自由意識了。
-

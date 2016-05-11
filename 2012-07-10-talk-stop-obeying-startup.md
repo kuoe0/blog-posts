@@ -1,16 +1,16 @@
 ---
-layout:  post
-title:   "學生論壇 - 不馴，以創業顛覆凡想 - 林之晨"
-date:    2012-07-10
-tags:    ["talk | 演講", "startup | 創業"]
+layout: post
+title:  "學生論壇 - 不馴，以創業顛覆凡想 - 林之晨"
+date:   2012-07-10
+tags:   ["talk | 演講", "startup | 創業"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-07-10-talk-stop-obeying-startup.jpg"
     creator:     "Brajeshwar Oinam"
     url:         "https://www.flickr.com/photos/brajeshwar/8946784950"
     license:     "CC-BY-SA 2.0"
     license_url: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
-
 
 忙了好久，終於有時間來寫下這篇文章了。但這場演講的詳細內容我實在也記不太清楚了，當時也還沒購買錄音筆，只記得幾個比較深刻的標題，就直接拿這幾個標題發揮吧！
 

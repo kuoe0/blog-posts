@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "因為想念所以孤單"
-date:    2011-07-04
-tags:    ["lonely | 孤單", "intern | 實習"]
+layout: post
+title:  "因為想念所以孤單"
+date:   2011-07-04
+tags:   ["lonely | 孤單", "intern | 實習"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-07-04-lonely-of-missing.jpg"
     creator:     "Steve Webster"
     url:         "https://www.flickr.com/photos/spjwebster/3617811672"
     license:     "CC 2.0"

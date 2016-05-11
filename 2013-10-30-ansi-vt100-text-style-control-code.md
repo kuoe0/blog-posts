@@ -1,14 +1,11 @@
 ---
-layout:  post
-title:   "ANSI/VT100 文字樣式控制碼"
-date:    2013-10-30
-tags:    ["CLI | 命令列介面", "shell script"]
+layout: post
+title:  "ANSI/VT100 文字樣式控制碼"
+date:   2013-10-30
+tags:   ["CLI | 命令列介面", "shell script"]
 feature:
-    photo:       true
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo:     true
+    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-10-30-ansi-vt100-text-style-control-code.jpg"
 ---
 
 常常寫些 shell script 時，為了要區別不同訊息，會選擇幫一些訊息加上色彩等樣式以便於快速區別！但每次都要上網重新找一次好像有點麻煩，不如直接記在這當筆記吧！

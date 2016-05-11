@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[ACM-ICPC] 淺談 I/O"
-date:    2013-02-22
-tags:    ["ACM-ICPC", "I/O | 輸入輸出"]
+layout: post
+title:  "[ACM-ICPC] 淺談 I/O"
+date:   2013-02-22
+tags:   ["ACM-ICPC", "I/O | 輸入輸出"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 ## Standard I/O
@@ -61,13 +57,11 @@ $ ./add
 7
 ```
 
-
 ## File I/O
 
 在 ACM-ICPC 的競賽中，大部份時候都是採用標準輸入與標準輸出。不過有時候也會有需要讀取檔案的時候，如需讀取檔案題目會特別告知。相信有寫過檔案讀寫的人應該都覺得有點麻煩吧！在比賽時，我們該怎麼讀取檔案會比較快速呢？
 
 先來看看使用 C 的 fopen 的方法：
-
 
 ```c
 FILE *in = fopen(“inputfile”);
@@ -140,7 +134,6 @@ $ ./add < input.txt
 
 現在我們想要將輸出導向 output.txt 這個檔案中，只要將 `<` 改成 `>` 就可以了，執行過程如下：
 
-
 ```
 $ ./add > output.txt
 1 2
@@ -153,7 +146,6 @@ $ ./add > output.txt
 	7
 	
 兩個也可以同時使用：
-
 
 ```
 $ ./add < input.txt > output.txt
@@ -169,7 +161,6 @@ ACM-ICPC 的題目絕大部份都是一次的測試中，會有非常多比測�
 
 **`scanf`**
 
-
 ```c++
 while (scanf() != EOF) {    // do something}```
 **`fgets`**
@@ -177,7 +168,6 @@ while (scanf() != EOF) {    // do something}```
 ```c++while (fgets() != NULL) {    // do something}```
 
 **`cin`**
-
 
 ```c++
 while (cin >> x) {    // do something}```
@@ -289,7 +279,6 @@ getline(cin, str, '\n');
 
 這邊我們要討論不同的 I/O function 的效率。首先先來看到 `scanf`/`printf` 與 `cin`/`cout` 的比較：
 
-
 ![scanf&cin](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-02-22-acm-icpc-about-io-1.jpg)
 
 ![printf&cout](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-02-22-acm-icpc-about-io-2.jpg)
@@ -305,7 +294,6 @@ std::ios::sync_with_stdio(false);
 ```
 	
 加入這行後，我們再來看看 C++ 的 stream I/O 的效能：
-
 
 ![cin wihout sync](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-02-22-acm-icpc-about-io-3.jpg)
 

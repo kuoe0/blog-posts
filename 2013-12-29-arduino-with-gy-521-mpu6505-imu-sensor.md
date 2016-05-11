@@ -1,14 +1,11 @@
 ---
-layout:  post
-title:   "Arduino 與 GY-521 MPU6050 慣性測量感測器"
-date:    2013-12-29
-tags:    ["Arduino", "OS X", "CLI | 命令列介面", "Ubuntu", "I2Cdevlib", "accelerometer | 加速計", "gyroscope | 陀螺儀", "MPU6050", "IMU | 慣性測量單元"]
+layout: post
+title:  "Arduino 與 GY-521 MPU6050 慣性測量感測器"
+date:   2013-12-29
+tags:   ["Arduino", "OS X", "CLI | 命令列介面", "Ubuntu", "I2Cdevlib", "accelerometer | 加速計", "gyroscope | 陀螺儀", "MPU6050", "IMU | 慣性測量單元"]
 feature:
-    photo:       true
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo:     true
+    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-12-29-arduino-with-gy-521-mpu6505-imu-sensor.jpg"
 ---
 
 目前碩士論文也是打算使用 Arduino 來搭建硬體，其中使用到了慣性測量單元 (IMU) －GY-521，搭載 MPU6050 的加速計與陀螺儀晶片。由於在 I2Cdevlib 中發現有包含 MPU6050 的函式庫，故決定採用該函式庫來進行開發。
@@ -41,13 +38,11 @@ A4    |   ↔︎   | SDA
 
 ## Software Configuration
 
-
 ![Arduino IDE and Serial Output](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-12-29-arduino-with-gy-521-mpu6505-imu-sensor-2.jpg)
 
 將整個 `MPU6050_raw` 資料夾複製出來到 Arduino 的工作目錄下，並用 Arduino IDE 開啟裡頭的 `MPU6050_raw.ino` 檔案。
 
 選擇硬體規格與串列埠，即可以進行編譯與上傳。上傳完成後，Arduino 就會開始運行了，只要打開串列埠即可看到大量的訊號輸出。這時只要隨意地揮動 GY-521 這塊板子，就能發現輸出的訊號會有較明顯的改變。
-
 
 ## 使用 Ino 命令列工具
 

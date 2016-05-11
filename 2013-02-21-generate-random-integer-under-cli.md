@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "在 CLI 下產生隨機整數"
-date:    2013-02-21
-tags:    ["CLI | 命令列介面", "Unix"]
+layout: post
+title:  "在 CLI 下產生隨機整數"
+date:   2013-02-21
+tags:   ["CLI | 命令列介面", "Unix"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-02-21-generate-random-integer-under-cli.jpg"
     creator:     "James Bowe"
     url:         "https://www.flickr.com/photos/jamesrbowe/4001776922"
     license:     "CC 2.0"

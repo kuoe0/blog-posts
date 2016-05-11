@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "[閱讀雜記] 簡報藝術 2.0"
-date:    2012-01-27
-tags:    ["presentation | 簡報", "book review | 閱讀雜記"]
+layout: post
+title:  "[閱讀雜記] 簡報藝術 2.0"
+date:   2012-01-27
+tags:   ["presentation | 簡報", "book review | 閱讀雜記"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-01-27-book-review-presentation-zen.jpg"
     creator:     "Gábor Hojtsy"
     url:         "https://www.flickr.com/photos/gaborhojtsy/3362921448"
     license:     "CC-BY-SA 2.0"
@@ -50,7 +51,6 @@ feature:
 在設計這一大章節，作者首先提出了**簡單**。簡單在這邊我認為就是**精髓**，把真正需要的留下來。找出簡單，其實就是最困難的事情。聽起來真鬼打牆，但我也能感同身受。每次設計投影片時，總想著要不要留下某些東西，留著又讓畫面擁擠，但又怕去掉會讓聽講者無法理解我所要表達的。
 > **簡單就是試著找出平衡，不要讓事物變得複雜，也不要一昧的刪去變成了簡陋。**
 接著作者帶出了七個簡報的設計原則：
-
 
 ### 訊號雜訊比
 

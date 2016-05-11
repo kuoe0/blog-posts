@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "解決 Ubuntu 13.04 上無法安裝 Google Chrome"
-date:    2013-05-03
-tags:    ["Ubuntu", "Chrome", "Linux"]
+layout: post
+title:  "解決 Ubuntu 13.04 上無法安裝 Google Chrome"
+date:   2013-05-03
+tags:   ["Ubuntu", "Chrome", "Linux"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 由於習慣了 Dock 的操作方式，最近決定從 Linux Mint 跳回 Ubuntu，剛好最近也發佈了 13.04 版，於是就安裝了這熱騰騰的版本！本身使用的瀏覽器是 Chrome，不過 Ubuntu 內建的是 Firefox，想當然爾，勢必要立馬安裝 Chorom！

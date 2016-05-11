@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[閱讀雜記] 好 LOGO，如何好？"
-date:    2012-11-08
-tags:    ["book review | 閱讀雜記", "design | 設計", "logo | 標誌"]
+layout: post
+title:  "[閱讀雜記] 好 LOGO，如何好？"
+date:   2012-11-08
+tags:   ["book review | 閱讀雜記", "design | 設計", "logo | 標誌"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 其實一直很想幫自己的 blog 弄個 logo 出來，但沒有美術天份，也非相關科系的我，實在無從下手，看到這本書的書評不錯，就到圖書館借來看看了。
@@ -117,7 +113,6 @@ Ford 了解更快不是讓馬跑的更快而已，而是創造出另一種完完
 在設計時盡量以黑白來做設計，黑白可以純粹呈現的是該設計的想法。提交給客戶時，也可以令客戶聚焦在該設計的想法上，而非該設計的色彩上。若過早加入色彩在一個很棒的設計上，有時候客戶討厭的只是配色，而非該 logo。
 
 但也並非黑白 logo 就是最好的，應該把色彩放到最後再考慮，畢竟色彩的更動非常容易。
-
 
 ## 保持設計的動力
 

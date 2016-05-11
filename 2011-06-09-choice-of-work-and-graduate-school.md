@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "業界與研究所的抉擇"
-date:    2011-06-09
-tags:    ["life | 人生"]
+layout: post
+title:  "業界與研究所的抉擇"
+date:   2011-06-09
+tags:   ["life | 人生"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-06-09-choice-of-work-and-graduate-school.jpg"
     creator:     "alex yosifov"
     url:         "https://www.flickr.com/photos/sashomasho/719787088"
     license:     "CC-BY-SA 2.0"
@@ -32,5 +33,3 @@ feature:
 本身一直很想出國留學，看到很多國外學校的環境真的滿嚮往的。尤其是美國 top 10 的學校，充滿著天才，很希望能有機會好好跟他們交流學習。但憑我的實力要進那些學校應該不可能吧，然而又聽說國外其實很多學生都是大學畢業就工作的，或直接升上博班。也才因此萌生不唸研究所的念頭，想說先進入業界，充實自己的經歷，並且加強一下英文等基礎實力，再看看能不能去申請國外的博士班。但若唸碩士時有閃亮的 record，或許也很有機會因此到國外念書。
 
 現在也才大三，擔憂這個似乎太早，但還是有個規劃我才會比較安心，雖然也不會事事順心就是了。若沒計畫，連變化都不會察覺。
-
-

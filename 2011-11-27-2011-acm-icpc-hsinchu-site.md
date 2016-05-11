@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "2011 ACM-ICPC Hsinchu Site"
-date:    2011-11-27
-tags:    ["ACM-ICPC", "contest | 競賽"]
+layout: post
+title:  "2011 ACM-ICPC Hsinchu Site"
+date:   2011-11-27
+tags:   ["ACM-ICPC", "contest | 競賽"]
 feature:
-    photo:       true
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: true
 ---
 
 ## 心得
@@ -129,7 +125,6 @@ feature:
 
 > 一個機械手臂，他有 n 段，因此有 n 個關節，每個關節都可以旋轉，旋轉的角度皆為 45k 度，但也表示要轉 k 次。現在給你一個區域，並判斷機械手臂的端點是否可以抵達這區域，並需要用最少的旋轉次數。
 
-
 這題是請教台大的高手，很明顯的只有八種角度，而且在哪個位置旋轉不重要，將他當做向量就很好理解，不管在哪裡旋轉，最後的位置都一樣。因此我們枚舉，這八種角度各要使用幾次，把所有能使得機械手臂到達該區域的可能都找出來，並記錄最小值即可。
 
 另外，要考慮一下機寫手臂的端點是個半徑 10 cm 的圓形。
@@ -149,4 +144,3 @@ feature:
 > 確切題意有點忘記，等題目出來再來補。
 
 聽台大的說是 binary search 的題目，也聽到有 ternary search 的作法。
-

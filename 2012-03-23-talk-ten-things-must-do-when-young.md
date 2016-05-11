@@ -1,16 +1,16 @@
 ---
-layout:  post
-title:   "通識講座 - 十件趁年輕非做不可的事情 - 褚士瑩"
-date:    2012-03-23
-tags:    ["talk | 演講", "life | 人生"]
+layout: post
+title:  "通識講座 - 十件趁年輕非做不可的事情 - 褚士瑩"
+date:   2012-03-23
+tags:   ["talk | 演講", "life | 人生"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-03-23-talk-ten-things-must-do-when-young.jpg"
     creator:     "Robert Cudmore"
     url:         "https://www.flickr.com/photos/cudmore/3932146"
     license:     "CC-BY-SA 2.0"
     license_url: "https://creativecommons.org/licenses/by-sa/2.0/"
 ---
-
 
 昨天晚上的演講「十件趁年輕非做不可的事情」，講者**褚士瑩**老師。聽說國文課有教過他的文章，但沒印象就是了。這系列的生涯規劃講座，論「演講標題」來說，這是我最期待的一場，既然是最期待的，那麼也是最怕會失望的。
 
@@ -77,7 +77,6 @@ feature:
 ![swim](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2012-03-23-talk-ten-things-must-do-when-young-2.jpg)
 
 (photo credit: [Dave Dugdale](https://www.flickr.com/photos/davedugdale/14345129236), [CC-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))
-
 
 這個年代，健康、運動大家都知道很重要。為了維持健康，應該要找到可以從事**一輩子**的運動，注意關鍵是「一輩子」。這時，褚老師問了大家，褚老師問了大家哪些事可以從事一輩子的運動？！回答有跑步、網球、籃球、游泳（可憐的韋成，講了這麼多次游泳，褚老師都沒聽到，結果別人講就聽到了）等等，更酷的還有划龍舟！也有人講逛街，也有人講逛街，但是逛街是活動，不是運動。
 

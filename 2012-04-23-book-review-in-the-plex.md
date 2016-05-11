@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[閱讀雜記] Google 總部大揭密"
-date:    2012-04-23
-tags:    ["book review | 閱讀雜記", "Google", "startup | 創業"]
+layout: post
+title:  "[閱讀雜記] Google 總部大揭密"
+date:   2012-04-23
+tags:   ["book review | 閱讀雜記", "Google", "startup | 創業"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 圖書資訊：[Google 總部大揭密](http://www.anobii.com/books/Google%E7%B8%BD%E9%83%A8%E5%A4%A7%E6%8F%AD%E5%AF%86/9789866165337/010b4228781c7f7604/)
@@ -36,4 +32,3 @@ feature:
 對於一般的普羅大眾來說，這本書可以幫助大家更了解網路的生態。網路正在侵蝕人類的生活，網路是把鋒利無比的雙面刃，了解他，不僅對自己有益處，更能免於自己受到網路的傷害。但裡面提及了一些專有名詞，對於一般大眾來說，可能會有些許的閱讀障礙。
 
 整本書其實還滿有趣的，我想我應該會買一本。但不知道是我的問題還是書的問題，有時候都看到睡著，而且看的好慢。我好像都在講 Google 壞話，但**我還是很愛 Google 的～！沒有 Google 我可能活不下去阿QQ**
-

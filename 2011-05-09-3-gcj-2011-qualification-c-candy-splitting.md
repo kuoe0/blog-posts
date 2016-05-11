@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[GCJ] 2011 Qualification - C - Candy Splitting"
-date:    2011-05-09
-tags:    ["Google Code Jam", "bitwise operation | 位元運算"]
+layout: post
+title:  "[GCJ] 2011 Qualification - C - Candy Splitting"
+date:   2011-05-09
+tags:   ["Google Code Jam", "bitwise operation | 位元運算"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 題目網址：[C - Candy Splitting](http://code.google.com/codejam/contest/dashboard?c=975485#s=p2)

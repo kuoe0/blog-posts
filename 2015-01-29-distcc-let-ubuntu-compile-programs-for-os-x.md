@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "distcc - 讓 Ubuntu 幫 OS X 編譯程式"
-date:    2015-01-29
-tags:    ["distcc", "OS X", "Ubuntu, C/C++"]
+layout: post
+title:  "distcc - 讓 Ubuntu 幫 OS X 編譯程式"
+date:   2015-01-29
+tags:   ["distcc", "OS X", "Ubuntu, C/C++"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 前幾天聽到同事說到 distcc 這工具，詢問了一下才知道是這麼好用的工具。其官方網站：[https://code.google.com/p/distcc/](https://code.google.com/p/distcc/)。如同其標題所寫「distcc: a fast, free distributed C/C++ compiler」，就是一個可以進行分散式編譯的概念！C/C++ 程式在建置的過程中，最花時間的就是編譯了。這個工具的概念就是將編譯平行化，讓其他電腦也可以幫忙編譯程式碼，如此一來就可以節省下不少時間！
@@ -18,7 +14,6 @@ feature:
 而且現在在研究 Firefox，不時就要重新建置 Firefox，一次就要 30 分鐘。使用 distcc 後，建置整個 Firefox 時間縮短為 15 分鐘！可以明顯發現 distcc 真的有效！這些時間都包含前處理、編譯、連結這三個步驟。前處理與連結都只能在本機執行，只有編譯的步驟可以被平行化。也就是前處理跟連結的時間是省不掉的，由此可知 distcc 的效果是如此顯著！
 
 然而，現在要做的是利用 Linux 來編譯 OS X 可以使用的二進位檔，也就是進行 cross-compile。當然，要相反過來也是可行的。所以會在 Linux 上安裝 clang 這個編譯器，之後都會指定 distcc 使用 clang 來進行編譯。我有試過使用 gcc，但 Linux 那端會一直編譯失敗，使得 distcc 變得毫無效果。確切原因我還不太清楚，就先直接使用 clang 吧。
-
 
 接下來，就來介紹怎麼安裝與使用！
 
@@ -46,13 +41,11 @@ feature:
 
 	$ sudo apt-get install distcc clang
 
-
 ### Macbook Air
 
 安裝 distcc：
 
 	$ brew install distcc
-
 
 ## Setup
 
@@ -139,13 +132,11 @@ feature:
 	distccd[3816] (dcc_job_summary) client: 10.247.24.6:51220 COMPILE_OK exit:0 sig:0 core:0 ret:0 time:1957ms clang libavfilter/vf_shuffleplanes.c
 	distccd[4792] (dcc_job_summary) client: 10.247.24.6:51193 COMPILE_OK exit:0 sig:0 core:0 ret:0 time:4771ms clang libavfilter/af_earwax.c
 
-
 ### For Firefox
 
 前面提到過，我是為了加速編譯 Firefox 才安裝 distcc 的。因為 Firefox 本身有自己的 Mozilla build system，所以在設定上會有些不同。不過其實很簡單，除了前面有提到的設定 CC 跟 CXX 變數外，就是把 `-j` 寫進 mozconfig 檔案裡。假如想要加上 `-j100` 的選項，就寫上下面這行在 mozconfig 裡即可。
 
 	mk_add_options MOZ_MAKE_FLAGS="-j100"
-
 
 下圖有真相，可以看到當 Macbook Air 這端開始進行編譯時，Ubuntu 那端的 CPU 使用率也大幅出現變動。
 

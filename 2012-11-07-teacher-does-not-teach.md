@@ -1,11 +1,12 @@
 ---
-layout:  post
-title:   "知識點超綱了"
-date:    2012-11-07
-tags:    ["attitude | 態度", "learning | 學習"]
+layout: post
+title:  "知識點超綱了"
+date:   2012-11-07
+tags:   ["attitude | 態度", "learning | 學習"]
 feature:
     photo:       true
-    creator:     "GotCredit" 
+    photo_url:   "https://github.com/KuoE0/blog-assets/raw/master/feature-photos/2012-11-07-teacher-does-not-teach.jpg"
+    creator:     "GotCredit"
     url:         "https://www.flickr.com/photos/jakerust/16846023595"
     license:     "CC 2.0"
     license_url: "https://creativecommons.org/licenses/by/2.0/"

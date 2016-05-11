@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[UVa] 837 - Light and Transparencies"
-date:    2011-05-01
-tags:    ["UVa", "sweep line | 掃描線", "sort | 排序"]
+layout: post
+title:  "[UVa] 837 - Light and Transparencies"
+date:   2011-05-01
+tags:   ["UVa", "sweep line | 掃描線", "sort | 排序"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 題目網址：[837 - Light and Transparencies](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=778)
@@ -18,7 +14,6 @@ feature:
 在一個平面的上方有著許多的投影片，從側面看過去這些投影片為一條線段。光由上往下照射，投影片會希受部分能量，根據該投影片的穿透係數決定。當光線通過多片投影片時，穿透係數的大小為每一片投影片之穿透係數之乘積。求出光線最後抵達平面後，會被切割為幾個區段，以及各區段之能量大小！
 
 在題目中，我們將平面設定為 x 軸。投影片即為這個二維平面上的線段，而光源來自 y = ∞ 的地方。
-
 
 ### 輸入格式
 

@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "使用 Common Lisp 抓取中央氣象局預報資料"
-date:    2013-09-27
-tags:    ["Common Lisp", "Lisp", "forecast | 氣象預報"]
+layout: post
+title:  "使用 Common Lisp 抓取中央氣象局預報資料"
+date:   2013-09-27
+tags:   ["Common Lisp", "Lisp", "forecast | 氣象預報"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 這次程式語言作業是用 Common Lisp 編寫撈取[中央氣象局](http://www.cwb.gov.tw)下個時段的各縣市天氣預報，並重新排版輸出！輸出內容如下：
@@ -231,13 +227,11 @@ Source code on [gist](https://gist.github.com/KuoE0/6725804).
 - [FORMATTED OUTPUT (COMMON-LISP-STYLE)](http://www.gnu.org/software/kawa/Format.html)
 - [A Few FORMAT Recipes](http://www.gigamonkeys.com/book/a-few-format-recipes.html)
 
-
 **Line 26 ~ 41**
 
 對資訊作出適當的處理。
 
 去除 `List` 字尾，由於從原始碼得到的英文名稱，其後方都會有額外的 `List` 字尾，故需要去除！轉換百分比符號碼為百分比符號，以及溫度需要加上 C 單位。
-
 
 **Line 51 ~ 67**
 
@@ -313,4 +307,3 @@ Source code on [gist](https://gist.github.com/KuoE0/6725804).
 題外話：
 
 這個小工具其實還是有點弱，用英文名稱排序個人覺得不是個好方法，不過主要是為了改作業方便啦！之後打算就根據氣象局的分類來分成北部、中部、東部、南部與外島，並且希望可以傳入參數來取得特定縣市或區域的預報資料。但是，使用 CLI 就是為了方便（不過是對於習慣 CLI 的使用者），如果要取得特定縣市時還要輸入中文實在不是好方法（個人認為在 CLI 下輸入中文就是個麻煩），可能改用英文縮寫？！而且覺得 drakma 的 http request 好像有點慢…
-

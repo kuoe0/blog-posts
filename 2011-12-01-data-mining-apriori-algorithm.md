@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[Data Mining] Apriori Algorithm"
-date:    2011-12-01
-tags:    ["data mining | 資料探勘", "association rule | 關連性規則"]
+layout: post
+title:  "[Data Mining] Apriori Algorithm"
+date:   2011-12-01
+tags:   ["data mining | 資料探勘", "association rule | 關連性規則"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 **P.S. 以下內容純為小弟個人研究看法，若有錯誤歡迎來信或留言指正，謝謝 <(__)>**
@@ -80,7 +76,6 @@ until L(k+1) is ∅
 
 source code on [gist](https://gist.github.com/KuoE0/1415437).
 
-
 ## Reference
 
 - [http://www.cs.sunysb.edu/~cse634/lecture_notes/07apriori.pdf](http://www.cs.sunysb.edu/~cse634/lecture_notes/07apriori.pdf)
@@ -88,4 +83,3 @@ source code on [gist](https://gist.github.com/KuoE0/1415437).
 - [http://en.wikipedia.org/wiki/Apriori_algorithm](http://en.wikipedia.org/wiki/Apriori_algorithm)
 - [http://www.cnblogs.com/gaizai/archive/2010/03/31/1701573.html](http://www.cnblogs.com/gaizai/archive/2010/03/31/1701573.html)
 - [http://www.cnblogs.com/zgw21cn/archive/2009/05/31/1492809.html](http://www.cnblogs.com/zgw21cn/archive/2009/05/31/1492809.html)
-

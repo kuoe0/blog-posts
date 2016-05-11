@@ -1,14 +1,11 @@
 ---
-layout:  post
-title:   "Arduino 使用 Ino 進行編譯時出現 Robot_Control 的錯誤訊息"
-date:    2013-11-24
-tags:    ["Arduino", "OS X", "CLI | 命令列介面", "Ubuntu"]
+layout: post
+title:  "Arduino 使用 Ino 進行編譯時出現 Robot_Control 的錯誤訊息"
+date:   2013-11-24
+tags:   ["Arduino", "OS X", "CLI | 命令列介面", "Ubuntu"]
 feature:
-    photo:       true
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo:     true
+    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-11-24-arduino-error-about-robot-control-when-use-ino-to-compile.jpg"
 ---
 
 發現當使用 Ino 進行編譯時都會出現以下的編譯錯誤訊息：

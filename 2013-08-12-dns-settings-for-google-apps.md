@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "DNS 設定 for Google Apps"
-date:    2013-08-12
-tags:    ["DNS", "network management | 網路管理", "Google Apps"]
+layout: post
+title:  "DNS 設定 for Google Apps"
+date:   2013-08-12
+tags:   ["DNS", "network management | 網路管理", "Google Apps"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 由於懶得自行管理 mail server，想起之前實習的公司曾用過 [Google Apps](http://www.google.com/apps) 代管 mail server，而且其他實驗室也有使用 Google Apps  作為代管的，所以決定也幫實驗室申請一個！
@@ -44,7 +40,6 @@ group      3600 IN CNAME ghs.googlehosted.com.
 
 由於我也啟用了其它的服務，所以不只有 mail 要設定而已！
 
-
 另外，可以新增 [SPF](http://www.openspf.org/) 設定，以防止同網域的郵件被送進垃圾郵箱中。只要增加一筆 TXT record 並指向 `v=spf1 include:_spf.google.com ~all` 這個內容即可！內容如下：
 
 ```
@@ -59,4 +54,3 @@ group      3600 IN CNAME ghs.googlehosted.com.
 - [MX record values - Google Apps Help](https://support.google.com/a/bin/answer.py?hl=en&answer=174125&topic=2683820&ctx=topic)
 - [Create a custom web address - Google Apps Help](http://support.google.com/a/bin/answer.py?hl=en&answer=53340)
 - [Create SPF records - Google Apps Help](http://support.google.com/a/bin/answer.py?hl=en&answer=178723&topic=2759192&ctx=topic)
-

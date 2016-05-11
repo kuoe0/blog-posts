@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "學生論壇 - 不夢，以踏實尋道登峰 - 鄭匡宇"
-date:    2012-05-24
-tags:    ["talk | 演講", "dream | 夢想", "realize | 實踐"]
+layout: post
+title:  "學生論壇 - 不夢，以踏實尋道登峰 - 鄭匡宇"
+date:   2012-05-24
+tags:   ["talk | 演講", "dream | 夢想", "realize | 實踐"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-05-24-talk-stop-dreaming-do-something.jpg"
     creator:     "DVIDSHUB"
     url:         "https://www.flickr.com/photos/dvids/8735703666"
     license:     "CC 2.0"
@@ -58,7 +59,6 @@ feature:
 而學生代表也有過相同的經驗，於是他找了一位教授談。那位教授告訴他，人生就像是個曲線，不可能永遠在高點。當你在高點時，一定會掉下來到低點。而你在低點時，會努力衝向高點。所以，當我們完成了一件事情或是一個夢想，不應該覺得自己已經沒有目標而持續低落，而是需要找尋下一個夢想，繼續前進。
 
 **若是我們一直處於高點，那麼將沒有低點，既然沒有低點，那何來高點？換句話說，就是一直在低點，因為沒有高點。**這樣只不過是條水平線罷了，那將是平淡無奇的人生。
-
 
 ## 不一定要放下一切
 

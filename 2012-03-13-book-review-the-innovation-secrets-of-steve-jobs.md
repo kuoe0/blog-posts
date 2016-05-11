@@ -1,14 +1,11 @@
 ---
-layout:  post
-title:   "[閱讀雜記] 揭密：透視賈伯斯驚奇的創新秘訣"
-date:    2012-03-13
-tags:    ["book review | 閱讀雜記", "Steve Jobs | 賈伯斯", "Apple"]
+layout: post
+title:  "[閱讀雜記] 揭密：透視賈伯斯驚奇的創新秘訣"
+date:   2012-03-13
+tags:   ["book review | 閱讀雜記", "Steve Jobs | 賈伯斯", "Apple"]
 feature:
-    photo:       true
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo:     true
+    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-03-13-book-review-the-innovation-secrets-of-steve-jobs.jpg"
 ---
 
 圖書資訊：[揭密：透視賈伯斯驚奇的創新秘訣](http://www.anobii.com/books/%E6%8F%AD%E5%AF%86/9789861577623/012bb326c49991e84c/)
@@ -92,4 +89,3 @@ feature:
 賈伯斯總能使用簡單且生動的用語來吸引與感動觀眾。簡報技巧，是我認識賈伯斯的起源。為了學習簡報技巧，才發現賈伯斯的簡報功力備受推崇，也因此成為我所想要學習的目標。
 
 有願景，有夢想，不懂的傳遞，那也是白搭。許多公司常常喜歡強調技術，講許多大眾聽不懂的話來顯現產品的強大。但其實，當大眾聽不懂時，或許真的覺得很厲害，但同時可能也覺得自己不需要這麼強大的東西。用簡單的語言，生動的描述，當大眾都聽的懂時，他們才會真正去思考自己的需求。
-

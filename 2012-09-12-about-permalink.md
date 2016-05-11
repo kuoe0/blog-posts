@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "關於 PermaLink"
-date:    2012-09-12
-tags:    ["PermaLink | 永久鏈結", "web dev | 網頁開發", "SEO | 搜尋引擎最佳化"]
+layout: post
+title:  "關於 PermaLink"
+date:   2012-09-12
+tags:   ["PermaLink | 永久鏈結", "web dev | 網頁開發", "SEO | 搜尋引擎最佳化"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 PermaLink 其實是 permanent link 的意思，也就是「永久鏈結」，也有人翻作「靜態鏈結」。用來使網站中的每一頁面都有屬於自己的網址！

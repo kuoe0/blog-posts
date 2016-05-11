@@ -1,14 +1,11 @@
 ---
-layout:  post
-title:   "遷移至 AWS 以及新域名"
-date:    2011-08-09
-tags:    ["AWS", "WordPress", "domain name | 域名"]
+layout: post
+title:  "遷移至 AWS 以及新域名"
+date:   2011-08-09
+tags:   ["AWS", "WordPress", "domain name | 域名"]
 feature:
-    photo:       true
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo:     true
+    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-08-09-migration-to-the-aws-and-the-new-domain-name.jpg"
 ---
 
 上禮拜歷經千辛萬苦，總算成功申請到 AWS 的帳號，也曾經先自己在 localhost 嘗試搬家的工程，歷經一整晚才成功。

@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "看懂 XPCOM 的轉型函式"
-date:    2015-04-17
-tags:    ["Mozilla", "Firefox", "XPCOM", "typecasting | 轉型"]
+layout: post
+title:  "看懂 XPCOM 的轉型函式"
+date:   2015-04-17
+tags:   ["Mozilla", "Firefox", "XPCOM", "typecasting | 轉型"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2015-04-17-understand-the-typecasting-of-xpcom.jpg"
     creator:     "Alan Levine"
     url:         "https://www.flickr.com/photos/cogdog/8662368656"
     license:     "CC 2.0"
@@ -30,7 +31,6 @@ feature:
 ![QueryInterface](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2015-04-17-understand-the-typecasting-of-xpcom-1.png)
 
 而 `QueryInterface` 的函式定義不需要自己編寫，編譯器可以幫我們產生。在編寫 XPCOM 元件時，只要加入 `NS_DECL_ISUPPORTS` 這個敘述在類別的定義中即可使得該類別具有 **nsISupports** 的介面。而在成員函式的實作中，只要加上 `NS_IMPL_ISUPPORTS(class name, interface1, interface2, ...)`，編譯器就會產生相對應的 **`QueryInterface`**、`AddRef` 與 `Release` 這三個成員函式的定義。如果是使用 JavaScript 所寫的 XPCOM 元件的話，只要在 prototype 中加入 `QueryInterface: XPCOMUtils.generateQI([Ci.interface1, Ci.interface2, ...])` 這個項目，即可自動產生相對應的 `QueryInterface` 函式。
-
 
 ## `GetInterface`
 
@@ -158,7 +158,6 @@ private:
 };
 ```
 
-
 這裡定義了 **nsQueryInterface** 的 functor (`operator()`)，所以 **nsQueryInterface** 該類別的物件可以被作為函式進行呼叫。而其定義如下：
 
 ```cpp
@@ -203,7 +202,6 @@ MOZ_IMPLICIT nsCOMPtr(const nsCOMPtr_helper& aHelper)
 ```
 
 接下來就類似 `do_QueryInterface` 的流程進行下去，最後一樣會把 **nsGetInterface** 物件作為函式呼叫，來實際呼叫 `GetInterface`。
-
 
 ## `do_QueryObject`
 
@@ -289,10 +287,8 @@ nsCOMPtr<nsIDocShellTreeItem> docShellItem(do_QueryInterface(static_cast<nsIDocS
 
 然而，`static_cast` 不會檢查執行期的物件狀態，單純檢查類別之間是否存在繼承關係。因此，在執行期物件可能會無法轉型成功而造成程式執行錯誤。理論上，不建議使用 `static_cast` 這樣危險的轉型方法。
 
-
 ## 總結
 
 以上我們介紹了 `QueryInterface` 與 `GetInterface` 的相異之處。主要的差別在於轉型後的結果是否可以透過同樣的方式轉型回去。
 
 另外，我們介紹了這兩個轉型函式的輔助函式 `do_QueryInterface`、`do_GetInterface` 與 `do_QueryObject`。`do_QueryInterface` 與 `do_GetInterface` 差別在於 `QueryInterface` 與 `GetInterface` 的功能上差異。而 `do_QueryInterface` 與 `do_QueryObject` 其功能上完全相同，差別在於使用的對象。`do_QueryInterface` 用來對一個 **XPIDL interface 的指標**請求某個 XPIDL interface，`do_QueryObject` 則用來對一個**實體類別的指標**請求某個 XPIDL interface。
-

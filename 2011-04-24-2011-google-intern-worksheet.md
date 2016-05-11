@@ -1,12 +1,13 @@
 ---
-layout:  post
-title:   "2011 Google Intern Worksheet"
-date:    2011-04-24
-tags:    ["Google", "intern | 實習"]
+layout: post
+title:  "2011 Google Intern Worksheet"
+date:   2011-04-24
+tags:   ["Google", "intern | 實習"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-04-24-2011-google-intern-worksheet.jpg"
     creator:     "Carlos Luna"
-    url:         "https://www.flickr.com/photos/carlosluna/2856173673"
+	url:         "https://www.flickr.com/photos/carlosluna/2856173673"
     license:     "CC 2.0"
     license_url: "https://creativecommons.org/licenses/by/2.0/"
 ---
@@ -26,7 +27,6 @@ feature:
 我的想法就是先對 n 取26的模數，模數為 1，表示最尾端的字母為 A，模數為 25 就為 Y，模數為 0 就是 Z。取完模數後，再對 n 除以 26，但若之前取得到的模數為 0，要先對 n 減去 26 再做除以 26 的步驟。如此重複直到 n 被除到剩 0 結束，就可以得到 column 的名稱了。
 
 <script src="https://gist.github.com/1595344.js?file=toExcelColumnName.cpp"></script>
-
 
 **第二題**
 
@@ -88,5 +88,3 @@ submit 後，會收到以下的訊息。
 真希望他在這幾個禮拜可以聯絡我。
 
 **Please contact me in the next few weeks.**
-
-

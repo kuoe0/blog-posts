@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[GCJ 2013] Qualification Round - B - Lawnmower"
-date:    2013-04-14
-tags:    ["Google Code Jam"]
+layout: post
+title:  "[GCJ 2013] Qualification Round - B - Lawnmower"
+date:   2013-04-14
+tags:   ["Google Code Jam"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 題目網址：[B - Lawnmower](https://code.google.com/codejam/contest/2270488/dashboard#s=p1)
@@ -39,7 +35,6 @@ large case:
 
 若可以利用該割草機達到該樣式，輸出 YES，否則輸出 NO。
 
-
 ---
 
 ## 解題思路
@@ -59,4 +54,3 @@ large case:
 <script src="https://gist.github.com/KuoE0/5381892.js"></script>
 
 Source code on [gist](https://gist.github.com/5381892).
-

@@ -1,11 +1,12 @@
 ---
-layout:  post
-title:   "研發替代役面試"
-date:    2014-02-01
-tags:    ["interview | 面試", "RDSS | 研發替代役"]
+layout: post
+title:  "研發替代役面試"
+date:   2014-02-01
+tags:   ["interview | 面試", "RDSS | 研發替代役"]
 feature:
     photo:       true
-    creator:     "COD Newsroom" 
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-02-01-interview-for-the-rdss.jpg"
+    creator:     "COD Newsroom"
     url:         "https://www.flickr.com/photos/codnewsroom/12439343164"
     license:     "CC 2.0"
     license_url: "https://creativecommons.org/licenses/by/2.0/"
@@ -27,7 +28,6 @@ feature:
 因為本來沒什麼想要找研替，所以沒有特別用心去寫 104 上面的資料，就填了些必須要填的資料，連自傳獎狀都沒有放...。除了聯發科與群聯之外的公司都是透過 104 應徵，聯發科則是用聯發科的招聘系統，至於群聯就是收到面試邀約的信件。
 
 最後只有 Yahoo 沒被通知面試外，其他都有機會參與面試，所以一共是四間，以下就是各間公司的面試心得（依照面試順序）：
-
 
 ## 群暉科技 Synology
 
@@ -78,7 +78,6 @@ feature:
 基本上這一階段技術問題就不太多了，不過我常常被問的問題就是「你的成績是怎麼回事？」由於成績單太難看，所以這問題實在很常遇到。但其中一位主管很酷，他說他最喜歡這種學生了，至少代表我不是書呆子！此外就是自我介紹、求學歷程、研究方向以及職涯規劃。在這個階段的另一個主要目的就是部門介紹，對於該部門或是 Mozilla 有任何問題都可以在這階段提出！
 
 整個 Mozilla 的面試就到這告一段落了，很快的就收到錄用通知。經過一番考慮後，我也決定我人生的第一份工作就在 Mozilla 了！
-
 
 ## 聯發科技 MediaTek
 
@@ -132,4 +131,3 @@ feature:
 **面試練功**
 
 建議把有興趣的公司分個志願序，大概分成兩個志願就好。一開始先去那些被排在第二志願的公司面試，當做練功。主要就是讓自己對於面試比較不會那麼緊張，再來就是把一些應答練習得更加流利。像自我介紹這種每次都要講的內容，就可以趁這個機會好好的練順。此外，大部分面試問的問題都不會相差太多，所以也可以趁這機會知道一些題目，如果答不出來，回家後也一定要把答案找出來！接下來就可以去第一志願的公司進行面試了，相信一定會穩得多！
-

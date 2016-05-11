@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "重置被遺忘的 OS X 系統管理員密碼"
-date:    2013-04-12
-tags:    ["OS X", "security | 安全性"]
+layout: post
+title:  "重置被遺忘的 OS X 系統管理員密碼"
+date:   2013-04-12
+tags:   ["OS X", "security | 安全性"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-04-12-reset-the-forgotten-password-of-admin-in-os-x.jpg"
     creator:     "Andreas Wieser"
     url:         "https://www.flickr.com/photos/andilicious/4279831984"
     license:     "CC 2.0"

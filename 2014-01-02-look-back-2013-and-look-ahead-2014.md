@@ -1,14 +1,11 @@
 ---
-layout:  post
-title:   "回顧 2013 與展望 2014"
-date:    2014-01-02
-tags:    ["life | 人生"]
+layout: post
+title:  "回顧 2013 與展望 2014"
+date:   2014-01-02
+tags:   ["life | 人生"]
 feature:
-    photo:       true
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo:     true
+    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-01-02-look-back-2013-and-look-ahead-2014.jpg"
 ---
 
 ## 回顧 2013
@@ -51,7 +48,6 @@ feature:
 - [使用 Common Lisp 抓取中央氣象局預報資料](http://blog.kuoe0.tw/posts/2013/09/27/use-common-lisp-to-crawl-forecast-data-from-cwb)
 
 其中「Prolog 入門」該文章也有幸被收錄到[程式人雜誌 2013 年 8 月](http://programmermagazine.github.io/201308/htm/article3.html)。
-
 
 暑假則因為開始幫實驗室架設伺服器，學了些伺服器管理的知識，雖然曾經修過相關課程，但真的實際架作為實際用途才真的有學習到東西。下半年開始接觸 Arduino，又開始找回些嵌入式系統的知識。不過這一年也開始寫了一點點網頁，雖然都非常簡陋，但也從中學到些東西。尤其是怎麼直接套用 Bootstrap，也用它來製作暫時的實驗室網頁－[MISLab Website](http://mislab.csie.ncku.edu.tw/)，對於快速製作一個靜態網頁真的滿方便的。另外放出了兩個 opensource 的專案，分別是：
 
@@ -167,6 +163,5 @@ feature:
 ### 完成實驗室網站
 
 ![website](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2014-01-02-look-back-2013-and-look-ahead-2014-15.jpg)
-
 
 前面有提及到目前的臨時網站，目前該網頁僅僅是一個靜態網頁，所有資料的更新都需要自行編輯 HTML 檔案來更新，實在太弱了！因此希望可以開發出較方便使用也優美的實驗室網站，也希望藉此來提升網頁開發能力！

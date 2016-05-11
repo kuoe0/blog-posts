@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "位元運算之運用"
-date:    2012-01-26
-tags:    ["bitwise operation | 位元運算", "C/C++"]
+layout: post
+title:  "位元運算之運用"
+date:   2012-01-26
+tags:   ["bitwise operation | 位元運算", "C/C++"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 位元運算是許多程式設計中常見的技巧，最主要的優點不外乎是**效率**與程式碼的**簡潔**。但其最大的缺點就是**可讀性非常差**，而且**限制也較多**。
@@ -29,7 +25,6 @@ feature:
 | `|` | or 運算 |
 | `^` | xor 運算 |
 | `~` | not 運算 |
-
 
 ### 二的補數
 
@@ -160,7 +155,6 @@ x & ( x - 1 )
 
 x 減去 1 時，其最低位位元 1 將會被低於該位的位數拿去使用。因此在最低位位元 1 之前的位元 0 都將變為位元 1，而該最低位位元 1 將會變成位元 0。再透過 and 運算，最低位 1 位元將被消去。
 
-
 **方法二**
 
 ```c++
@@ -172,4 +166,3 @@ x - ( x & -x)
 **應用**
 
 消去最低位位元 1 再應用上可以用來計算位元 1 的數量。另外還有個經典的應用，[Binary Indexed Tree](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=binaryIndexedTrees) 的操作上就是使用消去或最低位位元 1，有興趣可以去研究一下，真的是非常漂亮的資料結構。
-

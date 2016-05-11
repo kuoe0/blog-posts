@@ -1,11 +1,12 @@
 ---
-layout:  post
-title:   "接受與改變"
-date:    2011-12-14
-tags:    ["life | 人生"]
+layout: post
+title:  "接受與改變"
+date:   2011-12-14
+tags:   ["life | 人生"]
 feature:
     photo:       true
-    creator:     "Paul Reynolds" 
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-12-14-accept-and-change.jpg"
+    creator:     "Paul Reynolds"
     url:         "http://www.flickr.com/photos/46153825@N00/9508048973"
     license:     "CC 2.0"
     license_url: "https://creativecommons.org/licenses/by/2.0/"
@@ -27,7 +28,6 @@ feature:
 4. 於數字 4 ~ 6 旁各寫下一位朋友或親戚的名字
 5. 於數字 8 ~ 11 旁各寫下一首歌的名稱
 
-
 ### 測驗結果
 
 為求方便，我將各欄位的值以 V<sub>x</sub> 表示。ex. 數字 1 旁的數字我將表示為 V<sub>1</sub>，數字 3 旁的名稱表示為 V<sub>3</sub>。
@@ -42,7 +42,6 @@ feature:
 - V<sub>9</sub> 是給 V<sub>7</sub> 的歌
 - V<sub>10</sub> 是你的想法
 - V<sub>11</sub> 是你對生活的感受
-
 
 但其實這個測驗不是重點，準不準就自由心證了。但在我們看到結果後，陸教授就問我們是不是接受這個結果。陸教授希望我們能學會接受，**唯有接受才能獲得**。陸教授也提到所有我們逃避的事物，都將在 40 ~ 45 歲時回來找我們。因此我想我們不該排斥任何事物，要學著接受。
 
@@ -66,7 +65,6 @@ feature:
 前面講到了接受，我認為要改變就要先**接受自己**，另外還要**接受改變**。唯有在瞭解自己的情況下，來知道自己需要做出的改變。改變是痛苦的，因為改變會造就一個未知的未來，重新將自己丟進一個艱辛的環境。我們常常可以聽到「**人在艱困中成長**」，但人們往往會想安於現狀就好。
 
 或許現狀過的很痛苦，但很多人往往將原因歸因於環境。為何不自己做出些改變？！總是在等待契機的出現。而真正成功的人，不是等待契機，而是創造機會。既然環境不適合自己，那就改變自己讓環境需要。
-
 
 ### 例子
 

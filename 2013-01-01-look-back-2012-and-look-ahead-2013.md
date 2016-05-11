@@ -1,20 +1,16 @@
 ---
-layout:  post
-title:   "回顧 2012 與展望 2013"
-date:    2013-01-01
-tags:    ["life | 人生"]
+layout: post
+title:  "回顧 2012 與展望 2013"
+date:   2013-01-01
+tags:   ["life | 人生"]
 feature:
-    photo:       true
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo:     true
+    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-01-01-look-back-2012-and-look-ahead-2013.jpg"
 ---
 
 ## 回顧 2012
 
 2012 過去了，該來檢討這一年的所作所為了！
-
 
 ### ACM-ICPC（2011 期望）
 
@@ -32,7 +28,6 @@ feature:
 
 自從升大四的暑假去了精靈實習後就喜歡上了網頁，因此決定好好精進自己網頁開發能力。老實說我並沒有花極大的心力在學習網頁開發上，不過這一年內修了「社群網站程式設計」以及擔任「網頁應用及程式設計」助教，基本上都是「**從做中學，遇到問題再解決**」的方式在學習。我想勉強有達到這個願望，不過學藝不精倒是。
 
-
 ### 英文能力精進（2011 期望）
 
 ![english](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-01-01-look-back-2012-and-look-ahead-2013-3.jpg)
@@ -49,7 +44,6 @@ feature:
 
 我想我多少恢復了些自信，與 2011 年比較起來實在好很多了。我想需要感謝「**閱讀**」這件事，看了一些書籍後看開了許多事情，許多以往非常看重的事情也漸漸放下了。在許多書籍上也找到了些屬於自己的道路，有些事不需要強求，做好自己就夠了，就像「[**無敵破壞王**](http://www.imdb.com/title/tt1772341/)」一樣。
 
-
 ### 學習攝影
 
 ![camera](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-01-01-look-back-2012-and-look-ahead-2013-5.jpg)
@@ -58,30 +52,25 @@ feature:
 
 為了替自己與他人留下更多照片來回憶，決定買台相機，從此進入相機坑…。買相機的另一個理由是想拍下好的照片，希望哪天自己 blog 用的圖是自己拍的！在這一年內，因為買了相機學習了許多照相的基本原理（光圈、快門、ISO 等），不過還是很不會構圖不會抓氛圍，拍的還不夠好。也因為想學習拍照加入了「**攝影社**」，在攝影社更認識了不同的朋友，實在很棒！在攝影社還學了怎麼沖片與放相，真的很棒的體驗，不過太過忙碌只去過一次，希望下次還有機會自己沖片放相，自己沖洗的照片感覺很特別啊！也因為開始拍照，令我喜歡旅遊喜歡大自然，重新找回兒時對天文的喜好。
 
-
 ### 大學畢業
 
 ![graduate](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-01-01-look-back-2012-and-look-ahead-2013-6.jpg)
 
 (photo credit: [Md saad andalib](https://www.flickr.com/photos/saadandalib/8536426163), [CC 2.0](https://creativecommons.org/licenses/by/2.0/))
 
-
 大學畢業莫過於人生最重要的事情之一了，這是人生進入下一階段的轉捩點，不過繼續唸研究所的我可能差別不大。但這四年來認識了許多好朋友，今年畢業後大家又要各奔西東，以後見面機會也減少了。很高興這四年可以認識這些這麼棒的朋友，感謝這四年的照顧與陪伴，願我們友情長存！
 
 另外，可以順利畢業對我來說也是可喜可賀，大一太混導致必修學分不足的危機。直到大四才重修普物，很慶幸的修過了，這次重修也讓我重新認識物理，讓我又開始喜歡物理了！
 
-
 ### 環島一周
 
 ![taiwan](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-01-01-look-back-2012-and-look-ahead-2013-7.jpg)
-
 
 因為開始拍照而喜歡旅行，因為看到「**有些事現在不做，一輩子都不會做了**」這句話，決定踏上環島旅程，只趁我還是學生。不過 2012 的暑假實在風災頻傳，幾乎每週遭遇颱風，預定出發日期也因颱風延期，預定抵達日期也因颱風提前。不過很幸運的讓我在兩個颱風中的空檔成功環島！很感謝願意陪伴我一起環島的兩位同伴，這十天感謝你們的機車幫我載東西 XD。
 
 這一趟下來，拜訪了許多從未到過的地方，很新奇的體驗；到了許多兒時就已拜訪過的地方，突然懷念起兒時。都市待久了真的覺得有點膩有點煩悶，環島經過了不少鄉間小鎮，寬敞的道路僅有少量的車輛，少了都市的緊湊與擁擠真的還不錯，很悠閒！
 
 不過這趟旅程比較可惜的是，蘇花公路因為蘇拉颱風作亂導致坍方。一直到我們抵達了花蓮當天仍未搶通，該路段只好改搭乘火車到羅東，機車也一併交給台鐵託運。沒能一睹清水斷崖的美景，實在可惜啊！若時間允許，希望 2013 年暑假，我還能在環島一次！
-
 
 ### 嵌入式系統開發
 
@@ -96,8 +85,6 @@ Jserv 學長今年九月開始在成大授課，開設「**進階嵌入式程式
 起初還在使用 QEMU 進行硬體模擬時，我充滿著熱忱，不眠不休也要完成作業。開始接觸開發板後，作業進度緩慢至極，甚至沒有完成，究竟是我還沒對硬體培養出興趣還是剛好開發板下來時，期末近了雜事多了？！
 
 最近開始進行期末 project，更發現自己對於電路完全不熟。過去物理課程中也學了不少電路的計算，但實作時竟然一翹不通。
-
-
 
 ### 世界末日
 
@@ -120,7 +107,6 @@ Jserv 學長今年九月開始在成大授課，開設「**進階嵌入式程式
 
 決定投身培訓的行列，希望能將自己這幾年的比賽經驗與所學好好交給學弟妹。我不求學弟妹可以得獎，只求不要誤人子弟就好！加入培訓的行列，我想除了教導學弟妹外，相信也能從中獲得許多，可以重新複習演算法、學習表達能力與交朋友！
 
-
 ### 英文能力精進
 
 ![english](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-01-01-look-back-2012-and-look-ahead-2013-11.jpg)
@@ -128,7 +114,6 @@ Jserv 學長今年九月開始在成大授課，開設「**進階嵌入式程式
 (photo credit: [Martin Abegglen](https://www.flickr.com/photos/twicepix/7923685928), [CC-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))
 
 這個願望又出現了，好像每年都在我的新年新希望之中，不知道哪天才能做到就是了。希望這學期忙碌過後，可以天天 [CNN]((http://edition.cnn.com/studentnews/index.html)) 或 [TED](http://www.ted.com/) 啊！
-
 
 ### 提升自身的技術
 
@@ -138,14 +123,12 @@ Jserv 學長今年九月開始在成大授課，開設「**進階嵌入式程式
 
 周遭實在太多厲害的人了，自身所學都來自他人的貢獻，其實很希望自己能有一天也能成為貢獻的人，而不是一味的接受。要提升自己的技術能力，我看也只有看更多的資料，寫更多的程式了。
 
-
 ![exercise](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-01-01-look-back-2012-and-look-ahead-2013-13.jpg)
 
 (photo credit: [Dave Dugdale
 ](https://www.flickr.com/photos/davedugdale/14345129236), [CC-BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/))
 
 **健康**是金錢買不到的，天生身體就不太好，這樣的我還不好好運動根本是在傷害自己。其實一直很希望可以持續運動，但總是拿忙碌當藉口，其實不過是自己懶惰。去年買了雙運動鞋，起初還很認真的跑了幾次，但漸漸的就不再跑了，可見我的恆心不足！今年一定要養成運動的習慣，不管是跑步或游泳都好！
-
 
 ### 時間控管
 

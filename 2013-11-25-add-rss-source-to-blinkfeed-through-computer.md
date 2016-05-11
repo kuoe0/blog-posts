@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "透過電腦在 BlinkFeed 中增加 RSS 來源"
-date:    2013-11-25
-tags:    ["HTC", "BlinkFeed", "RSS"]
+layout: post
+title:  "透過電腦在 BlinkFeed 中增加 RSS 來源"
+date:   2013-11-25
+tags:   ["HTC", "BlinkFeed", "RSS"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 這幾天 HTC one 終於有機會升到 Sense 5.5 版本了！在這個版本中，一個我最喜歡的變更是－BlinkFeed 可以自行增加 RSS 來源！
@@ -41,10 +37,8 @@ Starting: Intent { act=com.htc.socialnetwork.rss.ADD_FEED dat=http: cmp=com.htc.
 
 ![added it to BlinkFeed](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-11-25-add-rss-source-to-blinkfeed-through-computer-2.png)
 
-
 如果還要加入其他 RSS 來源的話，只要把我的部落格訂閱連結換成想要訂閱的連結即可！
 
 **參考資料：**
 
 - [http://forum.xda-developers.com/showthread.php?t=2489219](http://forum.xda-developers.com/showthread.php?t=2489219)
-

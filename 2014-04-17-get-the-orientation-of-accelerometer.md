@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "獲取加速計之姿態"
-date:    2014-04-17
-tags:    ["accelerometer | 加速計", "IMU | 慣性測量單元", "orientation | 姿態", "spatial rotation | 空間旋轉"]
+layout: post
+title:  "獲取加速計之姿態"
+date:   2014-04-17
+tags:   ["accelerometer | 加速計", "IMU | 慣性測量單元", "orientation | 姿態", "spatial rotation | 空間旋轉"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 目前碩論使用了加速計，遇到一個問題是要求出當前加速計的姿態，也就是要知道現在加速計對於地面的傾角。
@@ -17,9 +13,7 @@ feature:
 
 ![受力示意圖](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2014-04-17-get-the-orientation-of-accelerometer-1.png)
 
-
 透過計算出當前姿態後，可以利用得到的傾角將加速計坐標系變換回現實坐標系。如下圖所示：
-
 
 ![變換至現實坐標系](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2014-04-17-get-the-orientation-of-accelerometer-2.png)
 
@@ -47,7 +41,6 @@ $$
 
 **Pitch Angle (θ)**
 
-
 ![XZ' 平面](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2014-04-17-get-the-orientation-of-accelerometer-4.png)
 
 上圖為望向 XZ' 平面之視圖，Y 軸的正向即為眼睛往螢幕之方向。同樣的只要將該坐標系沿著第一次旋轉後的新 Y 軸（Y' 軸）順時針旋轉 θ 即可使得新 X 軸（X' 軸）垂直於重力方向，令 X 軸上的重力分量積聚到新<sup>2</sup> Z 軸（Z'' 軸）。
@@ -61,4 +54,3 @@ $$
 旋轉過後的新<sup>2</sup> Z 軸（Z'' 軸）則剛好與重力方向重疊，因此其受力將會等於 1 (g)。
 
 經過以上的計算，我們就可以得到加速計的姿態，並利用求得的角度將加速計坐標重新對應到現實坐標系上。
-

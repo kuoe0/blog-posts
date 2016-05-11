@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[ZJ College] d151 - Break Up is Hard to Do"
-date:    2011-10-12
-tags:    ["ZeroJudge - College", "BFS | 廣度優先搜索", "DFS | 深度優先搜索", "enumerate | 枚舉"]
+layout: post
+title:  "[ZJ College] d151 - Break Up is Hard to Do"
+date:   2011-10-12
+tags:   ["ZeroJudge - College", "BFS | 廣度優先搜索", "DFS | 深度優先搜索", "enumerate | 枚舉"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 題目網址：[d151 - Break Up is Hard to Do](http://140.122.185.166/ZeroJudge/ShowProblem?problemid=d151)
@@ -52,7 +48,6 @@ Alice 跟 Bob 是男女朋友，他們住在不同的城市。有一天他們吵
 可以使用 DFS 枚舉 Alice 的路徑，當找到一條路徑時，就使用 BFS 來搜尋是否存在路徑給 Bob。如此一來，就不用將所有的路線儲存起來一一枚舉。
 
 > Time Complexity: O(N)
-
 
 ### Source Code
 

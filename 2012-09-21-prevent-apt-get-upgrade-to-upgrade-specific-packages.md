@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "防止 apt-get upgrade 升級特定套件"
-date:    2012-09-21
-tags:    ["Ubuntu", "Linux"]
+layout: post
+title:  "防止 apt-get upgrade 升級特定套件"
+date:   2012-09-21
+tags:   ["Ubuntu", "Linux"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 APT 是 Debian 下的套件管理器，Ubuntu 衍生自 Debian，因此自然而然的也繼承了 APT 這個套件管理器。APT 可以幫助我們下載、安裝或升級套件等等，這些就不在此討論了。
@@ -49,5 +45,3 @@ dpkg 是 APT 的底層工具，因此我們可以直接使用他來進行設定�
 `echo "<packagename> hold" | dpkg --set-selections`
 
 基本上就是先將套件的新狀態輸出並導向至 dpkg！
-
-

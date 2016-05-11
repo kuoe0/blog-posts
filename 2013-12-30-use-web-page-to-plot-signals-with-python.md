@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "使用網頁作為訊號繪製界面 (with Python)"
-date:    2013-12-30
-tags:    ["Python", "signal plotting | 訊號繪製", "Tornado", "jQuery", "Flot", "web dev | 網頁開發", "MPU6050"]
+layout: post
+title:  "使用網頁作為訊號繪製界面 (with Python)"
+date:   2013-12-30
+tags:   ["Python", "signal plotting | 訊號繪製", "Tornado", "jQuery", "Flot", "web dev | 網頁開發", "MPU6050"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 之前使用過 Python 的 matplotlib 套件來繪製，可惜僅能事先錄製好訊號，再將存放訊號的檔案透過 matplotlib 來繪製訊號圖。這樣的方式除了愚蠢外，也不便於硬體開發，因此打算寫一個 GUI 程式並可以即時 (real-time) 的繪製出訊號。
@@ -50,7 +46,6 @@ if __name__ == "__main__":
 
 這時候只要用瀏覽器打開 [http://localhost:8888/](http://localhost:8888/)，就可以看到以下畫面：
 
-
 ![Tornado Hello World](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-12-30-use-web-page-to-plot-signals-with-python-1.png)
 
 上述的程式碼分為三個部分來講解，第一部分是 `MainHandler` 的部分。主要就是定義一個 request handler 繼承至 `tornado.web.RequestHandler`。並重載一個 `get` 成員函式，當有一個 `GET` 請求發生時，該函式將被呼叫。很直覺的可以想到，如果發生 `POST` 請求呢？那麼就重載一個 `post` 成員函式即可。函式主體就編寫你想要呈現在網頁上的內容，就如同範例中只輸出一個 Hello, world 這樣。若是發生沒有重載的請求，則會回傳 405 錯誤碼。可以將這邊看作是 MVC 中的 M (Model) 部分。 
@@ -62,7 +57,6 @@ if __name__ == "__main__":
 ~~如果不想利用 `self.write` 的方式來寫 HTML tag 的話，應該可以考慮像 [Jinja 2](http://jinja.pocoo.org/) 之類的樣板引擎來使用，如此就可以擁有完整的 MVC 模型了！~~
 
 既然有了 MVC 的 M 與 C 了，那麼 V (View) 怎麼可以缺少呢！可以引入 `tornado.template` 來增加模板的功能，詳細可以參考官方文件－[tornado.template — Flexible output generation](http://www.tornadoweb.org/en/stable/template.html)。
-
 
 ## Back-end
 
@@ -119,7 +113,6 @@ tornado.ioloop.IOLoop.instance().start()
 
 如此一來我們就完成訊號接收與傳送的 API 了！用瀏覽器開啟 [http://localhost:8888/](http://localhost:8888/) 即可看到以下畫面：
 
-
 ![Tornado Signal Receive API](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-12-30-use-web-page-to-plot-signals-with-python-2.png)
 
 或使用 `curl http://localhost:8888/` 指令，也可以獲得以下資料：
@@ -173,10 +166,7 @@ class MainHandler(tornado.web.RequestHandler):
 
 用瀏覽器開啟編寫好的 Html 檔案即可看到以下畫面：
 
-
-
 ![Flot Signal Plotting](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-12-30-use-web-page-to-plot-signals-with-python-3.png)
-
 
 ## Source Code
 
@@ -309,7 +299,6 @@ if __name__ == "__main__":
 </body>
 </html>
 ```
-
 
 我自己本身是用來量測 MPU6050 該慣性測量感測器，如有需要歡迎到我的 Github 頁面下載，也歡迎 fork 回去自行修改：[MPU6050-WebPlot](https://github.com/KuoE0/MPU6050-WebPlot)。
 

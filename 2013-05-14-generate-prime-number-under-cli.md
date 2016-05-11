@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "在 CLI 下產生質數表"
-date:    2013-05-14
-tags:    ["CLI | 命令列介面", "Unix", "prime | 質數"]
+layout: post
+title:  "在 CLI 下產生質數表"
+date:   2013-05-14
+tags:   ["CLI | 命令列介面", "Unix", "prime | 質數"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 最近為了出作業需要 1~1000 中的所有質數，雖然用 C/C++ 寫個 [Sieve of Eratosthenes](http://blog.kuoe0.tw/posts/2009/10/23/prime-table-sieve-of-eratosthenes) 也是很快，不過還是覺得有點長，還要編譯很麻煩。（謎：那就用 python 啊！）

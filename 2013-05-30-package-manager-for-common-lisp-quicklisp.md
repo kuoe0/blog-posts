@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "Common Lisp 套件管理員 - Quicklisp"
-date:    2013-05-30
-tags:    ["Common Lisp", "Quicklisp"]
+layout: post
+title:  "Common Lisp 套件管理員 - Quicklisp"
+date:   2013-05-30
+tags:   ["Common Lisp", "Quicklisp"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 Quicklisp 是 Common Lisp 的第三方套件管理套件，就像 Python 的 pip 或是 Ruby 的 gem 一樣，可以利用它安裝該語言豐富的第三方套件。可以到官方網站 ([連結](http://www.quicklisp.org/beta/releases.html)) 查看目前支援的套件有哪些！
@@ -28,7 +24,6 @@ Quicklisp 是 Common Lisp 的第三方套件管理套件，就像 Python 的 pip
 - Scieneer CL
 
 不過我個人是採用 [SBCL](http://www.sbcl.org)，所以接下來的內容還是以 sbcl 為主！
-
 
 ## 安裝 Quicklisp
 
@@ -112,4 +107,3 @@ To find systems, use: (ql:system-apropos "term")
 
 - 2013-05-31: 增加 Debian 衍生版安裝方式
 - 2013-05-31: 自訂安裝位置注意結尾的斜線 (slash)
-

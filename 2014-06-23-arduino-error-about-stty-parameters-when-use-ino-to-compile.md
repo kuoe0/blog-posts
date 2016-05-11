@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "Arduino 使用 Ino 進行編譯時出現 stty 參數錯誤"
-date:    2014-06-23
-tags:    ["Arduino", "OS X", "CLI | 命令列介面"]
+layout: post
+title:  "Arduino 使用 Ino 進行編譯時出現 stty 參數錯誤"
+date:   2014-06-23
+tags:   ["Arduino", "OS X", "CLI | 命令列介面"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 > 作業系統：OS X 10.9 Mavericks
@@ -36,4 +32,3 @@ stty failed
 ```
 
 用 grep 搜尋了一下發現用到 stty 的檔案就是 commands/upload.py。進去找後一下 `-f` 參數到底在哪裡設置的，直接把它改成 `-F` 就可以了！
-

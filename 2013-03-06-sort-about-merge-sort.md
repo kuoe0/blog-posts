@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[Sort] 淺談 merge sort"
-date:    2013-03-06
-tags:    ["ACM-ICPC", "sort | 排序", "algorithm | 演算法"]
+layout: post
+title:  "[Sort] 淺談 merge sort"
+date:   2013-03-06
+tags:   ["ACM-ICPC", "sort | 排序", "algorithm | 演算法"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 中譯「合併排序法」，這次要介紹的可是個高效演算法，雖然在小量資料時可能不見得有明顯優勢，但資料量一大即可發現極大的差距！
@@ -155,7 +151,6 @@ Source code on [gist](https://gist.github.com/KuoE0/5091967?file=mergeSort-natur
 | 1000 * | x | 0.22 | 0.11 |
 | 10000 * | x | 1.91 | 0.76 |
 
-
 以上測試資料皆為 100 組，單位為秒 (second)，其中有星號的測試資料表示數列本身是由多組有序數列組成。欄位中標示 x 表示數值與其它欄位差異過大，為了避免圖表因該數據使得上現過大，而無法觀察細微部分，故移除該資料。
 
 除了少於等於 100，發現有給 insertion sort 略勝的機會，但從 500 以後漸漸的可以發現 insertion sort 完全被虐爆。相信大家都可以感覺到 O(*n*log<sub>2</sub>*n*) 與 O(*n*<sup>2</sup>) 得明顯差異了，並且隨著 n 的增長，效能的增進也更加明顯！
@@ -168,10 +163,8 @@ Source code on [gist](https://gist.github.com/KuoE0/5091967?file=mergeSort-natur
 
 Slide on [Speaker Deck](https://speakerdeck.com/kuoe0/merge-sort).
 
-
 ## 相關資料
 
 **[Wikipedia](http://zh.wikipedia.org/zh-tw/%E5%BD%92%E5%B9%B6%E6%8E%92%E5%BA%8F) 上的示意動畫：**
 
 ![merge sort](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-03-06-sort-about-merge-sort-1.gif)
-

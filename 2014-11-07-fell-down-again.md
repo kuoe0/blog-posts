@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "一個跌倒了站不起來的故事"
-date:    2014-11-07
-tags:    ["interview | 面試", "RDSS | 研發替代役"]
+layout: post
+title:  "一個跌倒了站不起來的故事"
+date:   2014-11-07
+tags:   ["interview | 面試", "RDSS | 研發替代役"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-11-07-fell-down-again.jpg"
     creator:     "MFer Photography"
     url:         "https://www.flickr.com/photos/fotostalker/3116391203"
     license:     "CC-BY-ND 2.0"
@@ -86,10 +87,6 @@ int main() {
         
         // 交換子結點
         swap(p1->next, p2->next);
-        
-        // 兩點相鄰的狀況
-        if (p1 == pre2) p2->next = p1;
-        if (p2 == pre1) p1->next = p2;
     }
 
     return 0;
@@ -127,3 +124,7 @@ Node* foo(Node* p) {
 ```
 
 所以今年沒有跟他爭辯，解釋完我的後，就馬上用另一種他可以接受的寫法給他。不知道是不是故意要這樣質疑我的程式碼來看我的反應，還是就是純粹不相信我...因為就算我解釋完了他還是有點不屑的態度，就隨便敷衍一下結束這個話題。
+
+**編修紀錄**
+
+- 2016/04/13: 感謝網友指正，在交換兩個節點時，其實不用特別判斷相鄰的狀況。

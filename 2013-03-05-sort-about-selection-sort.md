@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "[Sort] 淺談 selection sort"
-date:    2013-03-05
-tags:    ["ACM-ICPC", "sort | 排序", "algorithm | 演算法"]
+layout: post
+title:  "[Sort] 淺談 selection sort"
+date:   2013-03-05
+tags:   ["ACM-ICPC", "sort | 排序", "algorithm | 演算法"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-03-05-sort-about-selection-sort.jpg"
     creator:     "Bill Selak"
     url:         "https://www.flickr.com/photos/billselak/4173183227/"
     license:     "CC-BY-NC-ND 2.0"
@@ -77,7 +78,6 @@ Source code on [gist](https://gist.github.com/KuoE0/5080566).
 <script async class="speakerdeck-embed" data-id="8fb780d067010130c54712313d140c86" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 Slide on [Speaker Deck](https://speakerdeck.com/kuoe0/selection-sort).
-
 
 ## 相關資料
 

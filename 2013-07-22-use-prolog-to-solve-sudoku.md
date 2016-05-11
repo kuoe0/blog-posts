@@ -1,12 +1,13 @@
 ---
-layout:  post
-title:   "使用 Prolog 求解數獨"
-date:    2013-07-22
-tags:    ["Prolog", "sudoku | 數獨"]
+layout: post
+title:  "使用 Prolog 求解數獨"
+date:   2013-07-22
+tags:   ["Prolog", "sudoku | 數獨"]
 feature:
     photo:       true
-    creator:     "Tim Psych"
-    url:         "https://www.flickr.com/photos/01-17-05_t-m-b/2156513671/"
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-07-22-use-prolog-to-solve-sudoku.jpg"
+    creator:     "Jason Cartwright"
+	url:         "https://www.flickr.com/photos/jasoncartwright/130182586"
     license:     "CC 2.0"
     license_url: "https://creativecommons.org/licenses/by/2.0/"
 ---
@@ -42,7 +43,6 @@ Source code on [gist](https://gist.github.com/KuoE0/6049175).
 但是，求解過程中不可能都一次就能枚舉到正確的數字，勢必會有回溯的發生。一旦發生回溯，代表某個枚舉的數字是錯誤的，既然是錯誤的我們就應該把它從知識庫中刪除。所以可以看到我第 66 到 68 行並非直接使用 `asserta` 來進行新增，採用自己定義的程序。
 
 我們再來看到第 47 行，由於已經存在的 fact 是不能再進行一次新增的。若發生這樣的狀況，新增敘述就會回傳 `false`，轉而進行第 48 行的程序。第 48 行是動態地刪除知識庫中的 fact，不過正確的刪除會回傳 `true` 回來，這麼一來仍然會繼續往下一個元素前進。而我們應該要做的是重新枚舉數字，因此在第 48 行的程序結尾加上了 `fail`，以強迫其回傳 `false` 來保證回溯的發生，才能回溯到枚舉數字的程序。
-
 
 ![hardest sudoku](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-07-22-use-prolog-to-solve-sudoku-1.jpg)
 

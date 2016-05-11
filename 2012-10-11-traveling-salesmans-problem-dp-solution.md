@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "Traveling Salesman's Problem - DP solution"
-date:    2012-10-11
-tags:    ["algorithm | 演算法", "dynamic programming | 動態規劃", "graph theory | 圖論"]
+layout: post
+title:  "Traveling Salesman's Problem - DP solution"
+date:   2012-10-11
+tags:   ["algorithm | 演算法", "dynamic programming | 動態規劃", "graph theory | 圖論"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-10-11-traveling-salesmans-problem-dp-solution.jpg"
     creator:     "Jens Odegaard"
     url:         "https://www.flickr.com/photos/jensodegaard/3317293473"
     license:     "CC-BY-SA 2.0"
@@ -44,7 +45,6 @@ $$
 $$
 length(A, B) = the\ distance\ between\ A\ and\ B
 $$
-
 
 Data Structure
 --------------

@@ -1,10 +1,11 @@
 ---
-layout:  post
-title:   "[閱讀雜記] 蘋果內幕：後賈伯斯時代，蘋果還能紅多久？"
-date:    2013-02-03
-tags:    ["book review | 閱讀雜記", "Apple", "Steve Jobs | 賈伯斯"]
+layout: post
+title:  "[閱讀雜記] 蘋果內幕：後賈伯斯時代，蘋果還能紅多久？"
+date:   2013-02-03
+tags:   ["book review | 閱讀雜記", "Apple", "Steve Jobs | 賈伯斯"]
 feature:
     photo:       true
+    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-02-03-book-review-inside-apple.jpg"
     creator:     "Mike Deerkoski"
     url:         "https://www.flickr.com/photos/deerkoski/7178643521"
     license:     "CC 2.0"

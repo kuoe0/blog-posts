@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[UVa] 705 - Slash Maze"
-date:    2011-05-14
-tags:    ["UVa", "DFS | 深度優先搜索", "graph theory | 圖論"]
+layout: post
+title:  "[UVa] 705 - Slash Maze"
+date:   2011-05-14
+tags:   ["UVa", "DFS | 深度優先搜索", "graph theory | 圖論"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 題目網址：[705 - Slash Maze](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=9&page=show_problem&problem=646)

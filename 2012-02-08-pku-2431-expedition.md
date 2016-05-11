@@ -1,14 +1,10 @@
 ---
-layout:  post
-title:   "[POJ] 2431 - Expedition"
-date:    2012-02-08
-tags:    ["POJ", "priority queue | 優先佇列", "greedy | 貪心"]
+layout: post
+title:  "[POJ] 2431 - Expedition"
+date:   2012-02-08
+tags:   ["POJ", "priority queue | 優先佇列", "greedy | 貪心"]
 feature:
-    photo:       false
-    creator:     
-    url:         
-    license:     
-    license_url: 
+    photo: false
 ---
 
 題目網址：[2431 - Expedition](http://poj.org/problem?id=2431)
@@ -51,4 +47,3 @@ feature:
 <script src="https://gist.github.com/KuoE0/1789738.js"></script>
 
 Source code on [gist](https://gist.github.com/1789738).
-
