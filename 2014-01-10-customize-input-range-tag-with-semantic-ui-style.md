@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "打造 Semantic UI 風格的 <input type=\"range\" />"
+title:  "打造 Semantic UI 風格的 range input"
 date:   2014-01-10
 tags:   ["web dev | 網頁開發", "Semantic UI", "CSS"]
 feature:
