@@ -39,7 +39,7 @@ feature:
 using namespace std;
 
 int main() { _
-	
+
 	return 0;
 }
 ```
@@ -66,7 +66,7 @@ int main() {
 			scanf("%d %d", &k, &v);
 			s.insert(pair<int, int>(k, v));
 		}
-		
+
 		for (int i = 0; i < n; ++i) {
 			printf("%d: %d\n", s.find_by_order(i)->first, s.find_by_order(i)->second);
 		}

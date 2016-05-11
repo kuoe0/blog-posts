@@ -36,7 +36,7 @@ Apple與賈伯斯，其實我跟他們不熟，在我大部分的人生中，我
 
 在那份講稿中，賈伯斯說出了太多富有意涵的話了。
 
-> **You can't connect the dots looking for ward; you can only connect them looking backwards.** 
+> **You can't connect the dots looking for ward; you can only connect them looking backwards.**
 
 你無法預先把點點滴滴串連起來；只有在未來回顧時，你才會明白那些點點滴滴是如何串在一起的。
 

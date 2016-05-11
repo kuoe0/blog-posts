@@ -31,7 +31,7 @@ Ino 官方有一份 [Quick Start](http://inotool.org/quickstart) 的文件可以
 不過，在我安裝完 Ino 的環境後，按照 Quick Start 的步驟去執行時，發現 `ino upload` 一直發生錯誤，錯誤訊息如下：
 
 ```
-$ ino upload 
+$ ino upload
 Guessing serial port ... /dev/tty.usbserial-A10249RJ
 /usr/local/opt/coreutils/libexec/gnubin/stty: invalid argument ‘-f’
 Try '/usr/local/opt/coreutils/libexec/gnubin/stty --help' for more information.

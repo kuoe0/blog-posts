@@ -28,7 +28,7 @@ $ ./add
 	Sample Input
 	1 2
 	3 4
-	
+
 	Sample Output
 	3
 	7
@@ -42,7 +42,7 @@ $ ./add
 3
 7
 ```
-	
+
 但其實輸入與輸出是兩個不同的東西，雖然在螢幕上看好像混在一起，但實際上是分開的。就把它想像成兩個不同的檔案，一個叫做 input，程式會從裡面讀取資料，而另一個叫做 output，程式會將結果都寫在該檔案中。雖然說是想像，不過實際上也是這個樣子。
 
 怎麼會說要把輸入與輸出想像成檔案呢？一般來說，我們都是由鍵盤輸入資料，並且由螢幕輸出結果。在一般我們使用的電腦上，鍵盤就稱作「**標準輸入**」，而螢幕則為「**標準輸出**」。注意，在其他裝置則不一定。在 C/C++ 裡面，標準輸入由 `stdin` 該變數表示，而標準輸出則由 `stdout` 表示。（另外還有標準錯誤輸出為 `stderr`，但不在我們討論的範疇內！）去查閱 `stdio.h` 的話，其實會發現 `stdin` 與 `stdout` 的資料型別為 `FILE *`，可以發現其實標準輸入與標準輸出都是以檔案操作的方式進行。如果熟悉 Unix-like 系統的人應該會更容易理解這一點，在 Unix-like 系統中有著「everything is a file」這樣的特性。
@@ -66,7 +66,7 @@ $ ./add
 ```c
 FILE *in = fopen(“inputfile”);
 FILE *out =fopen(“outputfile”);
-	
+
 fscanf(in, ...);
 fprintf(out, ...);
 
@@ -94,7 +94,7 @@ out.close();
 ```c
 FILE * freopen ( const char * filename, const char * mode, FILE * stream );
 ```
-	
+
 使用方法很簡單，第一個參數填上要開啓的檔案名稱，第二個參數則是開啓的方式（例如：r 表示讀，w 表示寫），而第三個則是要將該檔案的內容重新導入哪一個檔案串流中。
 
 因此只要利用以下這行，就可以將 input.txt 重新導入到標準輸入中，別忘了前面提到的，標準輸入的變數就是 `stdin`。
@@ -123,7 +123,7 @@ freopen( "output.txt", "w", stdout );
 
 	1 2
 	3 4
-	
+
 只要 `<` 符號，即可將 input.txt 作為 add 的標準輸入了，來看看執行過程：
 
 ```
@@ -139,18 +139,18 @@ $ ./add > output.txt
 1 2
 3 4
 ```
-	
+
 接著我們打開 output.txt 就可以發現裡面的內容為：
 
 	3
 	7
-	
+
 兩個也可以同時使用：
 
 ```
 $ ./add < input.txt > output.txt
 ```
-	
+
 如此一來，打開 output.txt 就可以看到跟剛剛一樣的內容了！這是個非常實用的操作，而且非常簡單！其實也不用死背要用大於還小於，就把它當成箭頭來看，你想要資料從哪裡往哪裡跑！想從 a 到 b，那麼就把箭頭指向 b，反之亦然。另外，這個操作並不限於 Un*x 系統，在 Winodws 上也可以這樣操作！
 
 ## 多組測資與檔案結尾
@@ -270,7 +270,7 @@ cin.getline(buf, sizeof( buf ), '\n');
 string buf;
 getline(cin, str, '\n');
 ```
-	
+
 `getline` 與 `cin.getline` 是不一樣的，我個人認為這個比較好用。第一個參數為 input 來源，若使用標準輸入的話，則填入 `cin`。第二個參數則需傳入一個 STL 的 string 物件，用來儲存讀取到的內容。第三個參數如同 `cin.getline` 的一樣，也是非必用的參數，用來指定停止的字元，未指定則預設為換行字元（`\n`）。
 
 ## I/O 效率
@@ -292,7 +292,7 @@ getline(cin, str, '\n');
 ```c++
 std::ios::sync_with_stdio(false);
 ```
-	
+
 加入這行後，我們再來看看 C++ 的 stream I/O 的效能：
 
 ![cin wihout sync](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-02-22-acm-icpc-about-io-3.jpg)

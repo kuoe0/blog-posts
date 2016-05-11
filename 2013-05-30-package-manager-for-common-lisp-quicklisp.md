@@ -70,7 +70,7 @@ To load "drakma":
 (dolist (thing systems systems)
     …
 ```
-        
+
 quickload 的說明中也有寫到：
 
 > SYSTEMS is a designator for a list of things to be loaded.
@@ -82,7 +82,7 @@ quickload 的說明中也有寫到：
 ```common-lisp
 To find systems, use: (ql:system-apropos "term")
 ```
-    
+
 以上指令就是用來搜尋套件庫的，他會搜尋所有套件名稱含有 term 的套件。例如我要搜尋含有 "regex" 的套件，就只要輸入 `(ql:system-apropos "regex")` 就會回傳以下資訊：
 
 ```common-lisp

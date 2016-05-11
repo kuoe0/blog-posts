@@ -43,12 +43,12 @@ public:
 		while (!words.empty()) {
 			strOut << words.back();
 			words.pop_back();
-			
+
 			if (!words.empty()) {
 				strOut << ' ';
 			}
 		}
-		
+
 		s = strOut.str();
     }
 };

@@ -23,7 +23,7 @@ feature:
 $ sudo a2enmod rewrite
 $ sudo /etc/init.d/apache2 restart
 ```
-	
+
 我們需要將原 WordPress 提供的 `yourdomainname/?p=post_id` 的動態鏈結，替換為有結構化的靜態鏈結，而 rewrite 模組允許 Apache 根據規則重寫鏈結位置。
 
 ### Step 2. 允許 FollowSymLinks
@@ -55,7 +55,7 @@ $ sudo /etc/init.d/apache2 restart
 	Allow from all
 </Directory>
 ```
-	
+
 設定 FileInfo 後，Apache 才允許 .htaccess 檔案中的規則可覆蓋原規則。
 
 ### Step 4. 檢查 .htaccess 檔案
@@ -92,14 +92,14 @@ WordPress 提供的參數有：
 - %day%
 
 	以兩位數顯示日期，例如：12。
-	
+
 - %hour%
 
 	以兩位數顯示小時（24 小時制），例如：19。
 - %minute%
 
 	以兩位數顯示分鐘，例如：56。
-	
+
 - %second%
 
 	以兩位數顯示秒數，例如：01。
@@ -107,11 +107,11 @@ WordPress 提供的參數有：
 - %post_id%
 
 	每篇文章的 ID，例如：本篇文章 URL 中的 **1800** 部分。
-	
+
 - %postname%
 
 	每篇文章的標題，或自行替文章設定的名稱，例如：本篇文章 URL 中的 **enable-WordPress-permalink-in-ubuntu-12-04** 部分。
 
 - %category%
 
-	文章分類名稱。	
+	文章分類名稱。

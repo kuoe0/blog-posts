@@ -41,7 +41,7 @@ typedef     long  clock_t;
 int main() {
     clock_t begin, end;
     double timeCnt;
-    
+
     begin = clock();
     /*
     ANYTING_YOU_WANT_TO_COUNT
@@ -49,7 +49,7 @@ int main() {
     end = clock();
     timeCnt = (double)( end - begin ) / CLOCKS_PER_SEC;
     printf( "Time: %lf sec\n", timeCnt );
-    
+
     return 0;
 }
 ```

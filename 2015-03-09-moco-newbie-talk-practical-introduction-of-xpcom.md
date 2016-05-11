@@ -56,7 +56,7 @@ extern NSMODULE_SECTION mozilla::Module const *const NSMODULE_NAME(necko) = &kNe
 ```cpp
 #define NSMODULE_NAME(_name) _name##_NSModule
 ```
-	
+
 最後展開結果為如下：
 
 ```cpp
@@ -158,7 +158,7 @@ EXTRA_JS_MODULES += [
 `UNIFIED_SOURCES` 儲存可以被一起編譯的 C/C++ 程式碼。UNIFIED 的機制是把所有 C++ 程式碼串接起來，並對串接後的檔案進行一次編譯，這麼做的理由是為了減少編譯時間。新加入的 XPCOM 都要盡可能可以加入 UNIFIED_SOURCES。
 
 > 為什麼 UNIFIED 的機制可以減少編譯時間：
-> 
+>
 > - 避免一直引入相同的標頭檔
 > - 避免一直實例化相同的 template classes/functions (C++ only)
 > - 避免一直擴展相同的 inline functions (C++ only)

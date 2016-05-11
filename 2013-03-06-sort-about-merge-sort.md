@@ -63,10 +63,10 @@ function merge_sort( A ):
     mid = length( A ) / 2
     left = A[ i, mid )
     right = A[ mid, length( A ) ]
-    
+
     merge_sort( left )
     merge_sort( right )
-    
+
     // merge
     for i in [ 0, n )
         if left is empty
@@ -84,7 +84,7 @@ function merge_sort( A ):
 
     return
 ```
-        
+
 **Natural Merge Sort**
 
 這邊我僅僅寫出切割的部分，合併的部分都僅用 merge 表示：
@@ -93,30 +93,30 @@ function merge_sort( A ):
 function naturalMergeSort( A ):
     B, C are empty sequence
     CUR refer to B
-    
+
     LAST = A[ 0 ]
-    
+
     while A is not  empty
         if first( A ) >= LAST
             append first(A) to CUR
             LAST = first( A )
             A = rest( A )
-        else 
+        else
             if CUR refer to B
                 CUR refer to C
             else
                 CUR refer to B
             LAST = first( A )
-            
+
     if B is empty or C is empty
         return
-    
+
     naturalMergeSort( B )
     naturalMergeSort( C )
-    
+
     A = merge( B, C )
 ```
-        
+
 ## Source Code
 
 **Tradition Merge Sort**

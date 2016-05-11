@@ -180,7 +180,7 @@ input[type="range"] {
 這樣就大功告成了！但是要注意，千萬不可以因為懶惰而這樣寫：
 
 ```css
-.ui.slider.range input[type="range"]::-webkit-slider-thumb, 
+.ui.slider.range input[type="range"]::-webkit-slider-thumb,
 .ui.slider.range input[type="range"]::-moz-range-thumb {
 	/* something */
 }

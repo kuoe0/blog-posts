@@ -33,7 +33,7 @@ pycurl.error: (35, 'gnutls_handshake() failed: A TLS packet with unexpected leng
 
 ```
 $ python
-Python 2.7.3 (default, Aug  1 2012, 05:14:39) 
+Python 2.7.3 (default, Aug  1 2012, 05:14:39)
 [GCC 4.6.3] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import pycurl
@@ -59,7 +59,7 @@ deb-src http://tw.archive.ubuntu.com/ubuntu/ precise main
 
 ```
 $ python
-Python 2.7.3 (default, Aug  1 2012, 05:14:39) 
+Python 2.7.3 (default, Aug  1 2012, 05:14:39)
 [GCC 4.6.3] on linux2
 Type "help", "copyright", "credits" or "license" for more information.
 >>> import pycurl

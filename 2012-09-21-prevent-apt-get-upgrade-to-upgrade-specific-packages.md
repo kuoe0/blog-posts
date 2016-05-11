@@ -33,7 +33,7 @@ package2 install
 …
 packageN install
 ```
-	
+
 找到不希望被更新的套件名稱，並將該套件庫後面所接著的 **install** 替換成 **hold** 並存檔離開。
 
 接著再輸入指令 `dpkg --set-selections < packages`。如此一來，對於該套件的設定就完成了！

@@ -21,7 +21,7 @@ feature:
 ```bash
 dd if=/dev/zero of=/dev/<destination partition>
 ```
-    
+
 另外，也可以填入亂數來混淆資料，應該可以達到更進一步的安全，只要將資料來源改成 `/dev/urandom`：
 
 ```bash
@@ -87,7 +87,7 @@ map auto_home on /home (autofs, automounted, nobrowse)
 假設已知該分割去掛在 /Volumes/UNTILED 這個位置。
 
 ```bash
-$ diskutil info /Volumes/UNTITLED 
+$ diskutil info /Volumes/UNTITLED
    Device Identifier:        disk2s2
    Device Node:              /dev/disk2s2
    Part of Whole:            disk2
@@ -103,7 +103,7 @@ $ diskutil info /Volumes/UNTITLED
    File System Personality:  MS-DOS FAT32
    Type (Bundle):            msdos
    Name (User Visible):      MS-DOS (FAT32)
-    
+
    Partition Type:           Microsoft Basic Data
    OS Can Be Installed:      No
    Media Type:               Generic
@@ -121,7 +121,7 @@ $ diskutil info /Volumes/UNTITLED
    Whole:                    No
    Internal:                 Yes
 ```
-       
+
 並且，在填零之前務必要把分割區解除掛載（unmount 非 eject），利用以下指令或是圖形化界面即可：
 
 **umount**

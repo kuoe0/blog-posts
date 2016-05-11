@@ -45,7 +45,7 @@ feature:
 看完這定義，我實在不知道該怎麼量化，畢竟每個人的標準應該都不一樣。在聽完王教授的演說後，才知道現在竟然連「幸福」都是可以量化的，但我個人仍是對此保持著存疑的看法。以下是王教授演說中用來測量幸福的方法：
 
 **Multimedia Signal Processing**
-- Positive emotions and activities (正向情緒與行為) 
+- Positive emotions and activities (正向情緒與行為)
 
 **Bio-Signal Processing**
 

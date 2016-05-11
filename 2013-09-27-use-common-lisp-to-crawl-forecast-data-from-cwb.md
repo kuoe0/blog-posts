@@ -60,9 +60,9 @@ feature:
 所以我的程式中特別宣告了以下三個 function：
 
 ```lisp
-(defun html-tag (xml) 
+(defun html-tag (xml)
 	(first xml))
-(defun html-attributes (xml) 
+(defun html-attributes (xml)
 	(second xml))
 (defun html-content (xml)
 	(cddr xml))
@@ -143,7 +143,7 @@ feature:
 				<td width="60%">
 					<a href="/V7/forecast/taiwan/Keelung_City.htm">基隆市</a>
 				</td>
-				
+
 				<td width="50%">
 					<a href="/V7/forecast/taiwan/Keelung_City.htm">25~26°</a>
 				</td>
@@ -246,7 +246,7 @@ Source code on [gist](https://gist.github.com/KuoE0/6725804).
 	<td width="60%">
 		<a href="/V7/forecast/taiwan/Keelung_City.htm">基隆市</a>
 	</td>
-	
+
 	<td width="50%">
 		<a href="/V7/forecast/taiwan/Keelung_City.htm">25~26°</a>
 	</td>

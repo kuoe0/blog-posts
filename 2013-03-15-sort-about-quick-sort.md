@@ -89,7 +89,7 @@ function quick_sort( A ):
     A.append( lt )
     A.append( pivot )
     A.append( gt )
-    
+
     return
 ```
 
@@ -117,7 +117,7 @@ function quick_sort( A, L, R ):
     quick_sort( pos + 1, R )
     return
 ```
-   
+
 ## Source Code
 
 ### Traditional Quick Sort

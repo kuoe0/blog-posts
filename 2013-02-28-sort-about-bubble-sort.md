@@ -54,7 +54,7 @@ for i in [ 0, n - 1 )
         if A[ j ] > A[ j + 1 ]
             swap( A[ j ], A[ j + 1 ] )
 ```
-                
+
 **flag 版本**
 
 ```
@@ -67,7 +67,6 @@ for i in [ 0, n - 1 )
     if flag is false
         break
 ```
-            
 
 ## Source Code
 

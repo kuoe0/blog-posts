@@ -22,7 +22,7 @@ feature:
 ```common-lisp
 ;;; Check for --no-linedit command-line option.
 (if (member "--no-linedit" sb-ext:*posix-argv* :test 'equal)
-	(setf sb-ext:*posix-argv* 
+	(setf sb-ext:*posix-argv*
 		(remove "--no-linedit" sb-ext:*posix-argv* :test 'equal))
 	(when (interactive-stream-p *terminal-io*)
 		(require :sb-aclrepl)

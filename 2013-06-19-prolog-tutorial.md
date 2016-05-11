@@ -27,18 +27,18 @@ feature:
 先看到 fact，其語法是 predicate 後，加上一個句點 (.)，表示該 predicate 為真！而 clause 其語法可以是多個 predicate，表示當所有 clause 所包含的 predicate 都為真時，該 clause 為真！另外，在 clause 中，逗號 (,) 表示「且 (and)」，分號 (;) 表示「或 (or)」，所以，clause 就像是一個條件式。用分號分隔的 clause 也可能分開成多條 clause 來寫。例如：
 
 ```prolog
-clause :- 
+clause :-
     goal1 ;
     goal2.
 ```
-    
+
 可以改寫成：
 
 ```prolog
 clause :- goal1.
 clause :- goal2.
 ```
-    
+
 從上面的例子中也可以發現，Prolog 的語法都可以跨行，並不一定要寫在單一行！在 clause 中，還可以利用括號來做群組。另外，還有一個符號 `->` 用來作條件判斷，當置於 `->` 之前的敘述結果為 true 時，才執行 `->` 之後的敘述，一樣直接看例子：
 
 ```prolog
@@ -90,7 +90,7 @@ isDad(蔣介石, 蔣經國).
 isDad(蔣經國, 蔣孝文).
 isDad(蔣經國, 蔣孝武).
 ```
-    
+
 那個該怎麼在 SWI Prolog 中宣告這些規則呢？首先先開啓 SWI Prolog 的 interactive shell，在終端機中輸入 `swipl` 開啟。執行後會輸出以下訊息：
 
 ```prolog
@@ -99,10 +99,10 @@ isDad(蔣經國, 蔣孝武).
     SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software,
     and you are welcome to redistribute it under certain conditions.
     Please visit http://www.swi-prolog.org for details.
-    
+
     For help, use ?- help(Topic). or ?- apropos(Word).
-    
-    ?- 
+
+    ?-
 ```
 
 會發現 SWI Prolog 的 prompt 是 `?-`，還記得前面提過的 Prolog 的詞法結構嗎？可以發現這就是 query 的開頭，所以在 SWI Prolog 的 interactive shell 中，我們能做的就是進行 query！
@@ -117,12 +117,12 @@ isGrandParent(A, C) :- isParent(A, B), isParent(B, C).    % A 是 B 的父母且
 isMom(毛福梅, 蔣經國).
 isMom(蔣方良, 蔣孝文).
 isMom(蔣方良, 蔣孝武).
-    
+
 isDad(蔣介石, 蔣經國).
 isDad(蔣經國, 蔣孝文).
 isDad(蔣經國, 蔣孝武).
 ```
-    
+
 並在這個檔案存在的資料夾中開啟 SWI Prolog，接著輸入 `consult(chiangfamily).` 的 query，這時候就可以將這個檔案中的規則都讀取進來到 Prolog 的知識庫中。
 
 讀取後我們就可以開始查詢蔣家的親屬關係了！例如我們想知道蔣介石是不是蔣經國的爸爸？只要輸入 `isDad(蔣介石, 蔣經國).`，這時候 Prolog 就會回傳一個 `true` 回來，按下 enter 表示確定。不過這個例子只是查詢我們預先定義的事實罷了，好像沒什麼！那我們再來試試，蔣介石是不是蔣孝文的祖父呢？輸入 `isGrandParent(蔣介石, 蔣孝文).`，這時候 Prolog 一樣回傳了 `true`，這次查詢就不是我們給定的事實了，而是 Prolog 自己根據 fact 與 clause 所推論出來的！因為我們存在 `isDad(蔣介石, 蔣經國).` 與 `isDad(蔣經國, 蔣孝文).` 這兩個事實，再根據推論方法 `isParent(A, B) :- isDad(A, B).` 與 `isGrandParent(A, C) :- isParent(A, B), isParent(B, C).` 即可得知，這是利用 Prolog 的*比對能力！
@@ -188,7 +188,7 @@ $
 true ;
 X = 毛福梅.
 ```
-    
+
 第一個 true 表示，我們根本不關心 `X` 到底是多少，至少第二個參數是`蔣經國`，就可以回傳 true 了。但我們也有定義另一個 fact 是 `isMom(毛福梅, 蔣經國).`，所以也會有第二個答案出現 `X = 毛福梅.`。既然我們不關心 `X` 的值是多少，那麼是不是隨便填都應該回傳 true 呢？那我們來試試 `isMom(宋美齡, 蔣經國).`，得到的結果也是 true，但我們並沒有把 `isMom(宋美齡, 蔣經國).` 寫入 fact 中。為了尊重蔣前總統，所以我就不再拿其他例子試啦！
 
 另外，變數是俱有狀態的，前面提過透過 unification 的機制，變數可以被實例化，而被實例化的變數它就已經被綁定到某個值了，所以會說該變數已被綁定了。
@@ -212,28 +212,28 @@ X = 毛福梅.
 ```prolog
 ?- arg(1, car('Ferrari', red, 'XY-1234'), X).
 X = 'Ferrari'.
-    
+
 ?- arg(2, car('Ferrari', X, 'XY-1234'), blue).
 X = blue.
 ```
-    
+
 `functor(Term, Functor, NumberOfArgs)`：獲取 compound term 的名稱與參數數量，或是建構一個俱有特定名稱且擁有特定數目個自由變數的 compound term。
 
 ```prolog
 ?- functor(car('Ferrari', X, 'XY-1234'), F, A).
 F = car,
 A = 3.
-    
+
 ?- functor(C, car, 3).
 C = car(_G891, _G892, _G893).
 ```
-    
+
 `=..`：建構或解構一個 compound term。
 
 ```prolog
 ?- car('Ferrari', X, 'XY-1234') =.. X.
 X = [car, 'Ferrari', X, 'XY-1234'].
-    
+
 ?- X = [car, 'Ferrari', X, 'XY-1234'].
 X = car('Ferrari', X, 'XY-1234').
 ```
@@ -263,7 +263,7 @@ addOneToHead(.(H, T), X) :- Y is H + 1, X = .(Y, T).
 car(X, L) :- L = [X|_].
 cdr(X, L) :- L = [_|X].
 ```
-    
+
 前面的 `addOneToHead` 的例子也可以改寫為：
 
 ```prolog
@@ -304,7 +304,7 @@ unify(A,B) :-
     compound(A), compound(B),
     A =.. [F|ArgsA], B =.. [F|ArgsB],
     unify_args(ArgsA, ArgsB).
-  
+
 unify_args([A|TA], [B|TB]) :-
     unify(A, B),
     unify_args(TA, TB).
@@ -338,13 +338,13 @@ X = 蔣介石,
 Y = 蔣孝武 ;
 false
 ```
-    
+
 最後的 false 表示已經找不到這樣的關係了，所以可以發現四組祖孫關係。要瞭解 Prolog 的詳細推論流程的話，可以在 SWI Prolog 中輸入 `trace.` 打開 trace mode。這樣一來，Prolog 將會將所以推論流程通通顯示在螢幕上！以下是 `isParent(蔣經國, X).` 的推論流程：
 
 ```prolog
 ?- trace.
 true.
-    
+
 [trace]  ?- isParent(蔣經國, X).
    Call: (6) isParent(蔣經國, _G1558) ? creep
    Call: (7) isMom(蔣經國, _G1558) ? creep
@@ -370,7 +370,7 @@ X = 蔣孝武.
 ?- X = f(X)
 X = f(X).
 ```
-    
+
 可以看到變數 `X` 被 unify 成一個 compound term，而且這個 compound term 還包含他自己。因此他成了一個可無限遞回的結構，這麼一來我們除了可以把 `X` unify 為 `f(X)` 外，還可以 unify 為 `f(f(X))`、`f(f(f(X)`、`f(f(f(f(X)))` 等等無窮循環下去。
 
 但在 Prolog 預設的 unify 方式就會像是上面的例子，如果不希望有這樣的 unify 情況發生，可以使用 `unify_with_occurs_check` 來進行 unification。看以下例子：
@@ -392,7 +392,7 @@ false.
 q:- L = [33, 18, 2, 77, 66, 18, 9, 25], last(P,_), (quicksort(L,P,_), write(P), nl), halt.
 
 partition([], _, [], []).
-partition([X|Xs], Pivot, Smalls, Bigs) :- 
+partition([X|Xs], Pivot, Smalls, Bigs) :-
     (   X @< Pivot ->
         Smalls = [X|Rest],
         partition(Xs, Pivot, Rest, Bigs)
@@ -404,7 +404,7 @@ quicksort([])     --- [].
 quicksort([X|Xs]) ---
     { partition(Xs, X, Smaller, Bigger) },
     quicksort(Smaller), [X], quicksort(Bigger).
-                                                              
+
 :- initialization(q).
 ```
 

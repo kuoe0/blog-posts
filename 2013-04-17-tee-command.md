@@ -12,7 +12,7 @@ feature:
 ```
 :w !sudo tee %
 ```
-	
+
 這是一個在 vim 中的指令，使用時機是當你編輯檔案時不俱有 root 權限，但是在寫入時發現該檔案需要有 root 權限才可以寫入時。真的是非常實用的一個指令啊！！
 
 當時一直不能理解這個指令到底為什麼可以運作，昨天看了朋友在寫題目時用的指令：
@@ -20,7 +20,7 @@ feature:
 ```
 $ ./a.out < input_file | tee output_file
 ```
-	
+
 他說這樣他才能一邊看到 `./a.out < input_file` 的 standard output，也一邊將 `./a.out < input_file` 的 standard output 寫入 output_file 中。所以原來 tee 是可以將他收到的 standard input 以 standard output 輸出外，也將 standard input 輸出到檔案！
 
 看了一下 [Wikipedia](https://zh.wikipedia.org/wiki/Tee) 發現，`tee` 的名字就來自於他的功能，因為他的運作方式畫出來就很像一個 T 字，故以此為名。

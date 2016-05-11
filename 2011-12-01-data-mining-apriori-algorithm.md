@@ -56,17 +56,17 @@ Apriori 是在資料探勘的領域中，用來找尋關聯式規則 (associatio
 
 ```
 L(1) = Scan database to find {frequent itemset}
-	
+
 do
 	Gnerate C(k+1) from L(k)
 	Remove the itemset which has any subset that is not a frequent itemset (detect from L(k))
 	L(k+1) = candicates in C(k+1) with min_support
-	
+
 	for all possible of partition L(k+1) into two parts A,B
 		if P(L(k+1)) / P(A) >= min_confidence
 			A => B is one association rule
-	
-until L(k+1) is ∅  
+
+until L(k+1) is ∅
 
 ```
 

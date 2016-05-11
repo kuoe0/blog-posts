@@ -24,7 +24,7 @@ small case:
 
 large case:
 
-- 1 ≤ N, M ≤ 100  
+- 1 ≤ N, M ≤ 100
 - 1 ≤ a<sub>i,j</sub> ≤ 100
 
 ### 輸入格式

@@ -75,11 +75,11 @@ Data Structure
 init
 	for i in n
 		dp[ 1 << i ][ i ] = length[ source ][ i ]
- 
-TSP( visited_status, x ) 
+
+TSP( visited_status, x )
 	if dp[ status ][ x ] is found
 		return dp[ status ][ x ]
- 
+
 	for i in n
 		if this city i is visited and city is not city x
 			dp[ visited_status ][ x ] = min( TSP( visited_status - current city x, i ) + length( city i to city x )

@@ -27,7 +27,7 @@ large case 1
 
 large case 2
 
-- 1 ≤ T ≤ 1000  
+- 1 ≤ T ≤ 1000
 - 1 ≤ A ≤ B ≤ 10<sup>100</sup>
 
 ### 輸入格式

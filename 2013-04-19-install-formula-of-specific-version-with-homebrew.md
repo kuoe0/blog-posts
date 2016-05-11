@@ -30,7 +30,7 @@ brew version <formular>
 輸入該指令後，可以看到類似下方的列表（以 python 為例）：
 
 ```
-brew versions python                 
+brew versions python
 2.7.4    git checkout fbf7be9 Library/Formula/python.rb
 2.7.3    git checkout 51fb481 Library/Formula/python.rb
 2.7.2    git checkout 97c6869 Library/Formula/python.rb

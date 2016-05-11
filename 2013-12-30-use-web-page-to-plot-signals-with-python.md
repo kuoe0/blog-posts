@@ -48,7 +48,7 @@ if __name__ == "__main__":
 
 ![Tornado Hello World](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2013-12-30-use-web-page-to-plot-signals-with-python-1.png)
 
-上述的程式碼分為三個部分來講解，第一部分是 `MainHandler` 的部分。主要就是定義一個 request handler 繼承至 `tornado.web.RequestHandler`。並重載一個 `get` 成員函式，當有一個 `GET` 請求發生時，該函式將被呼叫。很直覺的可以想到，如果發生 `POST` 請求呢？那麼就重載一個 `post` 成員函式即可。函式主體就編寫你想要呈現在網頁上的內容，就如同範例中只輸出一個 Hello, world 這樣。若是發生沒有重載的請求，則會回傳 405 錯誤碼。可以將這邊看作是 MVC 中的 M (Model) 部分。 
+上述的程式碼分為三個部分來講解，第一部分是 `MainHandler` 的部分。主要就是定義一個 request handler 繼承至 `tornado.web.RequestHandler`。並重載一個 `get` 成員函式，當有一個 `GET` 請求發生時，該函式將被呼叫。很直覺的可以想到，如果發生 `POST` 請求呢？那麼就重載一個 `post` 成員函式即可。函式主體就編寫你想要呈現在網頁上的內容，就如同範例中只輸出一個 Hello, world 這樣。若是發生沒有重載的請求，則會回傳 405 錯誤碼。可以將這邊看作是 MVC 中的 M (Model) 部分。
 
 第二部分是 `tornado.web.Application` 這行，`web.Application` 用於宣告一個實際運行的網頁應用實體。可以發現他的初始參數為一個 list，可以包含許多 (url, request handler) 這樣的 tuple。用於定義該應用接收到不同 URL 的請求，所需要作出的回應，因此就稱這部分叫做 URL dispatcher，如同 MVC 中的 C (Controller)。
 
@@ -73,11 +73,11 @@ received_data = list()
 
 def receive_signal():
     global received_data
-    try: 
+    try:
         data = int(ser.readline())
         received_data.append(data)
     except:
-        print 'Error happened...'       
+        print 'Error happened...'
 ```
 
 接下來就開始利用 Tornado 編寫 API 的處理函式，這邊僅針對 `get` 該成員函式來舉例。假設只要回傳 100 個接收到的訊號，並每次都拿掉最舊的訊號（為了達到訊號移動的效果）。由於要跟 Flot 搭配，Flot 需要的資料結構需要為一資料序列與時間序列的組合，並回傳 JSON 格式。
@@ -184,11 +184,11 @@ received_data = list()
 
 def receive_signal():
     global received_data
-    try: 
+    try:
         data = ser.readline().split(',')[0]
         received_data.append(int(data))
     except:
-        print 'Error happened...' 
+        print 'Error happened...'
 
 class MainHandler(tornado.web.RequestHandler):
     def get(self):

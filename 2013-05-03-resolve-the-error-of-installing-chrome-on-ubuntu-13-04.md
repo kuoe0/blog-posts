@@ -16,7 +16,7 @@ feature:
 ```bash
 $ sudo dpkg -i google-chrome-stable_current_amd64.deb
 ```
-	
+
 然後，就會看到錯誤訊息如下（僅截取部分）：
 
 ```bash
@@ -29,7 +29,7 @@ dpkg: dependency problems prevent configuration of google-chrome-stable:
 Errors were encountered while processing:
  google-chrome-stable
 ```
-	 
+
 這告訴了我們，Chrome 的相依的套件 libudev0 沒有正確安裝。解決方法如下：
 
 首先，將 libudev0 的來源加入 APT 的 source list 中。編輯 `/etc/apt/sources.list` 檔案，加入 `deb http://ubuntu.mirror.cambrium.nl/ubuntu/ quantal main` 這行。
@@ -47,4 +47,3 @@ $ sudo apt-get -f install
 $ sudo apt-get install libudev0
 $ sudo dpkg -i google-chrome-stable_current_amd64.deb
 ```
-	

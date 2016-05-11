@@ -32,8 +32,8 @@ Google 一開始會先請 HR 打電話來確認一下意願，也會詢問一些
   1
  / \
 2   3
-   / 
-  7  
+   /
+  7
 ```
 
 其序列化結果為 `1,2,3,#,#,7,#,#,#`。
@@ -54,7 +54,7 @@ Google 一開始會先請 HR 打電話來確認一下意願，也會詢問一些
 解序列化流程如下（錯誤版）：
 
 1. 先利用 parser 將每個元素提取出來依序放入一個 queue (q1) 中
-2. 宣告一個內容未知的節點作為 root，並配上一個空節點作為其父節點放入 queue (q2) 中3. 
+2. 宣告一個內容未知的節點作為 root，並配上一個空節點作為其父節點放入 queue (q2) 中3.
 3. 若是 queue (q2) 不為空，取出一個節點對，並從第 5 步繼續
 4. 若是 queue (q2) 為空，結束演算法
 5. 若是 queue (q1) 為空或是下一個元素為 `#`，從第 7 步繼續
@@ -84,7 +84,6 @@ while (!que.empty()) {
 	now = que.front().first;
 	parent = que.front().second;
 	que.pop();
-		
 
 	if (deque.front() == ‘#’ || deq.empty()) {
 		if (parent->left == now) {
@@ -115,7 +114,7 @@ while (!que.empty()) {
 修正一下流程：
 
 1. 先利用 parser 將每個元素提取出來依序放入一個 queue (q1) 中
-2. 宣告一個內容未知的節點作為 root，並配上一個空節點作為其父節點放入 queue (q2) 中3. 
+2. 宣告一個內容未知的節點作為 root，並配上一個空節點作為其父節點放入 queue (q2) 中3.
 3. 若是 queue (q2) 不為空，取出一個節點對，並從第 5 步繼續
 4. 若是 queue (q2) 為空，結束演算法
 5. 若是 queue (q1) 為空，從第 7 步繼續
@@ -234,14 +233,14 @@ void pre2post(deque<element> &pre, deque<element> &post) {
 	if (isOperator(pre.front())) {
 		element tmp = pre.front();
 		pre.pop_front();
-		
+
 		deque<element> op1, op2;
 		pre2post(pre, op1);
 		pre2post(pre, op2);
-		
+
 		post.insert(end(post), begin(op1), end(op1));
 		post.insert(end(post), begin(op2), end(op2));
-		
+
 		post.push_back(tmp);
 		return;
 	}
