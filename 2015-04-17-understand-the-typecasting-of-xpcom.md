@@ -42,7 +42,7 @@ feature:
 
 以 **nsDocShell** 的 `GetInterface` 片段程式碼為例：
 
-```cpp
+```c++
 NS_IMETHODIMP
 nsDocShell::GetInterface(const nsIID& aIID, void** aSink)
 {
@@ -89,7 +89,7 @@ nsDocShell::GetInterface(const nsIID& aIID, void** aSink)
 
 讓我們回到 `do_QueryInterface`、`do_GetInterface` 以及 `do_QueryObject` 這三個函式。不過這邊我們先介紹 `do_QueryInterface` 與 `do_GetInterface`，稍後在介紹 `do_QueryObject`。先以 `NewChannelFromURIWithProxyFlagsInternal` 這個函式內的片段程式碼為例：
 
-```cpp
+```c++
 nsCOMPtr<nsIProtocolHandler> handler;
 rv = GetProtocolHandler(scheme.get(), getter_AddRefs(handler));
 
@@ -108,7 +108,7 @@ else {
 
 這邊我們可以看到 `do_QueryInterface` 的原始碼：
 
-```cpp
+```c++
 inline nsQueryInterface
 do_QueryInterface(nsISupports* aRawPtr)
 {
@@ -118,7 +118,7 @@ do_QueryInterface(nsISupports* aRawPtr)
 
 這裏很單純的返回一個用原始物件初始化的 **nsQueryInterface** 物件。而這個物件將被回傳給身為 **nsCOMPtr\<nsIProxiedProtocolHandler\>** 型別的變數 `pph`。此時，C++ 會默默的呼叫 **nsCOMPtr\<nsIProxiedProtocolHandler\>** 的建構子。其定義如下：
 
-```cpp
+```c++
 MOZ_IMPLICIT nsCOMPtr(const nsQueryInterface aQI)
   : NSCAP_CTOR_BASE(0)
 {
@@ -129,7 +129,7 @@ MOZ_IMPLICIT nsCOMPtr(const nsQueryInterface aQI)
 
 這裡可以發現終於有 IID 的資訊了。只要呼叫 `NS_GET_TEMPLATE_IID(T)` 即可得到 **nsIProxiedProtocolHandler** 的 IID 了。再將 `do_QueryInterface` 所回傳的 **nsQueryInterface** 物件與 XPIDL interface 的 IID 作為參數來呼叫 `assign_from_qi`，其定義如下：
 
-```cpp
+```c++
 template<class T>
 void
 nsCOMPtr<T>::assign_from_qi(const nsQueryInterface aQI, const nsIID& aIID)
@@ -144,7 +144,7 @@ nsCOMPtr<T>::assign_from_qi(const nsQueryInterface aQI, const nsIID& aIID)
 
 在 `assign_from_qi` 裡面，**nsQueryInterface** 竟然被作為函式呼叫。讓我們來看到 **nsQueryInterface** 的定義：
 
-```cpp
+```c++
 class MOZ_STACK_CLASS nsQueryInterface MOZ_FINAL
 {
 public:
@@ -160,7 +160,7 @@ private:
 
 這裡定義了 **nsQueryInterface** 的 functor (`operator()`)，所以 **nsQueryInterface** 該類別的物件可以被作為函式進行呼叫。而其定義如下：
 
-```cpp
+```c++
 nsresult
 nsQueryInterface::operator()(const nsIID& aIID, void** aAnswer) const
 {
@@ -191,7 +191,7 @@ nsQueryInterface::operator()(const nsIID& aIID, void** aAnswer) const
 
 至於 `do_GetInterface` 的做法也是類似的。比較不一樣的地方是 `do_GetInterface` 回傳的是一個 **nsGetInterface** 的物件。但是我們無法找到適用於 **nsGetInterface** 的 **nsCOMPtr\<T\>** 建構子。但可以發現 **nsGetInterface** 繼承自 **nsCOMPtr_helper**，並且 **nsCOMPtr\<T\>** 有相對應的建構子：
 
-```cpp
+```c++
 MOZ_IMPLICIT nsCOMPtr(const nsCOMPtr_helper& aHelper)
   : NSCAP_CTOR_BASE(0)
 {
@@ -207,7 +207,7 @@ MOZ_IMPLICIT nsCOMPtr(const nsCOMPtr_helper& aHelper)
 
 除了前面提到的 `do_QueryInterface` 與 `do_GetInterface` 之外，Gecko 的程式碼中也很常看到使用 `do_QueryObject` 來進行轉型。先來看到 `do_QeuryObject` 的定義：
 
-```cpp
+```c++
 template<class T>
 inline nsQueryObject<T>
 do_QueryObject(T* aRawPtr)
@@ -218,7 +218,7 @@ do_QueryObject(T* aRawPtr)
 
 與其他兩者相似，都是產生一個物件回傳。該物件為 **nsQueryObject**，其定義如下：
 
-```cpp
+```c++
 template<class T>
 class MOZ_STACK_CLASS nsQueryObject : public nsCOMPtr_helper
 {
@@ -246,7 +246,7 @@ private:
 
 以 **nsDocShell** 這個類別來說，其繼承的 XPIDL interface 如下：
 
-```cpp
+```c++
 
 class nsDocShell MOZ_FINAL
   : public nsDocLoader
@@ -279,7 +279,7 @@ class nsDocShell MOZ_FINAL
 
 此外，我們也可以透過 `static_cast` 來解決同樣的問題。在開發時，通常我們已知該實體類別所支援的 XPIDL interface。因此先透過 `static_cast` 轉型為其中一個 XPIDL interface 就不會有 diamond inheritance pattern 的現象發生了。例如以下的程式碼：
 
-```cpp
+```c++
 nsCOMPtr<nsIDocShellTreeItem> docShellItem(do_QueryInterface(static_cast<nsIDocShell*>(mDocShell)));
 ```
 

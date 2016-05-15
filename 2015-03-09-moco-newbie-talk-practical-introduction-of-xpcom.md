@@ -35,31 +35,31 @@ $ hg clone https://hg.mozilla.org/mozilla-central firefox-dev
 
 在 MDN 的 [XPCOM 介紹](https://developer.mozilla.org/en-US/docs/Mozilla/Tech/XPCOM/Guide/Creating_components/Creating_the_Component_Code#Coding_for_the_Registration_Process)中，描述了所有 module 都需要提供一個名為 `NSGetModule` 的函式作為進入點。但自 Gecko 2.0 後，將不再使用這樣的界面。改為提供一個型別為 `mozilla::Module` 且命名為 `NSModule` 的外部變數作為 module 的進入點。Necko 模組的進入點寫在 [firefox-dev/netwerk/build/nsNetModule.cpp](https://dxr.mozilla.org/mozilla-central/source/netwerk/build/nsNetModule.cpp)。可以在[最後一行](https://dxr.mozilla.org/mozilla-central/source/netwerk/build/nsNetModule.cpp#1104)發現以下程式碼：
 
-```cpp
+```c++
 NSMODULE_DEFN(necko) = &kNeckoModule;
 ```
 
 其中 `NSMODULE_DEFN` 為一個 macro，其定義為：
 
-```cpp
+```c++
 #define NSMODULE_DEFN(_name) extern NSMODULE_SECTION mozilla::Module const *const NSMODULE_NAME(_name)
 ```
 
 將原本的程式碼展開後如下：
 
-```cpp
+```c++
 extern NSMODULE_SECTION mozilla::Module const *const NSMODULE_NAME(necko) = &kNeckoModule;
 ```
 
 然而，該 macro 返回後的結果仍然包含一個名為 NSMODULE_NAME 的 marco，因此會再進行一次展開。
 
-```cpp
+```c++
 #define NSMODULE_NAME(_name) _name##_NSModule
 ```
 
 最後展開結果為如下：
 
-```cpp
+```c++
 extern NSMODULE_SECTION mozilla::Module const *const _necko_NSModule = &kNeckoModule;
 ```
 
@@ -129,7 +129,7 @@ EXPORTS.mozilla.net += [ 'bar.h' ]
 
 若要引入上述兩個 header 的話，需要依照以下的方式引入：
 
-```cpp
+```c++
 #include <foo.h>
 #include <mozilla/net/bar.h>
 ```
@@ -248,7 +248,7 @@ interface nsISample2 : nsISupports
 
 同樣的，為了避免與 nsSample 衝突，需要給 nsSample2 一個新的 CID 以及 Contract ID。CID 的部分一樣用 `./mach uuid` 產生，輸出的第二種格式就是 CID 所需要的格式。而 Contract ID 則給定為 `@mozilla.org/sample2;1`，所以部分程式碼將改成以下所示：
 
-```cpp
+```c++
 #define NS_SAMPLE2_CID		{ 0x8ab22c97, 0x9322, 0x49ec, \
 							{ 0x96, 0xf2, 0xe4, 0x34, 0x1a, 0xfc, 0x2d, 0x1b } }
 
@@ -278,13 +278,13 @@ interface nsISample2 : nsISupports
 
 **宣告 CID**
 
-```cpp
+```c++
 NS_DEFINE_NAMED_CID(NS_SAMPLE2_CID);
 ```
 
 **創建 factory constructor**
 
-```cpp
+```c++
 NS_GENERIC_FACTORY_CONSTRUCTOR(nsSample2Impl)
 ```
 
@@ -310,7 +310,7 @@ static const mozilla::Module::ContractIDEntry kNeckoContracts[] = {
 
 這邊就不參考範例測試程式了。除了程式碼過時外，也因為我們要寫的是用於 gecko 內部的 XPCOM，所以編寫方式會有些微不同。程式碼如下：
 
-```cpp
+```c++
 #include "TestHarness.h"
 #include "nsISample2.h"
 #include "prerror.h"
@@ -374,7 +374,7 @@ main()
 
 在測試的部分，使用 ScopedXPCOM 物件來啟動 XPCOM 服務。沒有啟動 XPCOM 服務的話，將會導致 XPCOM 物件無法被初始化。使用 ScopedXPCOM 物件必須要引入 TestHarness.h 標頭檔才能夠使用，並且 ScopedXPCOM 物件也僅能被用來撰寫測試。而給與 ScopedXPCOM 物件的字串參數純粹只是該次測試的名稱，真的想要隨便給也是可以。啟動 XPCOM 服務後，即可透過 `do_CreateInstance` 來創建 nsSample2 的物件，程式碼如下：
 
-```cpp
+```c++
 nsCOMPtr<nsISample2> sample = do_CreateInstance("@mozilla.org/sample2;1", &rv);
 ```
 
