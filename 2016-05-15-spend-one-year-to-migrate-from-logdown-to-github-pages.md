@@ -41,7 +41,7 @@ feature:
 - 不支援 MathJax
 - 不支援 OpenGraph
 
-所以只好自己緩慢地加入這些功能了...我修改後的版本也放在 GitHub 上，有興趣可以前往參考：[Harmono](https://github.com/KuoE0/harmono)。不過還有很多東西沒改好，程式碼也有點亂就是了。有很多 Harmony 留下的程式碼還沒清乾淨，網頁架構上應該還可以做些重構。不過，覺得不能再繼續拖下去了，就決定先讓部落格復活吧！
+所以只好自己緩慢地加入這些功能了...我修改後的版本也放在 GitHub 上，有興趣可以前往參考：[Harmono](https://github.com/KuoE0/harmono)。不過還有很多東西沒改好，程式碼也有點亂就是了。有很多 Harmony 留下的程式碼還沒清乾淨，網頁架構上應該還可以做些重構。但是覺得不能再繼續拖下去了，就決定先讓部落格復活吧！
 
 而在發布前，還有最後一哩路要走。Mozilla 一直以來致力於提升網路使用的安全，既然身為一個 Mozilla 的軟體工程師，要求自己的部落格走 HTTPS 也是應該的！如果使用的是 `<username>.github.io` 這樣的 domain name 的話，本身就是支援 HTTPS 的，這類的 domain name 本身就已經擁有 GitHub 的 SSL 憑證了，比較麻煩的是 custom domain name。
 
