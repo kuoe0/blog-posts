@@ -3,7 +3,7 @@ layout: post
 title:  "[CLI] 從 terminal 分享程式碼"
 date:   2016-05-27
 tags:   ["CLI", "Source Code | 程式碼", "Pastebin", "Gist", "Homebrew"]
-image:  "https://github.com/KuoE0/blog-assets/raw/master/feature-photos/2016-05-27-cli-share-source-code-from-terminal.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2016-05-27-cli-share-source-code-from-terminal.jpg"
 image_info:
     creator:     "Toomore Chiang"
     url:         "https://www.flickr.com/photos/toomore/23066277453"
