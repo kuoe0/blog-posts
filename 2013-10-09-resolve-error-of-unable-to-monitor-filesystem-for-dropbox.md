@@ -3,8 +3,6 @@ layout: post
 title:  "解決 Dropbox 的錯誤訊息「Unable to monitor filesystem」"
 date:   2013-10-09
 tags:   ["Dropbox", "Ubuntu", "Linux"]
-feature:
-    photo: false
 ---
 
 最近 Ubuntu 上的 Dropbox 都會莫名會跳出一個通知顯示：

@@ -3,8 +3,6 @@ layout: post
 title:  "DNS 設定 for Google Apps"
 date:   2013-08-12
 tags:   ["DNS", "network management | 網路管理", "Google Apps"]
-feature:
-    photo: false
 ---
 
 由於懶得自行管理 mail server，想起之前實習的公司曾用過 [Google Apps](http://www.google.com/apps) 代管 mail server，而且其他實驗室也有使用 Google Apps  作為代管的，所以決定也幫實驗室申請一個！

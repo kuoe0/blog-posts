@@ -3,8 +3,6 @@ layout: post
 title:  "[ACM-ICPC] 淺談 I/O"
 date:   2013-02-22
 tags:   ["ACM-ICPC", "I/O | 輸入輸出"]
-feature:
-    photo: false
 ---
 
 ## Standard I/O

@@ -3,8 +3,6 @@ layout: post
 title:  "防止 apt-get upgrade 升級特定套件"
 date:   2012-09-21
 tags:   ["Ubuntu", "Linux"]
-feature:
-    photo: false
 ---
 
 APT 是 Debian 下的套件管理器，Ubuntu 衍生自 Debian，因此自然而然的也繼承了 APT 這個套件管理器。APT 可以幫助我們下載、安裝或升級套件等等，這些就不在此討論了。

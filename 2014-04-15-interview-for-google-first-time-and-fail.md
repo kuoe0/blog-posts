@@ -3,9 +3,8 @@ layout: post
 title:  "第一次面試 Google 就不上手"
 date:   2014-04-15
 tags:   ["Google", "algorithm | 演算法"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-04-15-interview-for-google-first-time-and-fail.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-04-15-interview-for-google-first-time-and-fail.jpg"
+image_info:
     creator:     "Marcin Wichary"
     url:         "https://www.flickr.com/photos/mwichary/3374813066"
     license:     "CC 2.0"

@@ -3,8 +3,6 @@ layout: post
 title:  "2010-04-12 系內練習賽"
 date:   2010-04-12
 tags:   ["contest | 競賽", "SCPC | 南程盃"]
-feature:
-    photo: false
 ---
 
 今天電子跟 KK 準備了一些題目給進階組和大一組，當作南程盃前系內賽的練習賽。上課前先上了最大流的基本演算法 **Ford-Fulkerson**。之後的練習賽裡面有一題 bipartite match 跟一題 max flow，兩題都是 template 照抄就 AC 了...

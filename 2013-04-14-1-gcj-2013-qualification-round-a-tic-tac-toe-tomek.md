@@ -3,8 +3,6 @@ layout: post
 title:  "[GCJ 2013] Qualification Round - A - Tic-Tac-Toe-Tomek"
 date:   2013-04-14
 tags:   ["Google Code Jam"]
-feature:
-    photo: false
 ---
 
 題目網址：[A - Tic-Tac-Toe-Tomek](https://code.google.com/codejam/contest/2270488/dashboard#s=p0)

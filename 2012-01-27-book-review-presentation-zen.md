@@ -3,9 +3,8 @@ layout: post
 title:  "[閱讀雜記] 簡報藝術 2.0"
 date:   2012-01-27
 tags:   ["presentation | 簡報", "book review | 閱讀雜記"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-01-27-book-review-presentation-zen.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-01-27-book-review-presentation-zen.jpg"
+image_info:
     creator:     "Gábor Hojtsy"
     url:         "https://www.flickr.com/photos/gaborhojtsy/3362921448"
     license:     "CC-BY-SA 2.0"

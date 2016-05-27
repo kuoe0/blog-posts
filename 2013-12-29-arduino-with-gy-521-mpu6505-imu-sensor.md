@@ -3,9 +3,7 @@ layout: post
 title:  "Arduino 與 GY-521 MPU6050 慣性測量感測器"
 date:   2013-12-29
 tags:   ["Arduino", "OS X", "CLI | 命令列介面", "Ubuntu", "I2Cdevlib", "accelerometer | 加速計", "gyroscope | 陀螺儀", "MPU6050", "IMU | 慣性測量單元"]
-feature:
-    photo:     true
-    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-12-29-arduino-with-gy-521-mpu6505-imu-sensor.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-12-29-arduino-with-gy-521-mpu6505-imu-sensor.jpg"
 ---
 
 目前碩士論文也是打算使用 Arduino 來搭建硬體，其中使用到了慣性測量單元 (IMU) －GY-521，搭載 MPU6050 的加速計與陀螺儀晶片。由於在 I2Cdevlib 中發現有包含 MPU6050 的函式庫，故決定採用該函式庫來進行開發。

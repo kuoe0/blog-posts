@@ -3,8 +3,6 @@ layout: post
 title:  "於 Ubuntu 12.04 上啟用 WordPress 的 PermaLink"
 date:   2012-09-22
 tags:   ["PermaLink | 永久鏈結", "web dev | 網頁開發", "SEO | 搜尋引擎最佳化", "Ubuntu", "Linux", "WordPress"]
-feature:
-    photo: false
 ---
 
 上次簡單介紹了 [PermaLink](http://blog.kuoe0.tw/posts/2012/09/12/about-permalink)，這次要來在 WordPress 中啟用**自訂 PermaLink** 的功能！為何說是自訂？因為 WordPress 中本身就提供了預設的 PermaLink，格式為 `yourdomainname/?p=post_id`，但這樣的 PermaLink 大概除了**短**之外沒有其他好處了！為了加強 SEO，我們需要讓我們的 PermaLink 更有結構化！

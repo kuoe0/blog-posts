@@ -3,9 +3,8 @@ layout: post
 title:  "接受與改變"
 date:   2011-12-14
 tags:   ["life | 人生"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-12-14-accept-and-change.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-12-14-accept-and-change.jpg"
+image_info:
     creator:     "Paul Reynolds"
     url:         "http://www.flickr.com/photos/46153825@N00/9508048973"
     license:     "CC 2.0"

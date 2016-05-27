@@ -3,8 +3,6 @@ layout: post
 title:  "[POJ] 2431 - Expedition"
 date:   2012-02-08
 tags:   ["POJ", "priority queue | 優先佇列", "greedy | 貪心"]
-feature:
-    photo: false
 ---
 
 題目網址：[2431 - Expedition](http://poj.org/problem?id=2431)

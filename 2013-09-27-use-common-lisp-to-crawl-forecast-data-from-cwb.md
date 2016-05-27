@@ -3,8 +3,6 @@ layout: post
 title:  "使用 Common Lisp 抓取中央氣象局預報資料"
 date:   2013-09-27
 tags:   ["Common Lisp", "Lisp", "forecast | 氣象預報"]
-feature:
-    photo: false
 ---
 
 這次程式語言作業是用 Common Lisp 編寫撈取[中央氣象局](http://www.cwb.gov.tw)下個時段的各縣市天氣預報，並重新排版輸出！輸出內容如下：

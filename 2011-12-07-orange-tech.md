@@ -3,9 +3,8 @@ layout: post
 title:  "橘色科技"
 date:   2011-12-07
 tags:   ["orange tech | 橘色科技", "green tech | 綠色科技"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-12-07-orange-tech.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-12-07-orange-tech.jpg"
+image_info:
     creator:     "Sherrie Thai"
     url:         "https://www.flickr.com/photos/shaireproductions/3045847217"
     license:     "CC 2.0"

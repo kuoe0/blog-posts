@@ -3,9 +3,8 @@ layout: post
 title:  "學生論壇 - 不馴，以創業顛覆凡想 - 林之晨"
 date:   2012-07-10
 tags:   ["talk | 演講", "startup | 創業"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-07-10-talk-stop-obeying-startup.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-07-10-talk-stop-obeying-startup.jpg"
+image_info:
     creator:     "Brajeshwar Oinam"
     url:         "https://www.flickr.com/photos/brajeshwar/8946784950"
     license:     "CC-BY-SA 2.0"

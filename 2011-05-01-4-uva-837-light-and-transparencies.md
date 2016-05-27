@@ -3,8 +3,6 @@ layout: post
 title:  "[UVa] 837 - Light and Transparencies"
 date:   2011-05-01
 tags:   ["UVa", "sweep line | 掃描線", "sort | 排序"]
-feature:
-    photo: false
 ---
 
 題目網址：[837 - Light and Transparencies](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=10&page=show_problem&problem=778)

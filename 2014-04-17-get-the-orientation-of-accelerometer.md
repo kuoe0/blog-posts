@@ -3,8 +3,6 @@ layout: post
 title:  "獲取加速計之姿態"
 date:   2014-04-17
 tags:   ["accelerometer | 加速計", "IMU | 慣性測量單元", "orientation | 姿態", "spatial rotation | 空間旋轉"]
-feature:
-    photo: false
 ---
 
 目前碩論使用了加速計，遇到一個問題是要求出當前加速計的姿態，也就是要知道現在加速計對於地面的傾角。

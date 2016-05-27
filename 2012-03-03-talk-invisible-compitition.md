@@ -3,9 +3,8 @@ layout: post
 title:  "通識講座 - 看不見的競爭 - Robert Wang"
 date:   2012-03-03
 tags:   ["talk | 演講", "startup | 創業", "brand | 品牌", "marketing | 行銷"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-03-03-talk-invisible-compitition.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-03-03-talk-invisible-compitition.jpg"
+image_info:
     creator:     "Bruno Nascimento"
     url:         "https://www.flickr.com/photos/endorphiins/5533579469"
     license:     "CC-BY-SA 2.0"

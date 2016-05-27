@@ -3,8 +3,6 @@ layout: post
 title:  "[GCJ 2013] Qualification Round - B - Lawnmower"
 date:   2013-04-14
 tags:   ["Google Code Jam"]
-feature:
-    photo: false
 ---
 
 題目網址：[B - Lawnmower](https://code.google.com/codejam/contest/2270488/dashboard#s=p1)

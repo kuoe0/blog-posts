@@ -3,8 +3,6 @@ layout: post
 title:  "Let's WordPress in Tainan"
 date:   2011-10-22
 tags:   ["WordPress"]
-feature:
-    photo: false
 ---
 
 上週日比完 NCPC 後，禮拜天就隨即趕回台南了，就是為了參加這個活動。原本這個活動是在禮拜六，我也報名了禮拜六，還好報名人數過多，加開了禮拜天的場次，不然那突然出現的 NCPC 的日期真是嚇死我了。

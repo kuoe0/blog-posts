@@ -3,9 +3,8 @@ layout: post
 title:  "業界與研究所的抉擇"
 date:   2011-06-09
 tags:   ["life | 人生"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-06-09-choice-of-work-and-graduate-school.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-06-09-choice-of-work-and-graduate-school.jpg"
+image_info:
     creator:     "alex yosifov"
     url:         "https://www.flickr.com/photos/sashomasho/719787088"
     license:     "CC-BY-SA 2.0"

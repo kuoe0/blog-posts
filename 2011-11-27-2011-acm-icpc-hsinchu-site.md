@@ -3,8 +3,6 @@ layout: post
 title:  "2011 ACM-ICPC Hsinchu Site"
 date:   2011-11-27
 tags:   ["ACM-ICPC", "contest | 競賽"]
-feature:
-    photo: true
 ---
 
 ## 心得

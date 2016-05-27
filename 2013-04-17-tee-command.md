@@ -3,8 +3,6 @@ layout: post
 title:  "tee 指令"
 date:   2013-04-17
 tags:   ["CLI | 命令列介面", "Unix"]
-feature:
-    photo: false
 ---
 
 第一次看到 tee 是在下面這個指令中：

@@ -3,8 +3,6 @@ layout: post
 title:  "透過電腦在 BlinkFeed 中增加 RSS 來源"
 date:   2013-11-25
 tags:   ["HTC", "BlinkFeed", "RSS"]
-feature:
-    photo: false
 ---
 
 這幾天 HTC one 終於有機會升到 Sense 5.5 版本了！在這個版本中，一個我最喜歡的變更是－BlinkFeed 可以自行增加 RSS 來源！

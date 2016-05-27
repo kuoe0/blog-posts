@@ -3,9 +3,8 @@ layout: post
 title:  "2011 Google Intern Worksheet"
 date:   2011-04-24
 tags:   ["Google", "intern | 實習"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-04-24-2011-google-intern-worksheet.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-04-24-2011-google-intern-worksheet.jpg"
+image_info:
     creator:     "Carlos Luna"
     url:         "https://www.flickr.com/photos/carlosluna/2856173673"
     license:     "CC 2.0"

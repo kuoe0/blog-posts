@@ -3,9 +3,8 @@ layout: post
 title:  "[C/C++] 計時"
 date:   2011-10-03
 tags:   ["C/C++", "time | 計時"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-10-03-c-cplusplus-timing.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-10-03-c-cplusplus-timing.jpg"
+image_info:
     creator:     "Jinx!"
     url:         "https://www.flickr.com/photos/7567658@N04/3462680490/"
     license:     "CC-BY-SA 2.0"

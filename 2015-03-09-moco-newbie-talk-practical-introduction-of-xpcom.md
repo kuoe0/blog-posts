@@ -3,8 +3,6 @@ layout: post
 title:  "謀智菜逼八談 XPCOM 實務入門"
 date:   2015-03-09
 tags:   ["Mozilla", "Firefox", "XPCOM"]
-feature:
-    photo: false
 ---
 
 本文同步刊載於[謀智台客](http://tech.mozilla.com.tw/posts/6010/%E8%AC%80%E6%99%BA%E8%8F%9C%E9%80%BC%E5%85%AB%E8%AB%87-xpcom-%E5%AF%A6%E5%8B%99%E5%85%A5%E9%96%80)。

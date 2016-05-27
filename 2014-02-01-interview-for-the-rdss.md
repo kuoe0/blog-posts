@@ -3,9 +3,8 @@ layout: post
 title:  "研發替代役面試"
 date:   2014-02-01
 tags:   ["interview | 面試", "RDSS | 研發替代役"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-02-01-interview-for-the-rdss.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-02-01-interview-for-the-rdss.jpg"
+image_info:
     creator:     "COD Newsroom"
     url:         "https://www.flickr.com/photos/codnewsroom/12439343164"
     license:     "CC 2.0"

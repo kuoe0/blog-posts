@@ -3,8 +3,6 @@ layout: post
 title:  "[閱讀雜記] 好 LOGO，如何好？"
 date:   2012-11-08
 tags:   ["book review | 閱讀雜記", "design | 設計", "logo | 標誌"]
-feature:
-    photo: false
 ---
 
 其實一直很想幫自己的 blog 弄個 logo 出來，但沒有美術天份，也非相關科系的我，實在無從下手，看到這本書的書評不錯，就到圖書館借來看看了。

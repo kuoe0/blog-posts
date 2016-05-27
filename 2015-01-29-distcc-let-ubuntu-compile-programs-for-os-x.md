@@ -3,8 +3,6 @@ layout: post
 title:  "distcc - 讓 Ubuntu 幫 OS X 編譯程式"
 date:   2015-01-29
 tags:   ["distcc", "OS X", "Ubuntu, C/C++"]
-feature:
-    photo: false
 ---
 
 前幾天聽到同事說到 distcc 這工具，詢問了一下才知道是這麼好用的工具。其官方網站：[https://code.google.com/p/distcc/](https://code.google.com/p/distcc/)。如同其標題所寫「distcc: a fast, free distributed C/C++ compiler」，就是一個可以進行分散式編譯的概念！C/C++ 程式在建置的過程中，最花時間的就是編譯了。這個工具的概念就是將編譯平行化，讓其他電腦也可以幫忙編譯程式碼，如此一來就可以節省下不少時間！

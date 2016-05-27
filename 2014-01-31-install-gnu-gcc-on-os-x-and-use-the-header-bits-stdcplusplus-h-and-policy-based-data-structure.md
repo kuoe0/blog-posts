@@ -3,8 +3,6 @@ layout: post
 title:  "在 OS X 中安裝 GNU GCC 以及使用  bits/stdc++.h 標頭檔與 Policy-Based Data Structure"
 date:   2014-01-31
 tags:   ["OS X", "GCC", "LLVM", "contest | 競賽"]
-feature:
-    photo: false
 ---
 
 系統環境：

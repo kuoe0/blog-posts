@@ -3,9 +3,7 @@ layout: post
 title:  "回顧 2014 與展望 2015"
 date:   2015-01-19
 tags:   ["life | 人生"]
-feature:
-    photo:     true
-    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2015-01-19-look-back-2014-and-look-ahead-2015.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2015-01-19-look-back-2014-and-look-ahead-2015.jpg"
 ---
 
 這個元旦假期實在太忙碌，剛離開成功嶺放一周假就要開始上班啦！整個元旦假期都在找房子與搬家中度過了，而且開始上班後，發現下班後時間真是不多...，以致於今年沒有在 1/1 發文。而且剛搬到臺北還有好多事情沒有弄好，竟然拖到一月下旬了才終於寫好。學生生涯就跟著 2014 年一起結束了，2015 年就開始踏入職場生涯了！

@@ -3,8 +3,6 @@ layout: post
 title:  "[Data Mining] Apriori Algorithm"
 date:   2011-12-01
 tags:   ["data mining | 資料探勘", "association rule | 關連性規則"]
-feature:
-    photo: false
 ---
 
 **P.S. 以下內容純為小弟個人研究看法，若有錯誤歡迎來信或留言指正，謝謝 <(__)>**

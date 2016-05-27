@@ -3,9 +3,7 @@ layout: post
 title:  "Arduino CLI on OS X"
 date:   2013-11-20
 tags:   ["Arduino", "OS X", "CLI | 命令列介面", "Ubuntu"]
-feature:
-    photo:     true
-    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-11-22-arduino-cli-on-os-x.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-11-22-arduino-cli-on-os-x.jpg"
 ---
 
 由於研究需要自行設計硬體，聽說 Arduino 是個滿容易上手的硬體，所以決定就採用 Arduino 進行開發。要建立開發 Arduino 的環境還滿容易的，只要到[官方網站](http://arduino.cc/en/Main/Software)下載適合自己作業系統的 IDE 就好啦！但我還是習慣在命令列環境下進行開發，以下就是配置 CLI 環境的方法。Arduino 的 CLI 工具叫做 [Ino](http://inotool.org/)。

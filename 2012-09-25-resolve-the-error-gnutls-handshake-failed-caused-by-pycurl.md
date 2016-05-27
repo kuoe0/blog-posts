@@ -3,8 +3,6 @@ layout: post
 title:  "解決 pycurl 造成的 gnutls_handshake() failed 錯誤"
 date:   2012-09-25
 tags:   ["Ubuntu", "Linux", "LinuxMint", "GnuTLS", "OpenSSL"]
-feature:
-    photo: false
 ---
 
 在 Ubuntu 上，常常會使用 APT 來作管理，我個人也比較喜歡有個工具來管理套件，APT 上找不到或是有特殊需求才自己編。但官方不見得會收入所有套件，所以通常會在套件庫中增加他人的 PPA (Personal Package Archives) 以方便安裝、移除或更新他人維護的套件。

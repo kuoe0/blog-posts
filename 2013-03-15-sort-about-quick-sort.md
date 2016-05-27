@@ -3,9 +3,8 @@ layout: post
 title:  "[Sort] 淺談 quick sort"
 date:   2013-03-15
 tags:   ["ACM-ICPC", "sort | 排序", "algorithm | 演算法"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-03-15-sort-about-quick-sort.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-03-15-sort-about-quick-sort.jpg"
+image_info:
     creator:     "David"
     url:         "https://www.flickr.com/photos/rnddave/3752002537"
     license:     "CC-BY-SA 2.0"

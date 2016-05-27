@@ -3,9 +3,7 @@ layout: post
 title:  "解決 Ubuntu 下 phpMyAdmin 的 404 Not Found 頁面"
 date:   2012-08-23
 tags:   ["Ubuntu", "Linux", "database | 資料庫", "phpMyAdmin"]
-feature:
-    photo:     true
-    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-08-23-slove-phpmyadmin-404-not-found-in-ubuntu.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-08-23-slove-phpmyadmin-404-not-found-in-ubuntu.jpg"
 ---
 
 AWS 的[一年免費試用](http://aws.amazon.com/free/)到期了，於是決定把主機從 Virginia 遷到 Tokyo，據說會變快？！加上以前都亂裝些有的沒的 plugin，導致資料庫一堆雜七雜八的欄位，就順便重新安裝 wordpress 了。

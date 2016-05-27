@@ -3,9 +3,8 @@ layout: post
 title:  "使用 Prolog 求解數獨"
 date:   2013-07-22
 tags:   ["Prolog", "sudoku | 數獨"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-07-22-use-prolog-to-solve-sudoku.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-07-22-use-prolog-to-solve-sudoku.jpg"
+image_info:
     creator:     "Jason Cartwright"
     url:         "https://www.flickr.com/photos/jasoncartwright/130182586"
     license:     "CC 2.0"

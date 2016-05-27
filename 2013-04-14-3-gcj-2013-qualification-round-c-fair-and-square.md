@@ -3,8 +3,6 @@ layout: post
 title:  "[GCJ 2013] Qualification Round - C - Fair and Square"
 date:   2013-04-14
 tags:   ["Google Code Jam"]
-feature:
-    photo: false
 ---
 
 題目網址：[C - Fair and Square](https://code.google.com/codejam/contest/2270488/dashboard#s=p2)

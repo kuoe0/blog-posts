@@ -3,8 +3,6 @@ layout: post
 title:  "『愛資味八寶週』-C/C++、Java程式設計比賽"
 date:   2010-04-16
 tags:   ["contest | 競賽"]
-feature:
-    photo: false
 ---
 
 報名網站：[http://www.wretch.cc/blog/yzuiw2010/11943388](http://www.wretch.cc/blog/yzuiw2010/11943388)

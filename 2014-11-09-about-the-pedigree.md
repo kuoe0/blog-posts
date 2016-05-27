@@ -3,9 +3,8 @@ layout: post
 title:  "所謂的「血統」"
 date:   2014-11-09
 tags:   ["interview | 面試"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-11-09-about-the-pedigree.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-11-09-about-the-pedigree.jpg"
+image_info:
     creator:     "Dan Century"
     url:         "https://www.flickr.com/photos/dancentury/5197555782"
     license:     "CC 2.0"

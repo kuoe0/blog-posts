@@ -3,9 +3,8 @@ layout: post
 title:  "關於面試服裝"
 date:   2011-11-12
 tags:   ["interview | 面試", "graduate school | 研究所", "clothes | 服裝"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-11-12-about-clothes-for-interview.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-11-12-about-clothes-for-interview.jpg"
+image_info:
     creator:     "Minh Hoang"
     url:         "https://www.flickr.com/photos/minhimalism/5647290684/"
     license:     "CC-BY-ND 2.0"

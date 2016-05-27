@@ -3,9 +3,7 @@ layout: post
 title:  "Steve Jobs"
 date:   2011-10-09
 tags:   ["Apple", "Steve Jobs | 賈伯斯"]
-feature:
-    photo:     true
-    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-10-09-steve-jobs.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-10-09-steve-jobs.jpg"
 ---
 
 美西時間2011年10月5號，我所敬佩的 Steve Jobs 辭世了。這天早上九點的課，因為前一天準備被審資料準備太晚，差點睡過頭，被女朋友打電話來叫醒，他第一句話就告訴我「賈伯斯過世了！」。一聽到這消息，以往喜愛賴床的我，也瞬間醒了。起床不是刷牙洗臉準備上課，是上各大網站確認這個消息。但令人難過得是，賈伯斯真的走了 :(。

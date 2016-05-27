@@ -3,9 +3,8 @@ layout: post
 title:  "是貪心還是放不下？其實還有不甘心"
 date:   2012-03-20
 tags:   ["life | 人生"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-03-20-greedy-cannot-forget-cannot-reconcile.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-03-20-greedy-cannot-forget-cannot-reconcile.jpg"
+image_info:
     creator:     "Steve Troughton"
     url:         "https://www.flickr.com/photos/stevetroughton/16889877817"
     license:     "Public Domain"

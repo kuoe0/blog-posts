@@ -3,9 +3,8 @@ layout: post
 title:  "學生論壇 - 不夢，以踏實尋道登峰 - 鄭匡宇"
 date:   2012-05-24
 tags:   ["talk | 演講", "dream | 夢想", "realize | 實踐"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-05-24-talk-stop-dreaming-do-something.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-05-24-talk-stop-dreaming-do-something.jpg"
+image_info:
     creator:     "DVIDSHUB"
     url:         "https://www.flickr.com/photos/dvids/8735703666"
     license:     "CC 2.0"

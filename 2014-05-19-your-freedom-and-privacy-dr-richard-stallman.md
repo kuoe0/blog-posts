@@ -3,9 +3,8 @@ layout: post
 title:  "Your freedom and privacy - Dr. Richard Stallman"
 date:   2014-05-19
 tags:   ["free software | 自由軟體", "GNU", "Linux", "Richard Stallman"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-05-19-your-freedom-and-privacy-dr-richard-stallman.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-05-19-your-freedom-and-privacy-dr-richard-stallman.jpg"
+image_info:
     creator:     "Wikipedia"
     url:         "https://zh.wikipedia.org/wiki/%E7%90%86%E6%9F%A5%E5%BE%B7%C2%B7%E6%96%AF%E6%89%98%E6%9B%BC?oldformat=true#/media/File:GNU_and_Stallman_2012.JPG"
     license:     "CC-BY-SA 3.0"

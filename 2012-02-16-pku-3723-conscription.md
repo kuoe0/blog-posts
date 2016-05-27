@@ -3,8 +3,6 @@ layout: post
 title:  "[POJ] 3723 - Conscription"
 date:   2012-02-16
 tags:   ["POJ", "MST | 最小生成樹", "graph theory | 圖論"]
-feature:
-    photo: false
 ---
 
 題目網址：[3723 - Conscription](http://poj.org/problem?id=3723)

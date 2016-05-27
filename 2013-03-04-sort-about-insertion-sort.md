@@ -3,9 +3,8 @@ layout: post
 title:  "[Sort] 淺談 insertion sort"
 date:   2013-03-05
 tags:   ["ACM-ICPC", "sort | 排序", "algorithm | 演算法"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-03-04-sort-about-insertion-sort.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-03-04-sort-about-insertion-sort.jpg"
+image_info:
     creator:     "shoobydooby"
     url:         "https://www.flickr.com/photos/shoobydooby/118034414"
     license:     "CC 2.0"

@@ -3,9 +3,7 @@ layout: post
 title:  "回顧 2013 與展望 2014"
 date:   2014-01-02
 tags:   ["life | 人生"]
-feature:
-    photo:     true
-    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-01-02-look-back-2013-and-look-ahead-2014.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-01-02-look-back-2013-and-look-ahead-2014.jpg"
 ---
 
 ## 回顧 2013

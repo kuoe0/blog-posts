@@ -3,9 +3,8 @@ layout: post
 title:  "[閱讀雜記] 電的旅程－探索人類駕馭電子的歷史過程"
 date:   2012-10-28
 tags:   ["book review | 閱讀雜記", "physics | 物理", "electromagnetism | 電磁學", "technology | 科技"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-10-28-book-review-journey-of-electricity.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-10-28-book-review-journey-of-electricity.jpg"
+image_info:
     creator:     "Lawrence Rayner"
     url:         "https://www.flickr.com/photos/lawrencerayner/5172889642"
     license:     "CC 2.0"

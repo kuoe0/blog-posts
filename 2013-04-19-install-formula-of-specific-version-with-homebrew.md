@@ -3,8 +3,6 @@ layout: post
 title:  "透過 homebrew 安裝特定版本套件"
 date:   2013-04-19
 tags:   ["OS X", "homebrew"]
-feature:
-    photo: false
 ---
 
 昨天升級了 homebrew 中的不少套件，結果我的 vim 就毀滅了，一直出現 ImportError: cannot import name MAXREPEAT 的錯誤！找了好久才發現原來是 python 在月初發佈了 2.7.4 版本，因此我電腦中的版本也變成了 2.7.4，導致我 vim 中跟 python 相關的 plugin 都掛點了，於是決定來把 python 降到 2.7.3 版！以下是降版的步驟：

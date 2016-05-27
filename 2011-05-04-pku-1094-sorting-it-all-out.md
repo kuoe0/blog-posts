@@ -3,8 +3,6 @@ layout: post
 title:  "[POJ] 1094 - Sorting It All Out"
 date:   2011-05-04
 tags:   ["POJ", "topological sort | 拓樸排序", "graph theory | 圖論"]
-feature:
-    photo: false
 ---
 
 題目網址：[1094 - Sorting It All Out](http://poj.org/problem?id=1094)

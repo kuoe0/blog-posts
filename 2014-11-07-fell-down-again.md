@@ -3,9 +3,8 @@ layout: post
 title:  "一個跌倒了站不起來的故事"
 date:   2014-11-07
 tags:   ["interview | 面試", "RDSS | 研發替代役"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-11-07-fell-down-again.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2014-11-07-fell-down-again.jpg"
+image_info:
     creator:     "MFer Photography"
     url:         "https://www.flickr.com/photos/fotostalker/3116391203"
     license:     "CC-BY-ND 2.0"

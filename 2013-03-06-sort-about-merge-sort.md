@@ -3,8 +3,6 @@ layout: post
 title:  "[Sort] 淺談 merge sort"
 date:   2013-03-06
 tags:   ["ACM-ICPC", "sort | 排序", "algorithm | 演算法"]
-feature:
-    photo: false
 ---
 
 中譯「合併排序法」，這次要介紹的可是個高效演算法，雖然在小量資料時可能不見得有明顯優勢，但資料量一大即可發現極大的差距！

@@ -3,8 +3,6 @@ layout: post
 title:  "Prolog 入門"
 date:   2013-06-19
 tags:   ["Prolog"]
-feature:
-    photo: false
 ---
 
 本文同步刊載於[程式人雜誌 2013 年 8 月](http://programmermagazine.github.io/201308/htm/article3.html)。

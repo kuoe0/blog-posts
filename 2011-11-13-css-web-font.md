@@ -3,9 +3,8 @@ layout: post
 title:  "[CSS] 網頁字體"
 date:   2011-11-13
 tags:   ["CSS", "font | 字體", "web dev | 網頁開發"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-11-13-css-web-font.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-11-13-css-web-font.jpg"
+image_info:
     creator:     "Jeremy Keith"
     url:         "https://www.flickr.com/photos/adactio/5817835395"
     license:     "CC 2.0"

@@ -3,8 +3,6 @@ layout: post
 title:  "在 Ubuntu 上架設主從式 DNS server"
 date:   2013-08-25
 tags:   ["Ubuntu", "Linux", "DNS", "network management | 網路管理"]
-feature:
-    photo: false
 ---
 
 繼上次架設了實驗室的 DNS server 後 ([連結](http://blog.kuoe0.tw/posts/2013/08/11/install-dns-server-on-ubuntu

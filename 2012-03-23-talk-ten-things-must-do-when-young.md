@@ -3,9 +3,8 @@ layout: post
 title:  "通識講座 - 十件趁年輕非做不可的事情 - 褚士瑩"
 date:   2012-03-23
 tags:   ["talk | 演講", "life | 人生"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-03-23-talk-ten-things-must-do-when-young.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-03-23-talk-ten-things-must-do-when-young.jpg"
+image_info:
     creator:     "Robert Cudmore"
     url:         "https://www.flickr.com/photos/cudmore/3932146"
     license:     "CC-BY-SA 2.0"

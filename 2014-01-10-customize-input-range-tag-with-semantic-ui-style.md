@@ -3,8 +3,6 @@ layout: post
 title:  "打造 Semantic UI 風格的 range input"
 date:   2014-01-10
 tags:   ["web dev | 網頁開發", "Semantic UI", "CSS"]
-feature:
-    photo: false
 ---
 
 最近在開發訊號繪製的網頁，詳情可參考這篇－[使用網頁作為訊號繪製界面 (with Python)](http://blog.kuoe0.tw/posts/2013/12/30/use-web-page-to-plot-signals-with-python)，其中套用的 [Semantic UI](semantic-ui.com) 來裝飾頁面。最近想加上一個 low-pass filter 的功能，並且希望可以調整 filter 的強度，打算使用 `<intput type="range />` 來實現調整的功能。找遍了 Semantic UI 的文件，完全找不到有定義 range 型別的樣式（還是我眼殘沒找到？！），就只好自己研究一下該怎麼套出類似的樣式了。

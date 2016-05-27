@@ -3,8 +3,6 @@ layout: post
 title:  "使用網頁作為訊號繪製界面 (with Python)"
 date:   2013-12-30
 tags:   ["Python", "signal plotting | 訊號繪製", "Tornado", "jQuery", "Flot", "web dev | 網頁開發", "MPU6050"]
-feature:
-    photo: false
 ---
 
 之前使用過 Python 的 matplotlib 套件來繪製，可惜僅能事先錄製好訊號，再將存放訊號的檔案透過 matplotlib 來繪製訊號圖。這樣的方式除了愚蠢外，也不便於硬體開發，因此打算寫一個 GUI 程式並可以即時 (real-time) 的繪製出訊號。

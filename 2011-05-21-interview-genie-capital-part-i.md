@@ -3,8 +3,6 @@ layout: post
 title:  "Interview – 精靈數位科技 (Genie Capital) – Part I"
 date:   2011-05-21
 tags:   ["interview | 面試", "Genie Capital | 精靈數位科技", "intern | 實習"]
-feature:
-    photo: false
 ---
 
 最近申請了很多 intern，昨天 (5/20) 是申請的其中一間「[精靈數位科技](http://geniecapital.com/)」的面試日。精靈是一間很新的公司，創立於去年五月左右。會知道這間公司有在招收 intern 是電子哥告訴我的，好像說他們有寄信到系上在由系辦轉寄的樣子，但是是寄給研究生  ，大學部嘞…。

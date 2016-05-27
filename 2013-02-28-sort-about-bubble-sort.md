@@ -3,9 +3,8 @@ layout: post
 title:  "[Sort] 淺談 bubble sort"
 date:   2013-02-28
 tags:   ["ACM-ICPC", "sort | 排序", "algorithm | 演算法"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-02-28-sort-about-bubble-sort.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-02-28-sort-about-bubble-sort.jpg"
+image_info:
     creator:     "Keith Williamson"
     url:         "https://www.flickr.com/photos/elwillo/5172528284"
     license:     "CC 2.0"

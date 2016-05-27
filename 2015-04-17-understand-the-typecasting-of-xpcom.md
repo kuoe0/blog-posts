@@ -3,9 +3,8 @@ layout: post
 title:  "看懂 XPCOM 的轉型函式"
 date:   2015-04-17
 tags:   ["Mozilla", "Firefox", "XPCOM", "typecasting | 轉型"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2015-04-17-understand-the-typecasting-of-xpcom.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2015-04-17-understand-the-typecasting-of-xpcom.jpg"
+image_info:
     creator:     "Alan Levine"
     url:         "https://www.flickr.com/photos/cogdog/8662368656"
     license:     "CC 2.0"

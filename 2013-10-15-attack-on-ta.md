@@ -3,8 +3,6 @@ layout: post
 title:  "進擊的助教"
 date:   2013-10-15
 tags:   ["TA | 助教", "life | 生活"]
-feature:
-    photo: false
 ---
 
 在一場學長的演講中，聽到了以下這麼一段話（大略的意思，並非原文呈現）：

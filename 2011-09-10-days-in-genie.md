@@ -3,8 +3,6 @@ layout: post
 title:  "我在精靈的日子"
 date:   2011-09-10
 tags:   ["Genie Capital", "intern | 實習"]
-feature:
-    photo: false
 ---
 
 上禮拜就結束實習了，遲了好久的一篇。其實只是因為有點懶得打，加上一回家其實也有不少事情得做 QQ。

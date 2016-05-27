@@ -3,9 +3,7 @@ layout: post
 title:  "Learning Python"
 date:   2011-04-30
 tags:   ["Python", "Google"]
-feature:
-    photo:     true
-    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-04-30-learning-python.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2011-04-30-learning-python.jpg"
 ---
 
 看到 Python 是 Google 使用的主要語言之一，因為夢想進入Google，因此下定決心學習 Python。不管是否進得去 Google，學的越多，我就比別人擁有越多的優勢。前幾天就開始找 Python 的教學網站，也因此看到了一些其他人對 Python 的看法。大部分對 Python 的評價都是簡單好學，而且可以提升工作效率（非程式執行效率），所以都會選擇 Python 當作撰寫非要求效率的程式

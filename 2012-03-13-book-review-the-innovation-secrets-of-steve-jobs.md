@@ -3,9 +3,7 @@ layout: post
 title:  "[閱讀雜記] 揭密：透視賈伯斯驚奇的創新秘訣"
 date:   2012-03-13
 tags:   ["book review | 閱讀雜記", "Steve Jobs | 賈伯斯", "Apple"]
-feature:
-    photo:     true
-    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-03-13-book-review-the-innovation-secrets-of-steve-jobs.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-03-13-book-review-the-innovation-secrets-of-steve-jobs.jpg"
 ---
 
 圖書資訊：[揭密：透視賈伯斯驚奇的創新秘訣](http://www.anobii.com/books/%E6%8F%AD%E5%AF%86/9789861577623/012bb326c49991e84c/)

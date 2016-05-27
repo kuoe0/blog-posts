@@ -3,8 +3,6 @@ layout: post
 title:  "在 VirtualBox 上安裝 Windows 8.1 時出現錯誤碼 0x000000C4"
 date:   2013-11-04
 tags:   ["virtual machine | 虛擬機", "VirtualBox", "Windows"]
-feature:
-    photo: false
 ---
 
 最近接了一個別人未完成的案子，由於目標終端是 Windows，因此勢必得安裝個 Windows 了。但又不想直接灌在系統裡，想說裝個虛擬機好了。發現學校有最新的 Windows 8.1 的映像檔，就決定來潮一下安裝最新的 Windows 8.1！結果一開始安裝就出現了以下的錯誤訊息：

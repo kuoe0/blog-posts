@@ -3,9 +3,7 @@ layout: post
 title:  "2012 ACM-ICPC Kaohsiung Site"
 date:   2012-12-08
 tags:   ["ACM-ICPC", "contest | 競賽"]
-feature:
-    photo:     true
-    photo_url: "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-12-08-2012-acm-icpc-kaohsiung-regional-contest.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2012-12-08-2012-acm-icpc-kaohsiung-regional-contest.jpg"
 ---
 
 這次比賽的飯店與餐廳都還滿不錯的，相較於前年來說實在好很多XD。除了飯店房間內沒有 wifi，跟早餐只有麥當勞外。但這次比賽結果與前年相較也是退步極多，去年開始就表現的非常差，去年參賽結束後，曾希望可以花一年的時間再來衝一次。但還是沒做到，現在的我好像沒辦法像以前一樣每天都寫 ACM，不眠不休的寫。接觸了許多不同的領域後，好像就很難定下心來純粹鑽研演算法了。

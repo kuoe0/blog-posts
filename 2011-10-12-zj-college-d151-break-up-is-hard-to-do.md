@@ -3,8 +3,6 @@ layout: post
 title:  "[ZJ College] d151 - Break Up is Hard to Do"
 date:   2011-10-12
 tags:   ["ZeroJudge - College", "BFS | 廣度優先搜索", "DFS | 深度優先搜索", "enumerate | 枚舉"]
-feature:
-    photo: false
 ---
 
 題目網址：[d151 - Break Up is Hard to Do](http://140.122.185.166/ZeroJudge/ShowProblem?problemid=d151)

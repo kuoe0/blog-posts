@@ -3,8 +3,6 @@ layout: post
 title:  "Arduino 使用 Ino 進行編譯時出現 stty 參數錯誤"
 date:   2014-06-23
 tags:   ["Arduino", "OS X", "CLI | 命令列介面"]
-feature:
-    photo: false
 ---
 
 > 作業系統：OS X 10.9 Mavericks

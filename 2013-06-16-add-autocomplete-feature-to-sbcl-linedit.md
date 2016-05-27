@@ -3,8 +3,6 @@ layout: post
 title:  "替 SBCL 增加 autocomplete 功能 - Linedit"
 date:   2013-06-16
 tags:   ["Common Lisp", "SBCL", "autocomplete | 自動補齊"]
-feature:
-    photo: false
 ---
 
 在 CLI 環境下，很多指令都只能熟記，不過指令真的太多了，要通通記得實在有點麻煩，所以 autocomplete 就顯得非常重要啦！在 bash、zsh 等 shell 中，都有著強大 autocomplete 功能，以方便我們找到要使用的指令名稱。而 vim 中，許多人也會安裝各式各樣的套件來幫助自己更快速也更正確地（電腦不會手殘）編寫程式。另外，在 python 中，也有個 [bpython](http://bpython-interpreter.org/) 的項目，讓工程師們可以更快速的使用 python 來工作！因此，我覺得所有的 interactive environment 應該都要有 autocomplete 的功能才是啊！！

@@ -3,8 +3,6 @@ layout: post
 title:  "2013 Startup Weekend Tainan @成功大學"
 date:   2013-01-30
 tags:   ["startup | 創業"]
-feature:
-    photo: false
 ---
 
 54 小時的 [Startup Weekend Tainan](http://tainan.startupweekend.org/) 結束了，從暑假就知道這活動，猶豫了很久到底要不要參加，連個完整的專業開發經驗都沒有，覺得自己什麼都不會要去幹嘛？但隨著早鳥票的時限將近，決定還是報名了，這種限時總是很吸引人！一千塊對窮學生來說也是好貴啊！是說這天我們還自己辦了個 ACMarathon，可惜時間衝突沒辦法前往，畢竟這有繳錢啊！！

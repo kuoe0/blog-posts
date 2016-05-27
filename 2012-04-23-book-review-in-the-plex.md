@@ -3,8 +3,6 @@ layout: post
 title:  "[閱讀雜記] Google 總部大揭密"
 date:   2012-04-23
 tags:   ["book review | 閱讀雜記", "Google", "startup | 創業"]
-feature:
-    photo: false
 ---
 
 圖書資訊：[Google 總部大揭密](http://www.anobii.com/books/Google%E7%B8%BD%E9%83%A8%E5%A4%A7%E6%8F%AD%E5%AF%86/9789866165337/010b4228781c7f7604/)

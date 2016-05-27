@@ -3,9 +3,8 @@ layout: post
 title:  "[Sort] 淺談 selection sort"
 date:   2013-03-05
 tags:   ["ACM-ICPC", "sort | 排序", "algorithm | 演算法"]
-feature:
-    photo:       true
-    photo_url:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-03-05-sort-about-selection-sort.jpg"
+image:   "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2013-03-05-sort-about-selection-sort.jpg"
+image_info:
     creator:     "Bill Selak"
     url:         "https://www.flickr.com/photos/billselak/4173183227/"
     license:     "CC-BY-NC-ND 2.0"

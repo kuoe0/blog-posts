@@ -3,8 +3,6 @@ layout: post
 title:  "[UVa] 100 - The 3n + 1 problem"
 date:   2011-04-11
 tags:   ["programming | 程式編寫", "UVa, simulation | 模擬"]
-feature:
-    photo: false
 ---
 
 題目網址：[100 - The 3n + 1 problem](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36)
