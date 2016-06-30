@@ -97,6 +97,7 @@ fi
 - 將 git-cinnabar 加入 `PATH` 環境變數中 [註 2]
 
 > 註 1：mach command 是 Gecko 專案專用的開發工具，提供非常多項開發所需要的任務。
+>
 > 註 2：git-cinnabar 是一個 git plugin，讓開發者可以使用 git 來開發使用 mercurial 做為 VCS 的專案，像是 Gecko。未來有機會會在另闢專文介紹 git-cinnabar 。
 
 **.autoenv_leave.zsh**
