@@ -4,7 +4,7 @@ title:  "[CLI] 基於資料夾來自動設定開發環境 - autoenv"
 date:   2016-06-30
 tags:   ["CLI", "ZSH", "Firefox"]
 feature:
-    photo: false 
+    photo: false
 ---
 
 相信許多人在開發不同專案時都會需要不同的開發環境，也因為這個原因才會有 Python 的 [virtualenv](https://virtualenv.pypa.io/en/stable/) 與 Ruby 的 [RVM](http://rvm.io/) 或是 [rbenv](http://rbenv.org/) 出現。
@@ -34,7 +34,7 @@ Varstash 提供以下三個指令：
 
 - `stash`：將該變數原本的值存起來，並設定為新給定的值。
 - `unstash`：將該變數存起來的值取出，並設定回該變數。
-- `autostash`：自動觸發 unstash。
+- `autostash`：執行 `stash` 來設定該變數，該變數會在離開該資料夾時自動觸發 `unstash`。
 
 就如同前面所說的，在某些專案中，可能會需要將該專用才用得到的工具加入 `PATH` 變數中。這時候 autoenv 的設定就可以寫的像下面的範例一般：
 
@@ -58,7 +58,6 @@ autostash PATH="path/to/tools:$PATH"
 ```
 
 如此一來，儘管沒有 `.autoenv_leave.zsh` 這個設定檔，也能夠讓環境變數回復成原本的值。
-
 
 ## Firefox 的 autoenv 設定
 
