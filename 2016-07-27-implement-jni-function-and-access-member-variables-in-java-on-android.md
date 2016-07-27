@@ -6,7 +6,7 @@ tags:   ["Android", "JNI", "C/C++", "Java"]
 image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2016-07-27-implement-jni-function-and-access-member-variables-in-java-on-android.jpg"
 ---
 
-由於筆者最近在開發 Firefox for Android 上的功能，也因此有機會接觸 Android 開發。Firefox for Android 也是採用與 Firefox（桌面版）相同的瀏覽器引擎 - Gecko。由於 Gecko 主要是採用 C/C++ 開發的，因此勢必需要使用到 Java 的 JNI 來銜銜接 C/C++ 的程式碼，在 Android 上也就需要 NDK 的支援。
+由於筆者最近在開發 Firefox for Android 上的功能，也因此有機會接觸 Android 開發。Firefox for Android 也是採用與 Firefox（桌面版）相同的瀏覽器引擎 - Gecko。由於 Gecko 主要是採用 C/C++ 開發的，因此勢必需要使用到 Java 的 JNI 來銜接 C/C++ 的程式碼，在 Android 上也就需要 NDK 的支援。
 
 這系列文章將分為三篇：
 
@@ -14,7 +14,7 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 2. 在 Gecko 中實作 JNI 函式（標題暫定）
 3. Gecko 如何串接 JNI 與 C++ 的物件（標題暫定）
 
-本文章為本系列第一張，將針對如何在 Android 上實作 JNI 函式，並於 C/C++ 端存取 Java 端的成員變數。目前還不太清楚如何使用 CLI 來開發 Android 應用程式，因此本文章將採用 Google 針對 Android 所開發的 IDE - **Android Studio**。
+本文章為本系列第一章，將針對如何在 Android 上實作 JNI 函式，並於 C/C++ 端存取 Java 端的成員變數。目前還不太清楚如何使用 CLI 來開發 Android 應用程式，因此本文章將採用 Google 針對 Android 所開發的 IDE - **Android Studio**。
 
 ## 開發環境
 
@@ -27,7 +27,7 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ## 範例程式
 
-本文章的範例程式碼都放在 GitHub 上，連結：[https://github.com/KuoE0/AndroidJNITest](https://github.com/KuoE0/AndroidJNITest)。
+本文章的範例程式碼都放在 GitHub 上，有需要的話可以前往 [https://github.com/KuoE0/AndroidJNITest](https://github.com/KuoE0/AndroidJNITest)。
 
 首先，我們先建立一個非常簡單的 Android 程式，這個程式會透過呼叫函式來取得字串，並顯示在畫面上。目前，我們先不使用 JNI，所有的工作都在 Java 端完成。請看以下程式碼：
 
@@ -261,7 +261,9 @@ jstring str = (jstring) env->GetObjectField(obj, fid);
 
 ## 總結
 
-以上就是如何在 Android 中實作 JNI 函式的範例，並且示範了如何在 JNI 函式中取得 Java 端的成員變數。透過 JNI，Java 與 C/C++ 就可以輕易地進行資料傳遞。使用 C/C++ 的優點如下：
+以上就是如何在 Android 中實作 JNI 函式的範例，並且示範了如何在 JNI 函式中取得 Java 端的成員變數。透過 JNI，Java 與 C/C++ 就可以輕易地進行資料傳遞。
+
+使用 C/C++ 的優點如下：
 
 - C/C++ 執行效能較 Java 高
 - 使用 C/C++ 既有的函式庫
