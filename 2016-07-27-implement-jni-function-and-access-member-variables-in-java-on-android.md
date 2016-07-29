@@ -204,7 +204,6 @@ class JNIMethod {
     private static final String sMsg = "Hello wrold from static!";
     private final String mMsg = "Hello wrold from member!";
 }
-
 ```
 
 編譯執行後，應該就可以看到畫面上有正常顯示字串了！
