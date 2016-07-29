@@ -190,7 +190,24 @@ sdk.dir=/usr/local/Cellar/android-sdk/24.4.1_1
 ndk.dir=/usr/local/Cellar/android-ndk/r12
 ```
 
-進行上述的設定後，即可再進行一次編譯並執行，就可以發現畫面上能成功顯示預期的字串了！
+進行上述設定後，基本上用 C++ 實作 JNI 函式已經完成了！不過，如果嘗試編譯後執行，還是會得到一樣的錯誤。因為，編譯出來的 C++ 函式庫並沒有被載入 Java 中。最後只要在 Java 的程式碼中仔入這個函式庫即可，程式碼如下：
+
+```java
+
+class JNIMethod {
+    static {
+        System.loadLibrary("JNIMethod");  //defaultConfig.ndk.moduleName
+    }
+    native static public String getStringFromNativeForStaticFunction();
+    native public String getStringFromNativeForMemberFunction();
+
+    private static final String sMsg = "Hello wrold from static!";
+    private final String mMsg = "Hello wrold from member!";
+}
+
+```
+
+編譯執行後，應該就可以看到畫面上有正常顯示字串了！
 
 ## 在 JNI 函式中使用 Java 的成員變數
 
