@@ -193,7 +193,6 @@ ndk.dir=/usr/local/Cellar/android-ndk/r12
 進行上述設定後，基本上用 C++ 實作 JNI 函式已經完成了！不過，如果嘗試編譯後執行，還是會得到一樣的錯誤。因為，編譯出來的 C++ 函式庫並沒有被載入 Java 中。最後只要在 Java 的程式碼中仔入這個函式庫即可，程式碼如下：
 
 ```java
-
 class JNIMethod {
     static {
         System.loadLibrary("JNIMethod");  //defaultConfig.ndk.moduleName
