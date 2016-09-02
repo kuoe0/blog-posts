@@ -45,7 +45,7 @@ if (pWritingFile) {
 delete imageData;
 ```
 
-輸出的檔案會是 RGBA 的 raw 檔，建議在檔名上加上寬高比較方便後期進行 raw 檔的還原。畢竟 raw 檔裡頭只有 RGBA 的資訊，並沒有其他 metadata，像是寬高之類的。然後，可以透過 ImageMagick 可以輕易把 RGBA 檔轉成 PNG 的格式，注意副檔名一定要是 `.rgba`，否則 ImageMagick 不會知道他是 RGBA 檔。
+輸出的檔案會是 RGBA 的 raw 檔，建議在檔名上加上寬高比較方便後期進行 raw 檔的還原。畢竟 raw 檔裡頭只有 RGBA 的資訊，並沒有其他 metadata，像是寬高之類的。然後，透過 ImageMagick 可以輕易把 RGBA 檔轉成 PNG 的格式，注意副檔名一定要是 `.rgba`，否則 ImageMagick 不會知道他是 RGBA 檔。
 
 ```
 $ convert -size "1280x720" -flip -depth 8 15_dump_0x879e1ec0_1280x720.rgba 15_dump_0x879e1ec0_1280x720.png
