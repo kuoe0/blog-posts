@@ -11,8 +11,6 @@ image_info:
     license_url: "https://creativecommons.org/licenses/by/2.0/"
 ---
 
-photo credit: <a href="https://www.flickr.com/photos/venkatarameshkommoju/8421076936/">Venkataramesh.Kommoju</a> via <a href="http://photopin.com">photopin</a> <a href="http://creativecommons.org/licenses/by-nc-nd/2.0/">cc</a>
-
 常聽到有人會說應徵一間公司沒有上可能是血統問題，自己就遇過有人對此事深信不疑的人，認為自己唸的學校比較差就一定沒機會被錄取。但我個人一直覺得，沒有血統純不純的問題，只有能力夠不夠的問題。
 
 上一篇文章（[連結](http://kuoe0.logdown.com/posts/2014/11/07/i-can-not-pick-up-myself-where-i-have-fallen)）提到感覺很不被面試官尊重，文章被貼出後引發了一些些討論。這些討論中有人認為我本身程式能力就有問題，是他也不會錄用。也有人提到面試官這樣的面試態度在台灣很多，純粹就是要看你的反應而已。學長也說基本上賺錢的公司很多主管都是這樣的。
