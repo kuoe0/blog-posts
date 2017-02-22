@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[LeetCode] 80 Remove Duplicates from Sorted Array II"
+title:  "[LeetCode] 80 - Remove Duplicates from Sorted Array II"
 date:   2017-02-22
 tags:   ["problem solution | 題解"]
 ---
@@ -75,5 +75,4 @@ public:
 };
 
 ```
-
 
