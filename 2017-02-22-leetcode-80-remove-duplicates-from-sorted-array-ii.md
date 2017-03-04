@@ -2,7 +2,7 @@
 layout: post
 title:  "[LeetCode] 80 - Remove Duplicates from Sorted Array II"
 date:   2017-02-22
-tags:   ["problem solution | 題解"]
+tags:   ["problem solution | 題解", "LeetCode"]
 ---
 
 題目連結：[https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?tab=Description](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?tab=Description)
@@ -75,4 +75,3 @@ public:
 };
 
 ```
-

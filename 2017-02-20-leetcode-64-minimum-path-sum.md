@@ -2,7 +2,7 @@
 layout: post
 title:  "[LeetCode] 64 - Minimum Path Sum"
 date:   2017-02-20
-tags:   ["problem solution | 題解"]
+tags:   ["problem solution | 題解", "LeetCode"]
 ---
 
 題目連結：[https://leetcode.com/problems/minimum-path-sum/?tab=Description](https://leetcode.com/problems/minimum-path-sum/?tab=Description)
