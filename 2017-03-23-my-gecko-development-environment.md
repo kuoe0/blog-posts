@@ -100,22 +100,25 @@ mk_add_options MOZ_OBJDIR=${OBJDIR}
 
 過去在進行 code review 時，都要手動上傳 patch 到 bugzilla。而且如果使用 Git 開發的話，還要先透過 [`git-patch-to-hg-patch`](https://github.com/mozilla/moz-git-tools/blob/master/git-patch-to-hg-patch) 這個指令來轉換成 hg patch。
 
-最近公司的某個部門就開發了 mozreview，讓開發者可以直接透過指令上傳 patch 到 bugzilla。下載 [mozilla/version-control-tools](https://github.com/mozilla/version-control-tools) 這個 repo，並且將 `version-control-tools/git/commands` 加入到環境變數 `PATH` 中即可使用。
+最近公司的某個部門就開發了 mozreview，讓開發者可以直接透過指令上傳 patch 到 bugzilla。下載 [mozilla/version-control-tools](https://github.com/mozilla/version-control-tools) 這個 repo，並且將 `version-control-tools/git/commands` 加入到環境變數 `PATH` 中即可使用。只要記得在 commit message 中放入 bug ID，就可以透過以下指令上傳 patch 到指定的 bug ID 的 bugzilla 頁面來進行 code review：
 
+```
+$ git mozreview push
+```
+
+這樣一來，就會自動把 mozilla-central 之後到 HEAD 的 commit 上傳到 bugzilla 上進行 review。不過要注意的是，要上傳的 patch 們都要是屬於同一個 bug ID 的 patch。如果針對某些 commit 來上傳 patch 的話，可以透過下面的方式。 
 
 上傳單一 patch 的方式如下：
 
 ```
-git mozreview push <commit>
+$ git mozreview push <commit>
 ```
 
-上傳多個 patch 的方式如下：
+上傳多個 patch 的方式如下，同樣的上傳多個 patch 時，這些 patch 都要是同一個 bug ID 的 patch：
 
 ```
-git mozreview push <commit>..<commit>
+$ git mozreview push <commit>..<commit>
 ```
-
-P.S. 其中 commit message 中，要記得放置 bug ID。此外，上傳多個 patch 時，這些 patch 都要是同一個 bug ID 的 patch。
 
 此外，version-control-tools 也可以透過 Gecko 的 `mach bootstrap` 指令來進行安裝，在提示問你要不要設定 mozreview 時，記得選擇 yes。這麼一來，version-control-tools 會被安裝在 `$HOME/.mozbuild` 底下。
 
