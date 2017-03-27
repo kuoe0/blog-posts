@@ -17,7 +17,7 @@ image_info:
 
 - 使用 Git 來開發 Gecko
 - 不同 config 的切換
-- 在 command line prompt 顯示當前的使用的 mozconfig
+- 在 prompt 顯示當前的使用的 mozconfig
 - 上傳 patch 到 bugzilla 進行 code review
 - 自動設定 Gecko-specific 的環境
 - 初始化完整的 Gecko 開發環境
