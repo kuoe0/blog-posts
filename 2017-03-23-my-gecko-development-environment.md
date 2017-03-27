@@ -17,7 +17,6 @@ image_info:
 
 - 使用 Git 來開發 Gecko
 - 不同 config 的切換
-- 獨立的 object folder
 - 上傳 patch 到 bugzilla 進行 code review
 - 自動設定 Gecko-specific 的環境
 - 初始化完整的 Gecko 開發環境
@@ -61,40 +60,6 @@ $ buildwith config-xxx
 由於很多 config 可能會共用一些設定。可以考慮建立一個 common 的 mozconfig，而其他的 mozconfig 再去 `source common`。這樣一來，一些共用的東西就不必每個 config 檔案都手動新增，只要新增到 common 這個檔案即可。可以參考筆者的 mozconfig 資料夾：[gecko-utils/mozconfigs](https://github.com/KuoE0/gecko-utils/tree/master/mozconfigs)。
 
 > 自從用了 mozconfigwrapper，切換 mozconfig 的速度比翻臉還快！
-
-## 獨立的 object folder
-
-考慮以下兩個情況：
-
-- 在不同的 branch 間切換
-- 在不同的 mozconfig 間切換
-
-當以上兩個狀況發生時，rebuild 的時間就會增加許多。因此，筆者決定讓不同的 branch 不同的 mozconfig 都有獨立的 object folder。
-
-如此一來，有以下優點：
-
-- 從 branch2 切換到 branch1 時，rebuild 的時間較短（假設 branch1 的 object folder 已經存在）。
-- 每個 branch 或是 mozconfig，都有現成的執行檔可以測試。
-
-但同樣的也有缺點：
-
-- 如果切換到還沒有 build 過的 branch，就要花費 clean build 的時間來進行第一次 build。
-- 硬碟使用量是單一 object folder 的好幾倍。
-
-作法是在前面提過的 mozconfig 中下手，在 mozconfig 中取得當前的 branch 名稱與 mozconfig 名稱。並將這個兩個資訊加入 object folder 的名稱中，因此切換 branch 或是 mozconfig 都會影響改變當前的 object folder 的位置。
-
-
-```sh
-CONFIG=$(echo $MOZCONFIG | xargs basename)
-BRANCH=$(git branch | grep '*' | tr -d '[()]' | rev | cut -d''-f1 | rev | tr'/''-')
-OS=$(uname | tr '[A-Z]' '[a-z]')
-GECKO_DEV=$(pwd)
-OBJDIR="${GECKO_DEV}/../obj-${BRANCH}-${OS}-${CONFIG}"
-
-mk_add_options MOZ_OBJDIR=${OBJDIR}
-```
-
-> 自從有了獨立的 object folder 後，電腦裡怎麼有滿滿的 object folder。
 
 ## 上傳 patch 到 bugzilla 進行 code review
 
