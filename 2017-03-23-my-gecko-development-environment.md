@@ -88,6 +88,8 @@ update_prompt() {
 add-zsh-hook precmd update_prompt
 ```
 
+> 自從加上 mozconfig 資訊後，動眼不動手就知道現在用哪個 mozconfig 了！
+
 ## 上傳 patch 到 bugzilla 進行 code review
 
 過去在進行 code review 時，都要手動上傳 patch 到 bugzilla。而且如果使用 Git 開發的話，還要先透過 [`git-patch-to-hg-patch`](https://github.com/mozilla/moz-git-tools/blob/master/git-patch-to-hg-patch) 這個指令來轉換成 hg patch。
