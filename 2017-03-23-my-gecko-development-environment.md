@@ -78,7 +78,7 @@ PS1+=$(basename $(mozconfig))
 
 然而，在筆者的環境下，這個做法會失效。筆者使用的是 Z shell，套用的 prompt 主題是 [pure](https://github.com/sindresorhus/pure)。這個主題的 prompt 要設置在 `$PROMPT` 這個環境變數中，這個環境變數沒有被更新，實際顯示的 prompt 就不會更新。
 
-因此必須要每次按下 enter 後，讓 `$PROMPT` 變數被更新。研究了一下 Z shell 的 manpage 發現有個指令 `add-zsh-hook` 可以在特定時機點觸發指定的函式。如果要在每次 prompt 出現之前，就要掛在 `precmd` 上。因此，只要把以下內容寫在 profile 內，就可以動態地把當前使用的 mozconfig 更新到 prompt 上了。
+因此必須要每次按下 enter 後，讓 `$PROMPT` 變數被更新。研究了一下 Z shell 的 manpage 發現有個指令 `add-zsh-hook` 可以在特定時機點觸發指定的函式。如果要在每次 prompt 出現之前，就要掛在 `precmd` 上。只要把以下內容寫在 profile 內，就可以動態地把當前使用的 mozconfig 更新到 prompt 上了。
 
 ```sh
 update_prompt() {
