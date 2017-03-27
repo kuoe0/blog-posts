@@ -92,7 +92,7 @@ add-zsh-hook precmd update_prompt
 
 過去在進行 code review 時，都要手動上傳 patch 到 bugzilla。而且如果使用 Git 開發的話，還要先透過 [`git-patch-to-hg-patch`](https://github.com/mozilla/moz-git-tools/blob/master/git-patch-to-hg-patch) 這個指令來轉換成 hg patch。
 
-最近公司的某個部門就開發了 mozreview，讓開發者可以直接透過指令上傳 patch 到 bugzilla。下載 [mozilla/version-control-tools](https://github.com/mozilla/version-control-tools) 這個 repo，並且將 `version-control-tools/git/commands` 加入到環境變數 `PATH` 中即可使用。只要記得在 commit message 中放入 bug ID，就可以透過以下指令上傳 patch 到指定的 bug ID 的 bugzilla 頁面來進行 code review：
+最近公司的某個部門就開發了 mozreview，讓開發者可以直接透過指令上傳 patch 到 bugzilla。下載 [mozilla/version-control-tools](https://github.com/mozilla/version-control-tools) 這個 repo，並且將 `version-control-tools/git/commands` 加入到環境變數 `$PATH` 中即可使用。只要記得在 commit message 中放入 bug ID，就可以透過以下指令上傳 patch 到指定的 bug ID 的 bugzilla 頁面來進行 code review：
 
 ```
 $ git mozreview push
@@ -126,13 +126,13 @@ $ git mozreview push <commit>..<commit>
 
 `autostash` 這個指令，可以把原本環境變數的值記下，並且在離開該資料夾時自動恢復。
 
-假設修改了 `PATH` 變數，如下：
+假設修改了 `$PATH` 變數，如下：
 
 ```
 autostash PATH="$TOOL_PATH:$PATH"
 ```
 
-如此一來，離開 Gecko 資料夾時，`PATH` 就會被還原為原本的值了。
+如此一來，離開 Gecko 資料夾時，`$PATH` 就會被還原為原本的值了。
 
 
 ### auto completion for mach
@@ -157,7 +157,7 @@ source "$GECKO/python/mach/bash-completion.sh"
 alias mach="$GECKO/mach"
 ```
 
-因為 Gecko 資料夾底下還有其他執行檔，沒有需要執行其他執行檔的需求。所以才不考慮將整個 Gecko 資料夾放到 `PATH` 變數中。
+因為 Gecko 資料夾底下還有其他執行檔，沒有需要執行其他執行檔的需求。所以才不考慮將整個 Gecko 資料夾放到 `$PATH` 變數中。
 
 > 自從用了 autoenv 後，覺得 zshrc 變乾淨了！
 
