@@ -17,6 +17,7 @@ image_info:
 
 - 使用 Git 來開發 Gecko
 - 不同 config 的切換
+- 在 command line prompt 顯示當前的使用的 mozconfig
 - 上傳 patch 到 bugzilla 進行 code review
 - 自動設定 Gecko-specific 的環境
 - 初始化完整的 Gecko 開發環境
@@ -61,6 +62,32 @@ $ buildwith config-xxx
 
 > 自從用了 mozconfigwrapper，切換 mozconfig 的速度比翻臉還快！
 
+## 在 prompt 顯示當前的使用的 mozconfig
+
+使用 mozconfigwrapper 雖然方便，但是也可能造成不知道當前使用的 mozconfig 是哪一個的問題。一個最直接的方法是輸入以下指令來查詢：
+
+```
+$ echo $MOZCONFIG
+```
+
+但每次都要查詢實在太麻煩，現在很流行在 prompt 上加入各式各樣的資訊來提示開發者當前的環境。因此，筆者決定效仿一樣的方式把 mozconfig 的資訊加到 prompt 中。把下面這行加到你的 profile 中，即可在 prompt 中顯示當前使用的 mozconfig。
+
+```
+PS1+=$(basename $(mozconfig))
+```
+
+然而，在筆者的環境下，這個做法會失效。筆者使用的是 Z shell，套用的 prompt 主題是 [pure](https://github.com/sindresorhus/pure)。這個主題的 prompt 要設置在 `$PROMPT` 這個環境變數中，這個環境變數沒有被更新，實際顯示的 prompt 就不會更新。
+
+因此必須要每次按下 enter 後，讓 `$PROMPT` 變數被更新。研究了一下 Z shell 的 manpage 發現有個指令 `add-zsh-hook` 可以在特定時機點觸發指定的函式。如果要在每次 prompt 出現之前，就要掛在 `precmd` 上。因此，只要把以下內容寫在 profile 內，就可以動態地把當前使用的 mozconfig 更新到 prompt 上了。
+
+```sh
+update_prompt() {
+    CONFIG=$(basename $MOZCONFIG)
+    PROMPT="%F{242}${CONFIG} ${ORIGIN_PROMPT}"
+}
+add-zsh-hook precmd update_prompt
+```
+
 ## 上傳 patch 到 bugzilla 進行 code review
 
 過去在進行 code review 時，都要手動上傳 patch 到 bugzilla。而且如果使用 Git 開發的話，還要先透過 [`git-patch-to-hg-patch`](https://github.com/mozilla/moz-git-tools/blob/master/git-patch-to-hg-patch) 這個指令來轉換成 hg patch。
@@ -93,7 +120,7 @@ $ git mozreview push <commit>..<commit>
 
 在看完前面幾個項目，會發現需要在 profile 中加入很多設定，而且都是 Gecko-specific。這時候，可以透過 autoenv 這類的工具來自動啟動或關閉這些設定。autoenv 的實作滿多的，在 GitHub 上可以找到很多不一樣的實作，選擇自己用起來順手的就好。
 
-筆者平常使用的 shell 為 zsh，因此選擇了 [Tarrasch/zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) 這款。安裝這個 autoenv 的 plugin 後，只要在 Gecko 的資料夾下加入 `.autoevn.zsh` 與 `.autoenv_leave.zsh` 這兩個檔案即可。每當進入 Gecko 資料夾時，就會觸發 `.autoenv.zsh`。而離開 Gecko 資料夾實，會觸發 `.autoenv_leave.zsh`。所以，只要將前面針對 Gecko 的設定放到 `.autoenv.zsh` 中，而要恢復的設定可以寫在 `.autoenv_leave.zsh`。在寫這個 script 時，有幾個技巧可以使用，接下來會繼續介紹。
+前面提過，筆者使用的 shell 為 Z shell，因此選擇了 [Tarrasch/zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) 這款。安裝這個 autoenv 的 plugin 後，只要在 Gecko 的資料夾下加入 `.autoevn.zsh` 與 `.autoenv_leave.zsh` 這兩個檔案即可。每當進入 Gecko 資料夾時，就會觸發 `.autoenv.zsh`。而離開 Gecko 資料夾實，會觸發 `.autoenv_leave.zsh`。所以，只要將前面針對 Gecko 的設定放到 `.autoenv.zsh` 中，而要恢復的設定可以寫在 `.autoenv_leave.zsh`。在寫這個 script 時，有幾個技巧可以使用，接下來會繼續介紹。
 
 ### autostash
 
