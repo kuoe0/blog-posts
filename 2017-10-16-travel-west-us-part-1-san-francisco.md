@@ -210,3 +210,5 @@ Vista Point 可以算是在金門大橋的正北方，也是很容易抵達的�
 ![San Francisco](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-38.jpg)
 
 舊金山就是一座在山上的大城市，道路起起伏伏非常陡。也因為地形高高低低，所以也會有一些高點可以眺望舊金山的都市風景。不過搭計程車我覺得滿恐怖的，司機停紅燈時還一邊催油門，我都覺得他隨時會爆衝。看來要在舊金山開車應該也不容易。
+
+下一篇：[[遊記] 美西自由行 Part 2 - 優勝美地](https://blog.kuoe0.tw/posts/2017/10/17/travel-west-us-part-2-yosemite/)
