@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[遊記] 美西自由行 Part 1 - 舊金山"
-date:   2017-10-15
+date:   2017-10-16
 tags:   ["Travel", "United States"]
 image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-16-travel-west-us-part-1-san-francisco.jpg"
 ---
@@ -210,4 +210,3 @@ Vista Point 可以算是在金門大橋的正北方，也是很容易抵達的�
 ![San Francisco](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-38.jpg)
 
 舊金山就是一座在山上的大城市，道路起起伏伏非常陡。也因為地形高高低低，所以也會有一些高點可以眺望舊金山的都市風景。不過搭計程車我覺得滿恐怖的，司機停紅燈時還一邊催油門，我都覺得他隨時會爆衝。看來要在舊金山開車應該也不容易。
-
