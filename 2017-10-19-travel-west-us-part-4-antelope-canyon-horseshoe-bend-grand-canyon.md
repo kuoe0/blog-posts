@@ -129,8 +129,6 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 ![Grand Canyon National Park](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-17.jpg)
 ![Grand Canyon National Park](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-18.jpg)
 
-[Image: file:///-/blob/YBXAAA8SPzR/3hs7t_X02mZlB33r5CPVcA][Image: file:///-/blob/YBXAAA8SPzR/dQYI6qeXla-IsqV3Hc9OLw][Image: file:///-/blob/YBXAAA8SPzR/oTeJEZdOPDN-stcn_Kl0Ww]
-
 大峽谷國家公園應該是我以前唯一知道的美國國家公園，大學學長一直推薦這裡，說一生一定要造訪一次！經過科羅拉多河數億年來的侵蝕，造就了大峽谷奇特的山峰造型。彷彿千層蛋糕般，一層一層的看起來很好吃。
 
 我們第一天晚上才抵達大峽谷，本來想要觀星，可惜雲層太厚只好放棄。第二天早晨，正當我們都準備好要出發前往園區時，竟然下起的暴雨。詢問了一下旅館工作人員，以他們的經驗來說大概會下多久。其中一個回答 “It has been raining for a lon time.”，另一個回答 “It's my first time to see the rain here.”，看來我們很幸運。
