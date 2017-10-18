@@ -252,6 +252,8 @@ Luxor Hotel，極盡奢華於一身的酒店，從名字就看得出來。把整
 
 官方網站：[http://www.premiumoutlets.com/outlet/las-vegas-south](http://www.premiumoutlets.com/outlet/las-vegas-south)
 
+下一篇：[[遊記] 美西自由行 Part 4 - 羚羊峽谷 + 馬蹄灣 + 大峽谷](https://blog.kuoe0.tw/posts/2017/10/19/travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon/)
+
 
 
 
