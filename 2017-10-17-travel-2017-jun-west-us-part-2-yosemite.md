@@ -3,10 +3,10 @@ layout: post
 title:  "[遊記] 2017 Jun. 美西自由行 Part 2 - 優勝美地"
 date:   2017-10-17
 tags:   ["Travel", "United States"]
-image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-17-2017-06-travel-west-us-part-2-yosemite.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-17-travel-2017-jun-west-us-part-2-yosemite.jpg"
 ---
 
-上一篇：[[遊記] 美西自由行 Part 1 - 舊金山](https://blog.kuoe0.tw/posts/2017/10/16/2017-06-2017-06-travel-west-us-part-1-san-francisco/)
+上一篇：[[遊記] 美西自由行 Part 1 - 舊金山](https://blog.kuoe0.tw/posts/2017/10/16/2017-06-travel-2017-jun-west-us-part-1-san-francisco/)
 
 這篇主要介紹 07/01 ~ 07/03 這三天在優勝美地所造訪的景點。不過其實應該只算一天半，第一天我們晚上才抵達，第三天則一早就啟程離開前往拉斯維加斯。
 
@@ -18,7 +18,7 @@ Yosemite National Park，是我這趟旅程最期待的景點。剛開始接觸�
 
 ### 從舊金山前往優勝美地
 
-![Yosemite](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-01.jpg)
+![Yosemite](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-01.jpg)
 
 在工作結束之後的隔天早上，我們從舊金山租車前往優勝美地。大概中午出發，花費了約 5 ~ 6 個小時才抵達優勝美地，中途只停下來吃了一餐 In-N-Out。在上山之前的公路都還挺順暢的，上山之後開始會有塞車的情況。尤其是在售票亭之前，塞車更是嚴重，我們光排隊進入園區就等了 1 小時了吧。
 
@@ -34,8 +34,8 @@ Yosemite National Park，是我這趟旅程最期待的景點。剛開始接觸�
 
 ### Yosemite's Scenic Wonders
 
-![Yosemite's Scenic Wonders](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-02.jpg)
-![Yosemite's Scenic Wonders](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-03.jpg)
+![Yosemite's Scenic Wonders](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-02.jpg)
+![Yosemite's Scenic Wonders](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-03.jpg)
 
 官方網站：[https://www.scenicwonders.com/](https://www.scenicwonders.com/)
 
@@ -63,8 +63,8 @@ Yosemite National Park，是我這趟旅程最期待的景點。剛開始接觸�
 
 ### Tunnel View
 
-![Tunnel View](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-04.jpg)
-![Tunnel View](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-05.jpg)
+![Tunnel View](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-04.jpg)
+![Tunnel View](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-05.jpg)
 
 地點：[https://goo.gl/maps/s3Vs5yohpJ42](https://goo.gl/maps/s3Vs5yohpJ42)
 
@@ -72,8 +72,8 @@ Tunnel View 是我認為來到優勝美地避光賞的景點，這的景點可�
 
 ### Glacier Point
 
-![Glacier Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-06.jpg)
-![Glacier Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-07.jpg)
+![Glacier Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-06.jpg)
+![Glacier Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-07.jpg)
 
 地點：[https://goo.gl/maps/i1Ff7ijmUV72](https://goo.gl/maps/i1Ff7ijmUV72)
 
@@ -84,8 +84,8 @@ Glacier Point 是我心中第一名的景點，從高處俯瞰整個優勝美地
 
 ### Lower Yosemite Fall
 
-![Lower Yosemite Fall](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-08.jpg)
-![Lower Yosemite Fall](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-09.jpg)
+![Lower Yosemite Fall](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-08.jpg)
+![Lower Yosemite Fall](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-09.jpg)
 
 地點：[https://goo.gl/maps/hzXcEiid7g12](https://goo.gl/maps/hzXcEiid7g12)
 
@@ -95,7 +95,7 @@ Lower Yosemite Fall 是整個 Yosemite Fall 的下游處，距離停車場非常
 
 ### Mirror Lake
 
-![Mirror Lake](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-10.jpg)
+![Mirror Lake](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-10.jpg)
 
 地點：[https://goo.gl/maps/KX8zyx7vJrm](https://goo.gl/maps/KX8zyx7vJrm)
 
@@ -105,7 +105,7 @@ Mirror Lake 位於優勝美地東方的一座湖，平靜的水面可以清楚�
 
 ### Valley View Yosemite
 
-![Mirror Lake](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-11.jpg)
+![Mirror Lake](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-11.jpg)
 
 地點：[https://goo.gl/maps/FmHcJNht5kL2](https://goo.gl/maps/FmHcJNht5kL2)
 
@@ -113,18 +113,17 @@ Valley View 這個景點知道的人似乎比較少，並不像 Tunnel View 一�
 
 ### 120 號公路 (Tioga Rd)
 
-![Tioga Rd](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-12.jpg)
-![Tioga Rd](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-13.jpg)
-![Tioga Rd](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-14.jpg)
-![Tioga Rd](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-15.jpg)
+![Tioga Rd](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-12.jpg)
+![Tioga Rd](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-13.jpg)
+![Tioga Rd](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-14.jpg)
+![Tioga Rd](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-15.jpg)
 
 沿著 120 號公路 (Tioga Rd) 要前往拉斯維加斯的路上，沿途也都是美景。而且已經是七月了，卻還有許多積雪未融化，明明就還挺熱的。如果沒有要趕路的話，120 號公路上還有非常多漂亮的景點可以去觀賞。要注意 120 號公路在冬季是關閉的，所以想要前往的話還是得在夏季前往。
 
 ### 防熊垃圾桶
 
-![Bear Proof Garbage Cans](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite-16.jpg)
+![Bear Proof Garbage Cans](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-17-2017-06-travel-2017-jun-west-us-part-2-yosemite-16.jpg)
 
 在優勝美地到處都可以看到這樣子的防熊垃圾桶。因為熊很聰明地會翻垃圾桶找食物，所以特地設計成需要把手伸到凹槽內才能打開的垃圾桶。
 
-下一篇：[[遊記] 美西自由行 Part 3 - 拉斯維加斯 + 胡佛水壩](https://blog.kuoe0.tw/posts/2017/10/18/2017-06-2017-06-travel-west-us-part-3-las-vegas-hoover-dam/)
-
+下一篇：[[遊記] 美西自由行 Part 3 - 拉斯維加斯 + 胡佛水壩](https://blog.kuoe0.tw/posts/2017/10/18/2017-06-travel-2017-jun-west-us-part-3-las-vegas-hoover-dam/)
