@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "[遊記] 美西自由行 Part 1 - 舊金山"
+title:  "[遊記] 2017 Jun 美西自由行 Part 1 - 舊金山"
 date:   2017-10-16
 tags:   ["Travel", "United States"]
-image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-16-travel-west-us-part-1-san-francisco.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco.jpg"
 ---
 
 今年六月底到七月初，因出差的緣故在美西待了大約 15 天。跑過了舊金山 (San Francisco)、優勝美地 (Yosemite)、拉斯維加斯 (Las Vegas)、羚羊谷 (Antelope Canyon)、馬蹄灣 (Horseshoe Bend) 以及大峽谷 (Grand Canyon)。
@@ -25,7 +25,7 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Hilton Union Square (06/26 ~ 07/01)
 
-![Hilton Union Square](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-01.jpg)
+![Hilton Union Square](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-01.jpg)
 
 地點：[https://goo.gl/maps/DCKMo2WDUSK2](https://goo.gl/maps/DCKMo2WDUSK2)
 
@@ -49,11 +49,10 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Bubba Gump Shrimp Co.
 
-![Bubba Gump Shrimp Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-02.jpg)
-![Bubba Gump Shrimp Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-03.jpg)
-![Bubba Gump Shrimp Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-04.jpg)
-![Bubba Gump Shrimp Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-05.jpg)
-
+![Bubba Gump Shrimp Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-02.jpg)
+![Bubba Gump Shrimp Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-03.jpg)
+![Bubba Gump Shrimp Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-04.jpg)
+![Bubba Gump Shrimp Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-05.jpg)
 
 地點：[https://goo.gl/maps/hfkSs7gpiyQ2](https://goo.gl/maps/hfkSs7gpiyQ2)
 
@@ -65,12 +64,12 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Aster
 
-![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-06.jpg)
-![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-07.jpg)
-![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-08.jpg)
-![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-09.jpg)
-![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-10.jpg)
-![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-11.jpg)
+![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-06.jpg)
+![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-07.jpg)
+![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-08.jpg)
+![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-09.jpg)
+![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-10.jpg)
+![Aster](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-11.jpg)
 
 地點：[https://goo.gl/maps/zZaZYxTJSXN2](https://goo.gl/maps/zZaZYxTJSXN2)
 
@@ -82,11 +81,11 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Hog Island Oyster Co.
 
-![Hog Island Oyster Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-12.jpg)
-![Hog Island Oyster Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-13.jpg)
-![Hog Island Oyster Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-14.jpg)
-![Hog Island Oyster Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-15.jpg)
-![Hog Island Oyster Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-16.jpg)
+![Hog Island Oyster Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-12.jpg)
+![Hog Island Oyster Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-13.jpg)
+![Hog Island Oyster Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-14.jpg)
+![Hog Island Oyster Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-15.jpg)
+![Hog Island Oyster Co.](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-16.jpg)
 
 地點：[https://goo.gl/maps/X4hrzsKNdVv](https://goo.gl/maps/X4hrzsKNdVv)
 
@@ -102,9 +101,9 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Blue Bottle Coffee
 
-![Blue Bottle Coffee](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-17.jpg)
-![Blue Bottle Coffee](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-18.jpg)
-![Blue Bottle Coffee](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-19.jpg)
+![Blue Bottle Coffee](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-17.jpg)
+![Blue Bottle Coffee](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-18.jpg)
+![Blue Bottle Coffee](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-19.jpg)
 
 世界著名的咖啡連鎖店 Blue Bottle 就是創立於舊金山，因此來到舊金山也決定前來朝聖一番。一直覺得 Blue Bottle 的 logo 很可愛，讓我那天差點就手滑買下印有 Blue Bottle 的咖啡沖泡套件組了...。還好喝完咖啡腦子清醒點了，就把小朋友給保住了。不過我有點後悔點了摩卡，應該點杯單品來喝才對！
 
@@ -118,7 +117,7 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Lombard Street
 
-![Lombard Street](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-20.jpg)
+![Lombard Street](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-20.jpg)
 
 地點：[https://goo.gl/maps/eLptzRgGDzF2](https://goo.gl/maps/eLptzRgGDzF2)
 
@@ -128,10 +127,10 @@ Lombard St. 又有人稱「九曲花街」，由於其連續八個 S 型彎道�
 
 ### Golden Gate Bridge
 
-![Golden Gate Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-21.jpg)
-![Golden Gate Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-22.jpg)
-![Golden Gate Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-23.jpg)
-![Golden Gate Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-24.jpg)
+![Golden Gate Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-21.jpg)
+![Golden Gate Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-22.jpg)
+![Golden Gate Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-23.jpg)
+![Golden Gate Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-24.jpg)
 
 地點：[https://goo.gl/maps/FBzdH9AdtB82](https://goo.gl/maps/FBzdH9AdtB82)
 
@@ -141,7 +140,7 @@ Golden Gate Bridge 是橫跨 Golden Gate，世界數一數二知名的橋。中�
 
 ### Marshall's Beach
 
-![Marshall's Beach](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-25.jpg)
+![Marshall's Beach](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-25.jpg)
 
 地點：[https://goo.gl/maps/pR4txqzaDKT2](https://goo.gl/maps/pR4txqzaDKT2)
 
@@ -149,7 +148,7 @@ Golden Gate Bridge 是橫跨 Golden Gate，世界數一數二知名的橋。中�
 
 ### Battery Spencer
 
-![Battery Spencer](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-26.jpg)
+![Battery Spencer](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-26.jpg)
 
 地點：[https://goo.gl/maps/Vh6A9rTovxP2](https://goo.gl/maps/Vh6A9rTovxP2)
 
@@ -159,7 +158,7 @@ Golden Gate Bridge 是橫跨 Golden Gate，世界數一數二知名的橋。中�
 
 ### Golden Gate Bridge Welcome Center
 
-![Golden Gate Bridge Welcome Center](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-27.jpg)
+![Golden Gate Bridge Welcome Center](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-27.jpg)
 
 地點：[https://goo.gl/maps/1yWXRM36e3o](https://goo.gl/maps/1yWXRM36e3o)
 
@@ -168,8 +167,8 @@ Golden Gate Bridge 是橫跨 Golden Gate，世界數一數二知名的橋。中�
 ### Moore Rd Pier
 
 
-![Moore Rd Pier](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-28.jpg)
-![Moore Rd Pier](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-29.jpg)
+![Moore Rd Pier](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-28.jpg)
+![Moore Rd Pier](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-29.jpg)
 
 
 地點：[https://goo.gl/maps/yEajEfTzYtx](https://goo.gl/maps/yEajEfTzYtx)
@@ -178,8 +177,8 @@ Moore Rd Pier 是位於金門大橋東北側的小碼頭，我也挺喜歡這個
 
 ### Vista Point
 
-![Vista Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-30.jpg)
-![Vista Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-31.jpg)
+![Vista Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-30.jpg)
+![Vista Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-31.jpg)
 
 地點：[https://goo.gl/maps/dDkYYQJAPCx](https://goo.gl/maps/dDkYYQJAPCx)
 
@@ -187,7 +186,7 @@ Vista Point 可以算是在金門大橋的正北方，也是很容易抵達的�
 
 ### Golden Gate Overlook
 
-![Golden Gate Overlook](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-32.jpg)
+![Golden Gate Overlook](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-32.jpg)
 
 地點：[https://goo.gl/maps/9GabW7R2JEv](https://goo.gl/maps/9GabW7R2JEv)
 
@@ -195,9 +194,9 @@ Vista Point 可以算是在金門大橋的正北方，也是很容易抵達的�
 
 ### Bay Bridge
 
-![Bay Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-33.jpg)
-![Bay Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-34.jpg)
-![Bay Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-35.jpg)
+![Bay Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-33.jpg)
+![Bay Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-34.jpg)
+![Bay Bridge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-35.jpg)
 
 舊金山另一座大橋就是這座通往 Oakland 的 **Bay Bridge**，中文又稱做「**海灣大橋**」。又叫做 **San Francisco-Oakland Bay Bridge**，正式名稱為 **James “Sunny Jim” Rolph Bridge**。與金門大橋不同之處在於其橋塔的結構，金門大橋是橫向的結構，海灣大橋則是交叉的結構。擁有四座橋塔的海灣大橋，其雄偉一點也不輸金門大橋。
 
@@ -205,10 +204,10 @@ Vista Point 可以算是在金門大橋的正北方，也是很容易抵達的�
 
 ### 路邊街景
 
-![San Francisco](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-36.jpg)
-![San Francisco](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-37.jpg)
-![San Francisco](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-travel-west-us-part-1-san-francisco-38.jpg)
+![San Francisco](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-36.jpg)
+![San Francisco](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-37.jpg)
+![San Francisco](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco-38.jpg)
 
 舊金山就是一座在山上的大城市，道路起起伏伏非常陡。也因為地形高高低低，所以也會有一些高點可以眺望舊金山的都市風景。不過搭計程車我覺得滿恐怖的，司機停紅燈時還一邊催油門，我都覺得他隨時會爆衝。看來要在舊金山開車應該也不容易。
 
-下一篇：[[遊記] 美西自由行 Part 2 - 優勝美地](https://blog.kuoe0.tw/posts/2017/10/17/travel-west-us-part-2-yosemite/)
+下一篇：[[遊記] 美西自由行 Part 2 - 優勝美地](https://blog.kuoe0.tw/posts/2017/10/17/2017-06-travel-west-us-part-2-yosemite/)

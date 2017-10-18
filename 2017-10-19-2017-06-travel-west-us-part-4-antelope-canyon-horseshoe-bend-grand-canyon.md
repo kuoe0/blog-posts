@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "[遊記] 美西自由行 Part 4 - 羚羊峽谷 + 馬蹄灣 + 大峽谷"
+title:  "[遊記] 2017 Jun 美西自由行 Part 4 - 羚羊峽谷 + 馬蹄灣 + 大峽谷"
 date:   2017-10-17
 tags:   ["Travel", "United States"]
-image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon.jpg"
 ---
 
-上一篇：[[遊記] 美西自由行 Part 3 - 拉斯維加斯 + 胡佛水壩](https://blog.kuoe0.tw/posts/2017/10/18/travel-west-us-part-3-las-vegas-hoover-dam/)
+上一篇：[[遊記] 美西自由行 Part 3 - 拉斯維加斯 + 胡佛水壩](https://blog.kuoe0.tw/posts/2017/10/18/2017-06-travel-west-us-part-3-las-vegas-hoover-dam/)
 
 這一趟美西自由行的最後一站就是大峽谷國家公園 (Grand Canyon National Park) 了，我與另一位同行友人一起租了台小車前往。我們打算先繞到北方造訪羚羊峽谷 (Antelope Canyon) 及馬蹄灣 (Horseshoe Bend) ，再前往大峽谷。回程從南方回到拉斯維加斯，可以順路造訪胡佛水壩 (Hoover Dam)。
 
@@ -61,8 +61,8 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Yavapai Lodge
 
-![Yavapai Lodge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-01.jpg)
-![Yavapai Lodge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-02.jpg)
+![Yavapai Lodge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-01.jpg)
+![Yavapai Lodge](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-02.jpg)
 
 地點：[https://goo.gl/maps/ycrBUHvmDLE2](https://goo.gl/maps/ycrBUHvmDLE2)
 
@@ -76,13 +76,13 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Antelope Canyon
 
-![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-03.jpg)
-![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-04.jpg)
-![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-05.jpg)
-![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-06.jpg)
-![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-07.jpg)
-![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-08.jpg)
-![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-09.jpg)
+![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-03.jpg)
+![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-04.jpg)
+![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-05.jpg)
+![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-06.jpg)
+![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-07.jpg)
+![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-08.jpg)
+![Antelope Canyon](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-09.jpg)
 
 地點：[https://goo.gl/maps/qzqCT2Ye9DA2](https://goo.gl/maps/qzqCT2Ye9DA2)
 
@@ -97,11 +97,11 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Glen Canyon Dam
 
-![Glen Canyon Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-10.jpg)
-![Glen Canyon Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-11.jpg)
-![Glen Canyon Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-12.jpg)
-![Glen Canyon Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-13.jpg)
-![Glen Canyon Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-14.jpg)
+![Glen Canyon Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-10.jpg)
+![Glen Canyon Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-11.jpg)
+![Glen Canyon Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-12.jpg)
+![Glen Canyon Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-13.jpg)
+![Glen Canyon Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-14.jpg)
 
 地點：[https://goo.gl/maps/aJ8m1UcPCkF2](https://goo.gl/maps/aJ8m1UcPCkF2)
 
@@ -109,8 +109,8 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Horseshoe Bend
 
-![Horseshoe Bend](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-15.jpg)
-![Horseshoe Bend](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-16.jpg)
+![Horseshoe Bend](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-15.jpg)
+![Horseshoe Bend](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-16.jpg)
 
 地點：[https://goo.gl/maps/dTW22WTCjfB2](https://goo.gl/maps/dTW22WTCjfB2)
 
@@ -126,8 +126,8 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Grand Canyon National Park
 
-![Grand Canyon National Park](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-17.jpg)
-![Grand Canyon National Park](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-18.jpg)
+![Grand Canyon National Park](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-17.jpg)
+![Grand Canyon National Park](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-18.jpg)
 
 大峽谷國家公園應該是我以前唯一知道的美國國家公園，大學學長一直推薦這裡，說一生一定要造訪一次！經過科羅拉多河數億年來的侵蝕，造就了大峽谷奇特的山峰造型。彷彿千層蛋糕般，一層一層的看起來很好吃。
 
@@ -137,8 +137,8 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Mather Point
 
-![Mather Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-19.jpg)
-![Mather Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-20.jpg)
+![Mather Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-19.jpg)
+![Mather Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-20.jpg)
 
 地點：[https://goo.gl/maps/kUCv7z1aFX72](https://goo.gl/maps/kUCv7z1aFX72)
 
@@ -148,9 +148,9 @@ Mather Point 應該是大峽谷遊客最多的觀賞點，距離遊客中心步�
 
 ### Mather Point (Sunrise)
 
-![Mather Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-21.jpg)
-![Mather Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-22.jpg)
-![Mather Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-23.jpg)
+![Mather Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-21.jpg)
+![Mather Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-22.jpg)
+![Mather Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-23.jpg)
 
 地點：[https://goo.gl/maps/kUCv7z1aFX72](https://goo.gl/maps/kUCv7z1aFX72)
 
@@ -158,7 +158,7 @@ Mather Point 應該是大峽谷遊客最多的觀賞點，距離遊客中心步�
 
 ### Yavaipai Point
 
-![Yavaipai Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-24.jpg)
+![Yavaipai Point](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-24.jpg)
 
 地點：[https://goo.gl/maps/do3bmd5T7fx](https://goo.gl/maps/do3bmd5T7fx)
 
@@ -166,11 +166,11 @@ Yavaipai Point 是我認為在遊客中心附近的觀賞點中，景色最好�
 
 ### Desert View Watchtower
 
-![Desert View Watchtower](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-25.jpg)
-![Desert View Watchtower](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-26.jpg)
-![Desert View Watchtower](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-27.jpg)
-![Desert View Watchtower](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-28.jpg)
-![Desert View Watchtower](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-29.jpg)
+![Desert View Watchtower](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-25.jpg)
+![Desert View Watchtower](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-26.jpg)
+![Desert View Watchtower](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-27.jpg)
+![Desert View Watchtower](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-28.jpg)
+![Desert View Watchtower](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon-29.jpg)
 
 地點：[https://goo.gl/maps/m5dSpZCxNxu](https://goo.gl/maps/m5dSpZCxNxu)
 

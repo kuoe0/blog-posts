@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "[遊記] 美西自由行 Part 3 - 拉斯維加斯 + 胡佛水壩"
+title:  "[遊記] 2017 Jun. 美西自由行 Part 3 - 拉斯維加斯 + 胡佛水壩"
 date:   2017-10-17
 tags:   ["Travel", "United States"]
-image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam.jpg"
 ---
 
-上一篇：[[遊記] 美西自由行 Part 2 - 優勝美地](https://blog.kuoe0.tw/posts/2017/10/17/travel-west-us-part-2-yosemite/)
+上一篇：[[遊記] 美西自由行 Part 2 - 優勝美地](https://blog.kuoe0.tw/posts/2017/10/17/2017-06-travel-west-us-part-2-yosemite/)
 
 這一趟旅程中的其中一個同行友人是個非常優秀的魔術師，David Copperfield 是他的偶像。來到美西他就想再來看一次 David Copperfield 的魔術秀，畢竟他隨時可能退休。於是在 07/03 ~ 07/06，我們來到了拉斯維加斯 (Las Vegas)。
 
@@ -18,8 +18,8 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ## 交通
 
-![95 號公路](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-01.jpg)
-![95 號公路](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-02.jpg)
+![95 號公路](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-01.jpg)
+![95 號公路](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-02.jpg)
 
 我們是從優勝美地直接開車前來拉斯維加斯，路程 8 個小時，中間大概休息一小時。~~（偷偷說，跟著速限走應該要 10 小時吧。）~~沿著 120 號公路走，接上國道 6 號公路，最後轉 95 號公路就可以抵達拉斯維加斯了。可以看到照片中一路上的荒蕪，從優勝美地過來反差真的很大。
 
@@ -31,12 +31,12 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### Marriott's Grand Chateau
 
-![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-03.jpg)
-![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-04.jpg)
-![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-05.jpg)
-![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-06.jpg)
-![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-07.jpg)
-![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-08.jpg)
+![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-03.jpg)
+![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-04.jpg)
+![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-05.jpg)
+![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-06.jpg)
+![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-07.jpg)
+![Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-08.jpg)
 
 地點：[https://goo.gl/maps/4y6c1iv3Zyt](https://goo.gl/maps/4y6c1iv3Zyt)
 
@@ -57,7 +57,7 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### June Lake Junction
 
-![June Lake Junction](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-09.jpg)
+![June Lake Junction](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-09.jpg)
 
 地點：[https://goo.gl/maps/rV3JyC5cgvN2](https://goo.gl/maps/rV3JyC5cgvN2)
 
@@ -65,8 +65,8 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ### The Buffet at Wynn
 
-![June Lake Junction](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-10.jpg)
-![June Lake Junction](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-11.jpg)
+![June Lake Junction](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-10.jpg)
+![June Lake Junction](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-11.jpg)
 
 地點：[https://goo.gl/maps/cLCRKcixvb32](https://goo.gl/maps/cLCRKcixvb32)
 
@@ -76,7 +76,7 @@ Wynn 飯店裡的 buffet 是拉斯維加斯中評價很高的 buffet，肉排海
 
 ### Hot N Juicy Crawfish
 
-![Hot N Juicy Crawfish](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-12.jpg)
+![Hot N Juicy Crawfish](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-12.jpg)
 
 地點：[https://goo.gl/maps/ae7moQqsCFU2](https://goo.gl/maps/ae7moQqsCFU2)
 
@@ -86,8 +86,8 @@ Crawfish 料理專賣店，crawfish 是我們俗稱的「小龍蝦」。這間�
 
 ### Gordon Ramsay Burger
 
-![Gordon Ramsay Burger](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-13.jpg)
-![Gordon Ramsay Burger](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-14.jpg)
+![Gordon Ramsay Burger](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-13.jpg)
+![Gordon Ramsay Burger](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-14.jpg)
 
 地點：[https://goo.gl/maps/3AoaEiq7r3q](https://goo.gl/maps/3AoaEiq7r3q)
 
@@ -109,8 +109,8 @@ Gordon Ramsay 是電視節目《地獄廚房》的主持人，本身旗下餐廳
 
 ### David Copperfield 魔術秀
 
-![David Copperfield](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-15.jpg)
-![David Copperfield](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-16.jpg)
+![David Copperfield](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-15.jpg)
+![David Copperfield](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-16.jpg)
 
 地點：[https://goo.gl/maps/Sn69TxfK1hx](https://goo.gl/maps/Sn69TxfK1hx)
 
@@ -120,7 +120,7 @@ David Copperfield 世上最著名的魔術師，許多大型魔術都是大家�
 
 ### Mystère by Cirque du Soleil
 
-![Mystère by Cirque du Soleil](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-17.jpg)
+![Mystère by Cirque du Soleil](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-17.jpg)
 
 由太陽馬戲團所演出的 Mystère，劇情上我其實沒有看得很懂，有些笑點我也不太懂就是。不過在特技方面真的很令人驚艷，尤其這陣子開始運動後才知道，那些動作的難度真的很誇張。沒有強大的肌肉、柔軟度以及協調性根本辦不到。特技方面真的讓我看得目瞪口呆，嚇死我了。
 
@@ -132,10 +132,10 @@ Mystère 是太陽馬戲團的 show 中最便宜的，但應該算是 CP 值最�
 
 ### The Venetian
 
-![The Venetian](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-18.jpg)
-![The Venetian](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-19.jpg)
-![The Venetian](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-20.jpg)
-![The Venetian](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-21.jpg)
+![The Venetian](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-18.jpg)
+![The Venetian](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-19.jpg)
+![The Venetian](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-20.jpg)
+![The Venetian](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-21.jpg)
 
 地點：[https://goo.gl/maps/DsYtwn3v9Tv](https://goo.gl/maps/DsYtwn3v9Tv)
 
@@ -143,9 +143,9 @@ Mystère 是太陽馬戲團的 show 中最便宜的，但應該算是 CP 值最�
 
 ### Paris Las Vegas
 
-![Paris Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-22.jpg)
-![Paris Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-23.jpg)
-![Paris Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-24.jpg)
+![Paris Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-22.jpg)
+![Paris Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-23.jpg)
+![Paris Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-24.jpg)
 
 地點：[https://goo.gl/maps/R3WYqEbLFBN2](https://goo.gl/maps/R3WYqEbLFBN2)
 
@@ -153,9 +153,9 @@ Mystère 是太陽馬戲團的 show 中最便宜的，但應該算是 CP 值最�
 
 ### Fountains of Bellagio Hotel
 
-![Fountains of Bellagio Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-25.jpg)
-![Fountains of Bellagio Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-26.jpg)
-![Fountains of Bellagio Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-27.jpg)
+![Fountains of Bellagio Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-25.jpg)
+![Fountains of Bellagio Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-26.jpg)
+![Fountains of Bellagio Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-27.jpg)
 
 地點：[https://goo.gl/maps/WKpnrUWFDy32](https://goo.gl/maps/WKpnrUWFDy32)
 
@@ -167,8 +167,8 @@ Bellagio Hotel 中文稱作「**百樂宮酒店**」。我沒有特別去裡面�
 
 ### Planet Hollywood Resort & Casino
 
-![Planet Hollywood Resort & Casino](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-28.jpg)
-![Planet Hollywood Resort & Casino](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-29.jpg)
+![Planet Hollywood Resort & Casino](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-28.jpg)
+![Planet Hollywood Resort & Casino](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-29.jpg)
 
 地點：[https://goo.gl/maps/5mB4c7m5h532](https://goo.gl/maps/5mB4c7m5h532)
 
@@ -178,7 +178,7 @@ Bellagio Hotel 中文稱作「**百樂宮酒店**」。我沒有特別去裡面�
 
 ### Welcome to Fabulous Las Vegas
 
-![Welcome to Fabulous Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-30.jpg)
+![Welcome to Fabulous Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-30.jpg)
 
 地點：[https://goo.gl/maps/vct7ZQmN1do](https://goo.gl/maps/vct7ZQmN1do)
 
@@ -186,11 +186,11 @@ Bellagio Hotel 中文稱作「**百樂宮酒店**」。我沒有特別去裡面�
 
 ### Luxor Hotel
 
-![Luxor Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-31.jpg)
-![Luxor Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-32.jpg)
-![Luxor Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-33.jpg)
-![Luxor Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-34.jpg)
-![Luxor Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-35.jpg)
+![Luxor Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-31.jpg)
+![Luxor Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-32.jpg)
+![Luxor Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-33.jpg)
+![Luxor Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-34.jpg)
+![Luxor Hotel](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-35.jpg)
 
 地點：[https://goo.gl/maps/WtApmTkeZBL2](https://goo.gl/maps/WtApmTkeZBL2)
 
@@ -198,29 +198,29 @@ Luxor Hotel，極盡奢華於一身的酒店，從名字就看得出來。把整
 
 ### 街景
 
-![Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-36.jpg)
-![Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-37.jpg)
-![Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-38.jpg)
-![Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-39.jpg)
+![Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-36.jpg)
+![Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-37.jpg)
+![Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-38.jpg)
+![Las Vegas](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-39.jpg)
 
 拉斯維加斯的街景非常華麗，隨處都可以看到很有趣的建築物。另外，每個路口幾乎都有電扶梯可以通行，所以不太需要等紅燈。
 
 ### 夜景 (Marriott's Grand Chateau)
 
-![Sky Bar of Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-40.jpg)
-![Sky Bar of Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-41.jpg)
+![Sky Bar of Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-40.jpg)
+![Sky Bar of Marriott's Grand Chateau](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-41.jpg)
 
 從 Marriott's Grand Chateau 的 sky bar 所拍攝的夜景，可以看到 MGM 酒店，還可以看到 Luxor 酒店的金字塔射出的光束。夜晚的拉斯維加斯比白天的更美，可以感受到這個城市的奢華。
 
 ### Hoover Dam
 
-![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-42.jpg)
-![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-43.jpg)
-![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-44.jpg)
-![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-45.jpg)
-![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-46.jpg)
-![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-47.jpg)
-![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-travel-west-us-part-3-las-vegas-hoover-dam-48.jpg)
+![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-42.jpg)
+![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-43.jpg)
+![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-44.jpg)
+![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-45.jpg)
+![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-46.jpg)
+![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-47.jpg)
+![Hoover Dam](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2017-10-18-2017-06-travel-west-us-part-3-las-vegas-hoover-dam-48.jpg)
 
 地點：[https://goo.gl/maps/Afk5P4Ar2HP2](https://goo.gl/maps/Afk5P4Ar2HP2)
 
@@ -252,7 +252,7 @@ Luxor Hotel，極盡奢華於一身的酒店，從名字就看得出來。把整
 
 官方網站：[http://www.premiumoutlets.com/outlet/las-vegas-south](http://www.premiumoutlets.com/outlet/las-vegas-south)
 
-下一篇：[[遊記] 美西自由行 Part 4 - 羚羊峽谷 + 馬蹄灣 + 大峽谷](https://blog.kuoe0.tw/posts/2017/10/19/travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon/)
+下一篇：[[遊記] 美西自由行 Part 4 - 羚羊峽谷 + 馬蹄灣 + 大峽谷](https://blog.kuoe0.tw/posts/2017/10/19/2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon/)
 
 
 
