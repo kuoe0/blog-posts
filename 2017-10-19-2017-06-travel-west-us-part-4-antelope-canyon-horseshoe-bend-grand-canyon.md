@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[遊記] 2017 Jun 美西自由行 Part 4 - 羚羊峽谷 + 馬蹄灣 + 大峽谷"
+title:  "[遊記] 2017 Jun. 美西自由行 Part 4 - 羚羊峽谷 + 馬蹄灣 + 大峽谷"
 date:   2017-10-17
 tags:   ["Travel", "United States"]
 image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-19-2017-06-travel-west-us-part-4-antelope-canyon-horseshoe-bend-grand-canyon.jpg"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[遊記] 2017 Jun 美西自由行 Part 1 - 舊金山"
+title:  "[遊記] 2017 Jun. 美西自由行 Part 1 - 舊金山"
 date:   2017-10-16
 tags:   ["Travel", "United States"]
 image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-16-2017-06-travel-west-us-part-1-san-francisco.jpg"
