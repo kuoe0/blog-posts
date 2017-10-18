@@ -3,7 +3,7 @@ layout: post
 title:  "[遊記] 2017 Jun. 美西自由行 Part 2 - 優勝美地"
 date:   2017-10-17
 tags:   ["Travel", "United States"]
-image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-17-2017-06-2017-06-travel-west-us-part-2-yosemite.jpg"
+image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2017-10-17-2017-06-travel-west-us-part-2-yosemite.jpg"
 ---
 
 上一篇：[[遊記] 美西自由行 Part 1 - 舊金山](https://blog.kuoe0.tw/posts/2017/10/16/2017-06-2017-06-travel-west-us-part-1-san-francisco/)
