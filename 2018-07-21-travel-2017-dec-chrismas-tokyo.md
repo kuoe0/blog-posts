@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[遊記] 2017 Dec. 聖誕月東京自由行 - 3.5 天"
+title:  "[遊記] 2017 Dec. 聖誕月東京自由行"
 date:   2018-07-21
 tags:   ["Travel", "Japan"]
 image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-photos/2018-07-21-travel-2017-dec-chrismas-tokyo.jpg"
@@ -20,7 +20,7 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ## 住宿
 
-### First Cabin Atagoyama 新橋愛宕山第一膠囊旅館
+### First Cabin Atagoyama 愛宕山第一膠囊旅館
 
 ![First Cabin Atagoyama](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2018-07-21-travel-2017-dec-chrismas-tokyo-01.jpg)
 
@@ -39,7 +39,7 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 ### 成田機場 ↔︎ First Cabin Atagoyama
 
 - 票價：JPY 1330（單程）
-- 時刻表：[時刻表/路線圖| 京成電鐵](http://www.keisei.co.jp/keisei/tetudou/skyliner/tc/timetable/index.php#narita1_ae)
+- 時刻表：[京成電鐵 - 時刻表/路線圖](http://www.keisei.co.jp/keisei/tetudou/skyliner/tc/timetable/index.php#narita1_ae)
 
 從成田機場要來回新橋站，最方便的大概就是搭乘「成田 Sky Access」。注意，要前往「新橋站」的話，要搭乘前往「羽田機場」方向的班次才能到達，別搭到前往「上野」的班次！
 
@@ -55,13 +55,13 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 已經忘了當時搭乘的班次是什麼線的電車了，印象中是直接從「新宿站」搭到「大月站」。再從「大月站」搭乘「富士急行線（特快）」前往「河口湖」。使用 Suica 搭車的話，轉「富士急行線（特快）」要另外付錢，忘了是  JPY 200 還是  JPY 400 了。而回程剛好搭乘到了「富士特急線」直接前往新宿站的班次，可以好好休息不用換車。來回時間大概花了七個小時，實在不建議當天來回。
 
-## 餐點
+## 餐飲
 
 ### TsuruTonTan 創作烏龍麵（六本木）
 
 ![TsuruTonTan](https://raw.githubusercontent.com/KuoE0/blog-assets/master/content-photos/2018-07-21-travel-2017-dec-chrismas-tokyo-03.jpg)
 
-地點：[https://goo.gl/maps/7QZ7sfDNMCP2](https://goo.gl/maps/7QZ7sfDNMCP2)
+- 地點：[https://goo.gl/maps/7QZ7sfDNMCP2](https://goo.gl/maps/7QZ7sfDNMCP2)
 
 由於這天晚上會在六本木，所以就隨便 Google 了一下附近不錯的店家。看到這個比臉還要大的豆皮，就已心動決定要吃這間了！這間店也非常熱門，十點到也要等個半小時才有空位。點了碗豆皮烏龍麵、雞肉以及啤酒，大約 NTD 500 左右。我原本以為我點的雞肉是額外的雞肉，結果是烏龍麵的配料！
 
@@ -116,7 +116,7 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 在六本木之丘其實有兩個觀景台，分別為室內的 Tokyo City View 以及露天的 Sky Deck。我只有待在 Tokyo City View 而已，並沒有上去露天的 Sky Deck。主要是 Sky Deck 不能使用腳架，而且還要加 JPY 500，夜景不能使用腳架對我來說就沒有吸引力了。但是在室內也有缺點，就是玻璃反光嚴重。建議可以攜帶黑布或使用深色外套遮蔽，才能拍出不被反光影響的夜景照片。
 
-此外，東京鐵塔的點燈色彩也會因為季節、時間或是事件有所改變，像是週六晚上 20:00 ~ 22:00 前往觀賞的話就有機會觀賞到七彩的東京鐵塔。更多點燈的資訊可以參考「[點燈| 東京鐵塔TokyoTower - 東京タワー](https://www.tokyotower.co.jp/lightup/zh.php)」。
+此外，東京鐵塔的點燈色彩也會因為季節、時間或是事件有所改變，像是週六晚上 20:00 ~ 22:00 前往觀賞的話就有機會觀賞到七彩的東京鐵塔。更多點燈的資訊可以參考「[點燈 - 東京鐵塔TokyoTower - 東京タワー](https://www.tokyotower.co.jp/lightup/zh.php)」。
 
 ### 森美物館
 
