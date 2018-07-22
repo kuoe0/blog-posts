@@ -8,6 +8,8 @@ image: "https://raw.githubusercontent.com/kuoe0/blog-assets/master/feature-photo
 
 華盛頓特區大概是有常看好萊塢電影的人都會滿熟的，畢竟是美國首府以及白宮所在之處，各種災難、犯罪電影都一定要來這糟蹋一番！本來打算在紐約待兩週，結果不小心被同行友人說服就多花了不少時間跟金錢前來 D.C. 三日遊。雖然正值聖誕季節，街上也有些聖誕裝飾，但這裡並沒有讓我感覺到有什麼喜慶的氣氛。還有這裡博物館跟許多導覽都是免費的，而且幾乎都集中在華盛頓紀念碑周圍，整體的旅遊感受相當不錯！
 
+---
+
 ## 行程總覽
 
 日期 | 行程
@@ -16,6 +18,8 @@ image: "https://raw.githubusercontent.com/kuoe0/blog-assets/master/feature-photo
 12/20 | Hotel → Ford's Theatre → FBI → National Archives Building → Smithsonian National Museum of Natural History →  Washington Monument → World War II Memorial → Vietnam Veterans Memorial → Albert Einstein Memorial → Lincoln Memorial → National Christmas Tree → Old Ebbitt Grill → Hotel
 12/21 | Hotel → United States Capitol → Library of Congress → Smithsonian National Air and Space Museum → Tidal Basin → Daikaya- Ramen → Hotel
 12/22 | Hotel → United States Department of the Treasury → Lafayette Square → Union Station (DC) → Penn Station (NY)
+
+---
 
 ## 住宿
 
@@ -30,6 +34,8 @@ image: "https://raw.githubusercontent.com/kuoe0/blog-assets/master/feature-photo
 
 兩張雙人床其實可以睡四人，不過我們只睡兩個人有點奢侈就是。房間廁所都還滿乾淨的，空間也不算太小。距離地鐵站步行也五分鐘內可以到，相當方便！但我至今仍然不懂美國飯店為何都沒有大燈，永遠都只有桌燈、床頭燈，導致房間都暗暗的。
 
+---
+
 ## 交通
 
 ### New York ↔︎ Washington D.C.
@@ -43,6 +49,8 @@ image: "https://raw.githubusercontent.com/kuoe0/blog-assets/master/feature-photo
 ### Washington D.C. 市區
 
 在 D.C. 市區內的話，基本上靠地鐵跟公車就很夠了。可以先到地鐵購票機購買 SmarTrip 悠遊卡並儲值，靠這張卡就可以暢行無阻了。
+
+---
 
 ## 餐飲
 
@@ -59,6 +67,8 @@ image: "https://raw.githubusercontent.com/kuoe0/blog-assets/master/feature-photo
 - 地點：https://goo.gl/maps/ihjBvaqwAnS2
 
 在歐美國家實在很少熱湯類型的餐點，所以我都會特地找尋拉麵店。這間也是在 Yelp 上評價相當不錯的拉麵店，如果不考慮菜單說這叫做「醬油拉麵」的話，我覺得還算不差。但把「台南擔仔叉燒拉麵」叫做「醬油拉麵」我覺得不行。這碗麵充滿了肉燥與豆芽菜，味道根本就是擔仔麵。不同的點只有麵條是拉麵，以及多了兩片叉燒。不過儘管這樣，我覺得這碗拉麵是我在 DC 吃的食物中最好吃的了。而且我相信這應該是這附近非常不錯的拉麵了，因為我們排了快ㄧ個小時才吃到。
+
+---
 
 ## 景點
 

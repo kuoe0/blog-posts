@@ -8,6 +8,8 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 這次出差來到德州的 Austin，原定地點是墨西哥的 Cancun，改到 Austin 實在落差很大。事前做了做功課，Austin 似乎沒什麼特別好玩的地方。實際在這待了幾天，真的是沒什麼特別好玩的地方，但是個很適合放鬆的城市。雖然貴為德州首府，但整體發展不像是個都市，生活步調也相當悠哉，倒是覺得挺適合生活的。不過路上遊民也滿多的，實在也不敢一個人到處遊蕩。
 
+---
+
 ## 行程總覽
 
 日期 | 行程
@@ -17,10 +19,13 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 12/17 | Hyatt → Texas Capitol → HOPE Outdoor Gallery → Lou Neff Point → Hyatt
 12/18 | Hyatt → UT Austin → LBJ Presidential Library → Barton Creek Sqaure → Hyatt
 
+---
 
 ## 交通
 
 在 Austin 市區內公車還算方便，可以直接使用 [CapMetro App](https://www.capmetro.org/app/) 購票（信用卡付款），搭乘公車時出示這個 app 車票資訊即可搭乘。
+
+---
 
 ## 住宿
 
@@ -42,6 +47,8 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 住這間主因是想找距離河邊不要太遠的飯店，看來看去這間價格還算可接受，所以就住這了。房間基本上不算很新，但還算乾淨。房裡還提供沙發床，所以實際上可以住三人。
 
+---
+
 ## 餐飲
 
 ### Perry's Steakhouse & Grille
@@ -51,6 +58,8 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 - 地點：[https://goo.gl/maps/h3uGSkcSRaR2](https://goo.gl/maps/h3uGSkcSRaR2)
 
 來德州一定要吃牛排的，推薦這間評價不錯的餐廳。牛排烤的外酥內軟相當不錯！
+
+---
 
 ## 景點
 
@@ -134,6 +143,8 @@ US Austin 的 CS 是全美前十名的大學之一，想必是 Austin 太無聊�
 
 Austin 到處都可以看到許多街頭塗鴉，很多繪製的都相當精美。在 UT Austin 旁的商場附近，有一幅繪製了整個德州幾個著名的城市們。還有繪製於鐵軌專用橋的塗鴉，實在不知道這些人怎麼到上面去畫的...。路上還經過一間奇怪的飯店，用假人做裝飾超詭異...orz。
 
+---
+
 ## 購物
 
 ### Yeti
@@ -149,6 +160,8 @@ Austin 到處都可以看到許多街頭塗鴉，很多繪製的都相當精美�
 - 地點：[https://goo.gl/maps/NG5zvajBUzE2](https://goo.gl/maps/NG5zvajBUzE2)
 
 位於郊區的百貨公司，搭公車前往要 1 個小時相當遙遠。沒有什麼特別的東西，不建議特地前往。我們是已經無聊到不知道要去哪了，只好浪費時間搭公車去晃晃。
+
+---
 
 ## 活動
 
