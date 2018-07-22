@@ -8,6 +8,15 @@ image: "https://raw.githubusercontent.com/kuoe0/blog-assets/master/feature-photo
 
 華盛頓特區大概是有常看好萊塢電影的人都會滿熟的，畢竟是美國首府以及白宮所在之處，各種災難、犯罪電影都一定要來這糟蹋一番！本來打算在紐約待兩週，結果不小心被同行友人說服就多花了不少時間跟金錢前來 D.C. 三日遊。雖然正值聖誕季節，街上也有些聖誕裝飾，但這裡並沒有讓我感覺到有什麼喜慶的氣氛。還有這裡博物館跟許多導覽都是免費的，而且幾乎都集中在華盛頓紀念碑周圍，整體的旅遊感受相當不錯！
 
+## 行程總覽
+
+日期 | 行程
+----|----
+12/19 | Austin → EWR Airport → Penn Station (NY) → Union Station (DC) → Hotel
+12/20 | Hotel → Ford's Theatre → FBI → National Archives Building → Smithsonian National Museum of Natural History →  Washington Monument → World War II Memorial → Vietnam Veterans Memorial → Albert Einstein Memorial → Lincoln Memorial → National Christmas Tree → Old Ebbitt Grill → Hotel
+12/21 | Hotel → United States Capitol → Library of Congress → Smithsonian National Air and Space Museum → Tidal Basin → Daikaya- Ramen → Hotel
+12/22 | Hotel → United States Department of the Treasury → Lafayette Square → Union Station (DC) → Penn Station (NY)
+
 ## 住宿
 
 ### Hamilton Hotel - Washington D.C.
