@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2017 Dec. Washington D.C. 三日自由行"
+title: "[遊記] 2017 Dec. Washington D.C. 三日自由行"
 date: 2018-07-23
 tags: ["Travel", "United States"]
 image: "https://raw.githubusercontent.com/kuoe0/blog-assets/master/feature-photos/2018-07-23-travel-2017-dec-washington-dc.jpg"
@@ -258,7 +258,6 @@ Tidal Basin 是位於華盛頓紀念碑與傑佛遜紀念堂之間的人造湖�
 這趟 D.C. 之旅的結尾就是前往聯合車站準備搭 Amtrak 回到紐約去，聯合車站也因為聖誕節的緣故裝飾了些聖誕花圈，車站內還擺放了一顆大大的聖誕樹。聯合車站的建築上可以發現很多拱型的設計，入口就是三個大拱門以及左右兩邊各是一條深邃的拱廊。進到車站內部，大廳也是由半圓形的拱形構成其屋頂。
 
 話說在等前往聯合車站的公車時，有個美國人突然跑來跟我們聊天。他說他在 D.C. 住了非常多年，說到這裡不分日夜的直升機飛來飛去很惱人，尤其川普上任後直升機飛來飛去的頻率更甚以往。還問我們喜不喜歡川普...不要在有直升機飛來飛去的地方挖洞給別人跳好嗎ＸＤ
-
 
 
 
