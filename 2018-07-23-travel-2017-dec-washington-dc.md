@@ -21,6 +21,12 @@ image: "https://raw.githubusercontent.com/kuoe0/blog-assets/master/feature-photo
 
 ---
 
+## 天氣
+
+12 月中的 D.C. 也是挺冷的，氣溫約落在 4°C ~ 15°C 之間。一件發熱衣、一件毛衣以及刷毛風衣外套大致上都還撐得住。但如果想要在林肯紀念堂的階梯待很久的話，還是建議再多穿一點。
+
+---
+
 ## 住宿
 
 ### Hamilton Hotel - Washington D.C.

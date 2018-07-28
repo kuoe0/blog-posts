@@ -21,6 +21,12 @@ image:  "https://raw.githubusercontent.com/KuoE0/blog-assets/master/feature-phot
 
 ---
 
+## 天氣
+
+Austin 天氣大概是一天給你四季這樣，最高溫可以到 22°C，最低溫可以到 3°C，溫差真的很大。不過平均溫度來說，對習慣在台灣生活的人來說應該還是有些涼的。在這一個多禮拜，我都是穿短袖上衣，並加上一件風衣外套。除了某天突然氣溫驟降，公司還在郊區辦 party，我真的覺得我快凍死在戶外了。
+
+---
+
 ## 交通
 
 在 Austin 市區內公車還算方便，可以直接使用 [CapMetro App](https://www.capmetro.org/app/) 購票（信用卡付款），搭乘公車時出示這個 app 車票資訊即可搭乘。
