@@ -1,5 +1,3 @@
-# [遊記] 2017 Dec. 聖誕紐約自由行 12 日 - Part 1
-
 ---
 layout: post
 title: "[遊記] 2017 Dec. 聖誕紐約自由行 12 日 - Part 1"
